@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_cbe49ba6-a5d6-3567-a827-2e4e48b5e780" source="Tamboti-Importer" href="hra-imageserver://kjc-sv016/commons/Abou_Naddara/documents/1911_Retraite_de_Sanua/1911_0009_000_009.tif">
+        <titleSet>
+            <title type="generalView">1911_0009_000_009.tif (image record)</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_456da153-ad70-36d5-b345-0e0d39b63ebc" source="Tamboti-Importer">full view</relation>
+        </relationSet>
+    </image>
+</vra>

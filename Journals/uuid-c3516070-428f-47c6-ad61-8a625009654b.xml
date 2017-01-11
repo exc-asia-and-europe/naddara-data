@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-c3516070-428f-47c6-ad61-8a625009654b">
+    <titleInfo lang="eng">
+        <title>1907</title>
+    </titleInfo>
+    <location>
+        <url displayLabel="Path to Folder">1907</url>
+    </location>
+    <relatedItem xlink:href="#uuid-34a1979d-ce93-4620-a6b9-7dae7b4ea12c" displayLabel="Part of published series" type="series"/>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+</mods>

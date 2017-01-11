@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-90837ce8-3a58-4751-92c2-021d0dbaadea">
+    <titleInfo lang="ara" script="arab">
+        <title>المنصِف
+</title>
+        <subTitle> جريدة سياسية ادبية تجارية</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>al-munṣif
+</title>
+        <subTitle>garīda siyāsīya adabīya tigarīya</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>L'Almonsef 
+</title>
+        <subTitle>L'Équitable
+D'Abou Naddara
+Journal politique, littéraire et commercial</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Righteous One
+</title>
+        <subTitle>Political, literary and economical Journal</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1899</dateIssued>
+        <dateIssued displayLabel="Western date as printed">15 Mars 1899</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed">باريس في ٣ ذي القعدة سنة ١٣١٦</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed"/>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">Première Année
+Fondateur
+Directeur et rédacteur en Chef J. Sanua Abou Naddara
+6, Rue Geoffroy -Marie, Paris</note>
+    <note type="edition" displayLabel="Additional Arabic date information">السنة الاولى
+جريدة سياسية ادبية تجارية مديرها و محررها الشيخ ج.سانواابونظارة المصري بباريس بشارع "جوفرواماري نمرة ٦"</note>
+    <relatedItem xlink:href="#uuid-65a7570b-f549-46ea-b1ce-6e9af6e07307" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>2</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٢</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list/>
+            </extent>
+            <date encoding="w3cdtf">1899-03-15</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_002</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">yes</western_sorting>
+            <Jahr displayLabel="Year">1899</Jahr>
+            <Monat displayLabel="Month">3</Monat>
+            <Tag displayLabel="Day">15</Tag>
+            <UUID displayLabel="UUID of this record">90837ce8-3a58-4751-92c2-021d0dbaadea</UUID>
+            <host_folder displayLabel="folder-name of host record">3_L-Almonsef_issues-001-007</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_da67d24a-5a3e-3f93-9150-3835380dbbe6">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_da67d24a-5a3e-3f93-9150-3835380dbbe6</identifier>
+        <titleInfo>
+            <title>1899_0023_002_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c37759d1-3379-3e29-985b-0ca5fec7dcf9">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_c37759d1-3379-3e29-985b-0ca5fec7dcf9</identifier>
+        <titleInfo>
+            <title>1899_0024_002_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ecc7f5cb-aac3-3b3b-9443-86de7556a3f6">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_ecc7f5cb-aac3-3b3b-9443-86de7556a3f6</identifier>
+        <titleInfo>
+            <title>1899_0025_002_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c004ac6f-61fe-355c-b81c-0f8a28cd4d9e">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_c004ac6f-61fe-355c-b81c-0f8a28cd4d9e</identifier>
+        <titleInfo>
+            <title>1899_0026_002_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

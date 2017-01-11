@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-cf85909d-8425-4fc9-9d5c-6839ea555d2e">
+    <titleInfo lang="ara" script="arab">
+        <title>أَبُو نَظَّارَة زَرْقَا.
+
+</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title> abū naẓẓāra zarqā 
+
+</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title> Journal d'Abou Naddara </title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Man with the Blue Glasses
+
+</title>
+        <subTitle/>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1879</dateIssued>
+        <dateIssued displayLabel="Western date as printed"/>
+        <dateIssued displayLabel="Arabic date as printed">يوم الثلاثا ٩ سبتمبر ١٨٧٩ </dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed">(٩٣-٩٦)=(93-96)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information"/>
+    <note type="edition" displayLabel="Additional Arabic date information">السنة الثالثة.</note>
+    <relatedItem xlink:href="#uuid-0023da71-e667-4f79-a27e-50b11b09613b" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>24</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٢٤</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list>(٩٣-٩٦)=(93-96)</list>
+            </extent>
+            <date encoding="w3cdtf">1879-09-09</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_024</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">no</western_sorting>
+            <Jahr displayLabel="Year">1879</Jahr>
+            <Monat displayLabel="Month">09</Monat>
+            <Tag displayLabel="Day">09</Tag>
+            <UUID displayLabel="UUID of this record">cf85909d-8425-4fc9-9d5c-6839ea555d2e</UUID>
+            <host_folder displayLabel="folder-name of host record">1_Abou-Naddara-Zarqa_issues-001-030</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8d9cf8b4-0164-3657-9103-f6e5c4484e3d">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_8d9cf8b4-0164-3657-9103-f6e5c4484e3d</identifier>
+        <titleInfo>
+            <title>1879_0094_024_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a9fdd1f5-f14f-3a8b-9ed0-b94c6eccfbba">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_a9fdd1f5-f14f-3a8b-9ed0-b94c6eccfbba</identifier>
+        <titleInfo>
+            <title>1879_0095_024_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c29cc4f8-e319-3200-9ccd-62474bc86b06">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_c29cc4f8-e319-3200-9ccd-62474bc86b06</identifier>
+        <titleInfo>
+            <title>1879_0096_024_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f1ff621d-7f81-384e-97cb-e0ae34b79d89">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_f1ff621d-7f81-384e-97cb-e0ae34b79d89</identifier>
+        <titleInfo>
+            <title>1879_0097_024_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

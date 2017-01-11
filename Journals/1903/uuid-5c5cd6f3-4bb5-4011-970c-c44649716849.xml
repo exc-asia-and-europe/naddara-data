@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-5c5cd6f3-4bb5-4011-970c-c44649716849">
+    <titleInfo lang="fre">
+        <title>Le Journal d'Abou Naddara</title>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm lang="eng" type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf">1903</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="issues" displayLabel="Number of issues within this series">&gt;5</extent>
+        <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (5 issues)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">journal</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (5 issues)</note>
+    <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
+    <note type="edition" displayLabel="Text on cover in Western language">Journal oriental illustré<br/>
+Album de l'année 1903<br/>
+27ème Année<br/>
+Sympathisons et prospérons <br/>
+L'Abou Naddara "L'Abou Naddara", "L'Attawadod", "L'Almonsef" réunis <br/>
+Administration et Rédaction <br/>
+6, Rue Richer. Paris<br/>
+Année 1903</note>
+    <note type="edition" displayLabel="Text on cover in Arabic">السنة السابعة والعشرون 
+سمادى الشعوب
+في صفاء القلوب
+جريدة تصويرية فكاهية 
+مديرها ابو نظارة 
+بباريس ٤٣ شارع ريشه
+مجموع جرائدي لعام ١٩٠٣</note>
+    <relatedItem xlink:href="#uuid-e38b1a36-42ed-4b74-b9c7-ca528f0cb1e1" displayLabel="Part of published series" type="series"/>
+    <location>
+        <url displayLabel="Path to Folder">1_Le-Journal-d-Abou-Naddara_issues-001-005</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_06488445-752d-3439-8790-ba264b75dfb6">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>48</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_4ebbdf12-6dd6-352e-9525-2613f394a7bf">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

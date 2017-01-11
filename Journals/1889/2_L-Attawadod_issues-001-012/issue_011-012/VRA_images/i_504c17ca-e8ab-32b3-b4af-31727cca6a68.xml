@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_504c17ca-e8ab-32b3-b4af-31727cca6a68" source="Tamboti-Importer" href="hra-imageserver://kjc-sv016/commons/Abou_Naddara/Journals/1889/2_L-Attawadod_issues-001-012/issue_011-012/1889_0103_011-012_007.tif">
+        <titleSet>
+            <title type="generalView">1889_0103_011-012_007.tif (image record)</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_e4b0917c-d438-303e-a33f-cf31a02c9973" source="Tamboti-Importer">full view</relation>
+        </relationSet>
+    </image>
+</vra>

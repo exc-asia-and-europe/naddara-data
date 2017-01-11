@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-f8e7c833-977e-4662-8319-e75c824cc2bc">
+    <titleInfo lang="ara" script="arab">
+        <title> الحاوي
+
+</title>
+        <subTitle>الحاوي الكاوي اللي يطلع من البحر الداوي عجايب النكت للكسلان والغاوي ويرمي.  […]الغشاش في الجبّ الهاوي. </subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>al-ḥāwī
+
+</title>
+        <subTitle>al-ḥāwī l-kāwī illī yiṭlaʿ min al-baḥr ad-dāwī ʿagāīb an-nukat li-l-kaslān wa-l-ghāwī wa-yirmī l-ghashshāsh fī-l-gibb al-hāwī.</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>LE CHARMEUR
+</title>
+        <subTitle>LIBERTÉ, EGALITÉ, FRATERNITÉ</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Charmer</title>
+        <subTitle>The caustic who takes out pleasing jokes from the curative sea for the lazy [one] and the enthusiastic [one] and who throws the traitor into a big airy hole.</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1880</dateIssued>
+        <dateIssued displayLabel="Western date as printed"/>
+        <dateIssued displayLabel="Arabic date as printed"/>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">122</extent>
+        <note lang="eng" displayLabel="Page range as printed">(١-١٢٢)=(1-122)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">5ème Année</note>
+    <note type="edition" displayLabel="Additional Arabic date information">أَلسَنَةُ الخاَمِسَة</note>
+    <relatedItem xlink:href="#uuid-e3d4bbb1-4812-4358-bc91-3d4e710d5251" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>unidentified issue</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number"/>
+            </detail>
+            <extent unit="pages">
+                <total>122</total>
+                <list>(١-١٢٢)=(1-122)</list>
+            </extent>
+            <date encoding="w3cdtf">1880</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue-001</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">no</western_sorting>
+            <Jahr displayLabel="Year">1880</Jahr>
+            <Monat displayLabel="Month">09/10</Monat>
+            <Tag displayLabel="Day">22</Tag>
+            <UUID displayLabel="UUID of this record">f8e7c833-977e-4662-8319-e75c824cc2bc</UUID>
+            <host_folder displayLabel="folder-name of host record">1_Al-Hawi_Le-Charmeur_issue-001</host_folder>
+        </e:naddara>
+    </extension>
+</mods>

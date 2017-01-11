@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-005cd393-bc31-47e0-9024-d9b063567ae1">
+    <titleInfo lang="ara" script="arab">
+        <title>أبو نظارة 
+لِسان حَال الاُمّةِ
+
+</title>
+        <subTitle> المَصريَّة الحُرّة</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>abū naẓẓāra</title>
+        <subTitle>lisān ḥāl al-umma l-miṣrīya l-ḥurra</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>ABOU-NADDARA
+Numéro 8
+</title>
+        <subTitle>ORGANE DE LA JEUNESSE D’EGYPTE
+5ème Année</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Man with the Glasses</title>
+        <subTitle>Mouthpiece of the free Egyptian nation</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1881</dateIssued>
+        <dateIssued displayLabel="Western date as printed"/>
+        <dateIssued displayLabel="Arabic date as printed"/>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">8</extent>
+        <note lang="eng" displayLabel="Page range as printed">(١٧٥-١٨٢)=(175-182)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">5ème Année</note>
+    <note type="edition" displayLabel="Additional Arabic date information">أَلسَنَةُ الخاَمِسَة</note>
+    <relatedItem xlink:href="#uuid-f379aa6b-7f8b-42f8-86c7-5f1412cec3c4" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>08</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number"/>
+            </detail>
+            <extent unit="pages">
+                <total>8</total>
+                <list>(١٧٥-١٨٢)=(175-182)</list>
+            </extent>
+            <date encoding="w3cdtf">1881-09</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_008</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">no</western_sorting>
+            <Jahr displayLabel="Year">1881</Jahr>
+            <Monat displayLabel="Month">09</Monat>
+            <Tag displayLabel="Day"/>
+            <UUID displayLabel="UUID of this record">005cd393-bc31-47e0-9024-d9b063567ae1</UUID>
+            <host_folder displayLabel="folder-name of host record">3_Abou-Naddara_issues-001-015</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d5b81a1a-3dbe-36ab-95c7-19076d0700b4">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_d5b81a1a-3dbe-36ab-95c7-19076d0700b4</identifier>
+        <titleInfo>
+            <title>1881_0176_008_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_437a1765-2a1a-39d7-8dc5-8d66bed6849c">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_437a1765-2a1a-39d7-8dc5-8d66bed6849c</identifier>
+        <titleInfo>
+            <title>1881_0177_008_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7f0e04af-dc9a-360a-9f3e-743a3810984e">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_7f0e04af-dc9a-360a-9f3e-743a3810984e</identifier>
+        <titleInfo>
+            <title>1881_0178_008_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_91049f19-b5c8-38d5-b8b9-10c17bf915b9">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_91049f19-b5c8-38d5-b8b9-10c17bf915b9</identifier>
+        <titleInfo>
+            <title>1881_0179_008_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f8663e19-43d3-39df-b725-722c4a7afea3">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_f8663e19-43d3-39df-b725-722c4a7afea3</identifier>
+        <titleInfo>
+            <title>1881_0180_008_005.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="5">
+                <number>5</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2f1ee316-7142-3816-a937-6839242dde72">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_2f1ee316-7142-3816-a937-6839242dde72</identifier>
+        <titleInfo>
+            <title>1881_0181_008_006.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="6">
+                <number>6</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3ec3e539-9f6c-3b3f-b601-a987822e753c">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_3ec3e539-9f6c-3b3f-b601-a987822e753c</identifier>
+        <titleInfo>
+            <title>1881_0182_008_007.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="7">
+                <number>7</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8c50f780-663c-3e5d-b224-8d954730ad28">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_8c50f780-663c-3e5d-b224-8d954730ad28</identifier>
+        <titleInfo>
+            <title>1881_0183_008_008.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="8">
+                <number>8</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

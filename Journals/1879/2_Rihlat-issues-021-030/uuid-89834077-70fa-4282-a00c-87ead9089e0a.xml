@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-89834077-70fa-4282-a00c-87ead9089e0a">
+    <titleInfo lang="ara" script="arab">
+        <title>رحْلَة ابي نَظّارَة زَرْقَا الوليّ مِن</title>
+        <subTitle>مِن رحْلَة ابي نَظّارَة زَرْقَا المُشْتَمِلَة عَلىَ ثلاثينْ نُمرَة و قيِمَتُهَا خَمْسَة و عشرِين فرَنكْ تُرْسَل سَلَفاً اِلى مُنشِيهَا الخَواجَا چِمْس سانووا لِعنوانه المُحرّر كَمَا يأتي أدناه.</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>min riḥlat abī naẓẓāra zarqā </title>
+        <subTitle>l-mushtamila ʿalā thalāthīn numra wa-qīmatuhā khamsa wa-ʿishrīn frankan tursal sulfan li munshīha l-khawāgā chams sānūwā li-ʿunwānihi l-muḥarrir adnāhu bi-l-faransāwīya
+</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title/>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Number twenty-three of the Man with the Blue Glasses’ Journey</title>
+        <subTitle>Which encompasses thirty numbers, and its price is twenty-five franks, which have to be sent by credit  to the honorable Khawāga James Sanua’s address such as he puts it below in French:
+Prof. James Sanua 45 rue d’Enghien Paris</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1879</dateIssued>
+        <dateIssued displayLabel="Western date as printed"/>
+        <dateIssued displayLabel="Arabic date as printed"/>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed">(٨٩-٩٢)=(89-92)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information"/>
+    <note type="edition" displayLabel="Additional Arabic date information"/>
+    <relatedItem xlink:href="#uuid-dd471d2d-7d26-403d-ac44-cecd9ddcd22f" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>23</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">النمرة الثالثَةْ والعِشرين</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list>(٨٩-٩٢)=(89-92)</list>
+            </extent>
+            <date encoding="w3cdtf">1879-01-23</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_023</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">no</western_sorting>
+            <Jahr displayLabel="Year">1879</Jahr>
+            <Monat displayLabel="Month">01</Monat>
+            <Tag displayLabel="Day">23</Tag>
+            <UUID displayLabel="UUID of this record">89834077-70fa-4282-a00c-87ead9089e0a</UUID>
+            <host_folder displayLabel="folder-name of host record">2_Rihlat-issues-021-030</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1cede3c0-31d2-3402-90cf-e806e0812e4d">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_1cede3c0-31d2-3402-90cf-e806e0812e4d</identifier>
+        <titleInfo>
+            <title>1879_0090_023_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6a2f668a-544b-3f7d-8b86-063fa77af246">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_6a2f668a-544b-3f7d-8b86-063fa77af246</identifier>
+        <titleInfo>
+            <title>1879_0091_023_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5d056609-bd2a-3d44-b144-af880a0ca0a0">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_5d056609-bd2a-3d44-b144-af880a0ca0a0</identifier>
+        <titleInfo>
+            <title>1879_0092_023_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_260f3abf-e026-3c06-8881-5b5bcd79057f">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_260f3abf-e026-3c06-8881-5b5bcd79057f</identifier>
+        <titleInfo>
+            <title>1879_0093_023_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

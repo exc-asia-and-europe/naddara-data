@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-cd2f22ce-e213-488d-a04c-cca2918855dd">
+    <titleInfo lang="ara" script="arab">
+        <title>جريدة ابي نظارة</title>
+        <subTitle>مصر للمصرين</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>garīdat abī naẓẓāra</title>
+        <subTitle>miṣr li-l-miṣrīyn</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>Le Journal d'Abou Naddara</title>
+        <subTitle>Abou Naddara
+L'Egypte aux Egyptiens</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Journal of the Man with the  Glasses</title>
+        <subTitle>Egypt for the Egyptians</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1891</dateIssued>
+        <dateIssued displayLabel="Western date as printed">Paris, le 25 Novembre 1891</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed">باريس في ٢٥ نوﭭامبر سنة ١٨٩١</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed"/>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">15ème Année
+Directeur et rédacteur en Chef J. Sanua Abou Naddara
+6, Rue Geoffroy -Marie, Paris</note>
+    <note type="edition" displayLabel="Additional Arabic date information">جريدة ابي نظارة
+السنة الخامسة عشر
+مدير الجريدة و محررها الاول 
+الشيخ ج. سانوا ابو نظارة نمرة ٦ رو جوفروا ماري باريس </note>
+    <relatedItem xlink:href="#uuid-5c9a5b50-4824-4f51-9921-3d7850232784" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>14</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١٤</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list/>
+            </extent>
+            <date encoding="w3cdtf">1891-11-25</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_014</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">yes</western_sorting>
+            <Jahr displayLabel="Year">1891</Jahr>
+            <Monat displayLabel="Month">11</Monat>
+            <Tag displayLabel="Day">25</Tag>
+            <UUID displayLabel="UUID of this record">cd2f22ce-e213-488d-a04c-cca2918855dd</UUID>
+            <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-015</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_06b94826-8f01-3e32-9935-30cb9b2b3e11">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_06b94826-8f01-3e32-9935-30cb9b2b3e11</identifier>
+        <titleInfo>
+            <title>1891_0055_014_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e1f8a4d3-3fa3-35d2-bf20-78e6a146dcaf">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_e1f8a4d3-3fa3-35d2-bf20-78e6a146dcaf</identifier>
+        <titleInfo>
+            <title>1891_0056_014_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_46b6bfe4-6b60-3944-8e8a-907d1b8fece6">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_46b6bfe4-6b60-3944-8e8a-907d1b8fece6</identifier>
+        <titleInfo>
+            <title>1891_0057_014_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_675bc090-c8ba-32b2-a862-c29144301e4a">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_675bc090-c8ba-32b2-a862-c29144301e4a</identifier>
+        <titleInfo>
+            <title>1891_0058_014_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

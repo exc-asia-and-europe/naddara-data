@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-91e2cdf8-e43e-41f2-a57f-9805c34a02da">
+    <titleInfo lang="ara" script="arab">
+        <title>أَلسَنَةُ الرابعة 
+أَبو صَفَّارَة
+
+</title>
+        <subTitle>جريدة هزلية اسبوعية لانبساط الشبان المصرية يحفظهم رب البرية من الظالم الفرعونية منشئها محب لاستقلال والحرية.</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>as-sana r-rābiʿa
+abū ṣuffāra 
+</title>
+        <subTitle>garīda hazlīya usbūʿīya l-inbisāṭ ash-shubbān al-miṣrīya, yaḥfaẓhum rabb al-barīya min aẓ-ẓālim al-farʿaūnīya, munshīʾhā muḥibb al-istiqlāl wa-l-hurrīya.
+</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>LE FLUTISTE</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Man with the Flute
+</title>
+        <subTitle>Humorous weekly magazine for the entertainment of the Egyptian youth, may the Lord of the creation save them from the Pharaonic tyrant, its founder [of the journal] is a lover of independence and freedom.</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1880</dateIssued>
+        <dateIssued displayLabel="Western date as printed"/>
+        <dateIssued displayLabel="Arabic date as printed">باريس في ٤ جونيو سنة ١٨٨٠</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed">(١٦١-١٦٤)=(161-164)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">4ème Année</note>
+    <note type="edition" displayLabel="Additional Arabic date information">السنة ٤</note>
+    <relatedItem xlink:href="#uuid-82bed0b1-1864-4c6d-a331-828f42cd8ba0" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>01</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد اول</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list>(١٦١-١٦٤)=(161-164)</list>
+            </extent>
+            <date encoding="w3cdtf">1880-06-04</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_001</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">no</western_sorting>
+            <Jahr displayLabel="Year">1880</Jahr>
+            <Monat displayLabel="Month">06</Monat>
+            <Tag displayLabel="Day">04</Tag>
+            <UUID displayLabel="UUID of this record">91e2cdf8-e43e-41f2-a57f-9805c34a02da</UUID>
+            <host_folder displayLabel="folder-name of host record">2_Abu-Saffara_issues-001-003</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8292edd2-ec99-307b-a83d-fe27995a0eea">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_8292edd2-ec99-307b-a83d-fe27995a0eea</identifier>
+        <titleInfo>
+            <title>1880_0162_001_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c367cbad-4305-31b6-bc27-8cc7254cca6c">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_c367cbad-4305-31b6-bc27-8cc7254cca6c</identifier>
+        <titleInfo>
+            <title>1880_0163_001_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0176b545-aa59-3ca6-9625-a6d93b22afa6">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_0176b545-aa59-3ca6-9625-a6d93b22afa6</identifier>
+        <titleInfo>
+            <title>1880_0164_001_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2c35f054-a1e9-3b59-8d67-6d9fe2a34ee5">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_2c35f054-a1e9-3b59-8d67-6d9fe2a34ee5</identifier>
+        <titleInfo>
+            <title>1880_0165_001_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

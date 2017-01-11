@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-d4b8ee0c-dcbe-4811-84ce-f60e07f0dac2">
+    <titleInfo lang="ara" script="arab">
+        <title>التودد
+</title>
+        <subTitle>جريدة  شرقية عربية</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>at-tawaddud
+</title>
+        <subTitle>garīda šarqīya arabīya</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>L'Attawadod d'Abou Naddara
+</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Let's Corroborate
+</title>
+        <subTitle>Eastern Arabic Journal</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1902</dateIssued>
+        <dateIssued displayLabel="Western date as printed">Juin 1902</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed">باريس في شهر ربيع الاول سنة ١٣٢٠</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed"/>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">Onzième Année
+Fondateur
+Directeur et rédacteur en Chef J. Sanua Abou Naddara
+43, Rue Richer, Paris</note>
+    <note type="edition" displayLabel="Additional Arabic date information">السنة الحادية عشر
+جريدة  شرقية عربية مديرها الشيخ ج.سانواابونظارة  بباريس بشارع ريشه نمرة ٤٣ </note>
+    <relatedItem xlink:href="#uuid-0c49d7d9-d80b-44a2-a4f0-809b04baf137" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>2</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٢</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list/>
+            </extent>
+            <date encoding="w3cdtf">1902-06</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_002</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">yes</western_sorting>
+            <Jahr displayLabel="Year">1902</Jahr>
+            <Monat displayLabel="Month">6</Monat>
+            <Tag displayLabel="Day"/>
+            <UUID displayLabel="UUID of this record">d4b8ee0c-dcbe-4811-84ce-f60e07f0dac2</UUID>
+            <host_folder displayLabel="folder-name of host record">3_L-Attawadod-d-Abou-Naddara_issues-001-003</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_aee52db4-898f-3d9d-a06a-3c60823d6cf8">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_aee52db4-898f-3d9d-a06a-3c60823d6cf8</identifier>
+        <titleInfo>
+            <title>1902_0019_002_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_68f2040b-7528-3227-91ea-2afb75e42b6a">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_68f2040b-7528-3227-91ea-2afb75e42b6a</identifier>
+        <titleInfo>
+            <title>1902_0020_002_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e2e04225-870c-3dad-8c1e-65746a789d3b">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_e2e04225-870c-3dad-8c1e-65746a789d3b</identifier>
+        <titleInfo>
+            <title>1902_0021_002_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_07ffd0e2-6823-33bf-a9dc-8d8bfaa8fede">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_07ffd0e2-6823-33bf-a9dc-8d8bfaa8fede</identifier>
+        <titleInfo>
+            <title>1902_0022_002_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

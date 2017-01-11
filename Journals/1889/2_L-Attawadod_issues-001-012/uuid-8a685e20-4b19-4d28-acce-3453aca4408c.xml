@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-8a685e20-4b19-4d28-acce-3453aca4408c">
+    <titleInfo lang="ara" script="arab">
+        <title>
+
+التودد 
+
+
+  </title>
+        <subTitle>جريدة شهرية ادبية علمية تجرية</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>at-tawaddud</title>
+        <subTitle>garīda šahrīya adabīya ‘ilmīya tigārīya</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>A'TTAWADOD</title>
+        <subTitle>SYMPATHISONS
+SOUS LE PATRONAGE DE M. LE DUC DE CHÂTRE
+6 Rue Geoffroy-Marie. Paris.
+Revue Mensuelle Arabe 
+LETTRES-SCIENCES-COMMERCE
+Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Let's Corroborate</title>
+        <subTitle>Monthly Journal of Science, Literature and Commerce</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1889</dateIssued>
+        <dateIssued displayLabel="Western date as printed">28 Octobre 1889</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed"/>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">16</extent>
+        <note lang="eng" displayLabel="Page range as printed">No page nr.</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information"/>
+    <note type="edition" displayLabel="Additional Arabic date information"/>
+    <relatedItem xlink:href="#uuid-24020cfc-f580-499b-abad-f48343bc40bf" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>7 and 8</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٧ و ٨</number>
+            </detail>
+            <extent unit="pages">
+                <total>16</total>
+                <list>No page nr.</list>
+            </extent>
+            <date encoding="w3cdtf">1889-10-28</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_007-008</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">yes</western_sorting>
+            <Jahr displayLabel="Year">1889</Jahr>
+            <Monat displayLabel="Month">10</Monat>
+            <Tag displayLabel="Day">28</Tag>
+            <UUID displayLabel="UUID of this record">8a685e20-4b19-4d28-acce-3453aca4408c</UUID>
+            <host_folder displayLabel="folder-name of host record">2_L-Attawadod_issues-001-012</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a6ff6dd5-e8e0-35d1-bf89-9be065641367">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_a6ff6dd5-e8e0-35d1-bf89-9be065641367</identifier>
+        <titleInfo>
+            <title>1889_0065_007-008_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a684df6e-b162-3546-9ceb-941461c0f02c">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_a684df6e-b162-3546-9ceb-941461c0f02c</identifier>
+        <titleInfo>
+            <title>1889_0066_007-008_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2323b861-b811-3fd7-8c6f-d843ced28636">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_2323b861-b811-3fd7-8c6f-d843ced28636</identifier>
+        <titleInfo>
+            <title>1889_0067_007-008_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_fc55c288-8624-3bcc-9b22-9549821a4a51">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_fc55c288-8624-3bcc-9b22-9549821a4a51</identifier>
+        <titleInfo>
+            <title>1889_0068_007-008_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_13a3fb24-1261-317a-adc9-423797b6bc99">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_13a3fb24-1261-317a-adc9-423797b6bc99</identifier>
+        <titleInfo>
+            <title>1889_0069_007-008_005.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="5">
+                <number>5</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f2249d45-4174-30da-ad42-4883638c974c">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_f2249d45-4174-30da-ad42-4883638c974c</identifier>
+        <titleInfo>
+            <title>1889_0070_007-008_006.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="6">
+                <number>6</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8d388379-8509-3b8a-983d-6b2df9c87da5">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_8d388379-8509-3b8a-983d-6b2df9c87da5</identifier>
+        <titleInfo>
+            <title>1889_0071_007-008_007.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="7">
+                <number>7</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_45d8c9bb-f25e-3f47-b85c-1a9bb2edd858">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_45d8c9bb-f25e-3f47-b85c-1a9bb2edd858</identifier>
+        <titleInfo>
+            <title>1889_0072_007-008_008.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="8">
+                <number>8</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3e5ca297-2815-34cc-bf59-232b922eb85c">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_3e5ca297-2815-34cc-bf59-232b922eb85c</identifier>
+        <titleInfo>
+            <title>1889_0073_007-008_009.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="9">
+                <number>9</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4c1bf459-2c63-315a-a449-bf1238015be0">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_4c1bf459-2c63-315a-a449-bf1238015be0</identifier>
+        <titleInfo>
+            <title>1889_0074_007-008_010.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="10">
+                <number>10</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_85a9974f-0118-387f-994b-7c32ae7b0b53">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_85a9974f-0118-387f-994b-7c32ae7b0b53</identifier>
+        <titleInfo>
+            <title>1889_0075_007-008_011.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="11">
+                <number>11</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6295f734-c31d-34fd-9502-d86c617c78b7">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_6295f734-c31d-34fd-9502-d86c617c78b7</identifier>
+        <titleInfo>
+            <title>1889_0076_007-008_012.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="12">
+                <number>12</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6c8c28c2-d9ed-369e-b6bc-559f9c668e99">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_6c8c28c2-d9ed-369e-b6bc-559f9c668e99</identifier>
+        <titleInfo>
+            <title>1889_0077_007-008_013.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="13">
+                <number>13</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_94937226-67aa-3b96-89b0-d1e8db9e729a">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_94937226-67aa-3b96-89b0-d1e8db9e729a</identifier>
+        <titleInfo>
+            <title>1889_0078_007-008_014.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="14">
+                <number>14</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_fca93ad4-eb4a-3986-94b7-e47250d90807">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_fca93ad4-eb4a-3986-94b7-e47250d90807</identifier>
+        <titleInfo>
+            <title>1889_0079_007-008_015.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="15">
+                <number>15</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f5883722-5460-3a54-bf9e-2cd6afce50a4">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_f5883722-5460-3a54-bf9e-2cd6afce50a4</identifier>
+        <titleInfo>
+            <title>1889_0080_007-008_016.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="16">
+                <number>16</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

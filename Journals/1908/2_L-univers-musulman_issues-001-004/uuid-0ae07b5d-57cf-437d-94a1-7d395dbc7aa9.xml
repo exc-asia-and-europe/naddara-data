@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-0ae07b5d-57cf-437d-94a1-7d395dbc7aa9">
+    <titleInfo lang="ara" script="arab">
+        <title>العالم الاسلامي</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>al-‘ālam al-islāmī</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>L'Univers Musulman
+</title>
+        <subTitle>Littéraire, commerciale, Industriel, Financier</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Islamic World</title>
+        <subTitle/>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1908</dateIssued>
+        <dateIssued displayLabel="Western date as printed">Juin 1908</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed"/>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed">Arab page nr: 24-21 (the other way round)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">2e Année
+Directeur et rédacteur en Chef: Le Cheikh J. Sanua Abou Naddara Chaer el Molk
+Secrétaire de la rédaction: Abou-ul-Hamid, Hilmi Effendi
+Direction et Administration
+43, Rue  Richer, Paris</note>
+    <note type="edition" displayLabel="Additional Arabic date information">مدير الجريدة و محررها الاول الشيخ سانوا ابونظارة 
+شاعر الملك</note>
+    <relatedItem xlink:href="#uuid-bb70ffec-7ac0-429c-bd3f-9299e77144e1" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>3</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number"/>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list>Arab page nr: 24-21 (the other way round)</list>
+            </extent>
+            <date encoding="w3cdtf">1908-06</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_003</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">yes_default</western_sorting>
+            <Jahr displayLabel="Year">1908</Jahr>
+            <Monat displayLabel="Month">6</Monat>
+            <Tag displayLabel="Day"/>
+            <UUID displayLabel="UUID of this record">0ae07b5d-57cf-437d-94a1-7d395dbc7aa9</UUID>
+            <host_folder displayLabel="folder-name of host record">2_L-univers-musulman_issues-001-004</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_713e9fc7-da6e-3667-94bb-86609de77b48">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_713e9fc7-da6e-3667-94bb-86609de77b48</identifier>
+        <titleInfo>
+            <title>1908_0021_003_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_51582f7c-2388-32f5-98aa-80f9dca071f3">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_51582f7c-2388-32f5-98aa-80f9dca071f3</identifier>
+        <titleInfo>
+            <title>1908_0022_003_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5ae54c40-30ad-3797-8fb7-6feccf2abae4">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_5ae54c40-30ad-3797-8fb7-6feccf2abae4</identifier>
+        <titleInfo>
+            <title>1908_0023_003_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_689ae906-0729-3e58-85db-5ce1104173d2">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_689ae906-0729-3e58-85db-5ce1104173d2</identifier>
+        <titleInfo>
+            <title>1908_0024_003_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

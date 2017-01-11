@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-a3d0a40e-8a56-44ee-87d8-a73dae477922">
+    <titleInfo lang="ara" script="arab">
+        <title>ابو نظارة</title>
+        <subTitle>يشملنا بحلمه رب العالمين 
+و تعود مصرللمصرين
+سَتبُدي لَكَ الايامُ ما كنتَ جَاهلِا ويأتيكَ بالاخبرِ مَن لَم تزوّدِ</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>Abū Naẓẓāra</title>
+        <subTitle>yashmalunā bi-ḥilmihi rabbu-l-ʿalamīn wa-taʿawwad miṣr li-l-miṣrīyn satubdī laka al-ayyām mā kunta jāhilan wa-yātayka bi-l-akhbāri man lam tazawwad</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>Abou Naddara</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Man with the  Glasses</title>
+        <subTitle>May the God of the Two Worlds embrace us with his patience and may Egypt return to the Egyptians! Days will appear to you devoid of ignorance and of the news given by the one you do not expect.</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1886</dateIssued>
+        <dateIssued displayLabel="Western date as printed">PARIS 30 Octobre 1886</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed">في ٣٠ اوكتوبر ١٨٨٦</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">8</extent>
+        <note lang="eng" displayLabel="Page range as printed"/>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">dixième Année
+Journal Orientale
+Directeur et Rédacteur en chef J. Sanua Abou Naddara </note>
+    <note type="edition" displayLabel="Additional Arabic date information">السنة العاشرة
+جريدة حرة
+مديرها و محررها الاول الشيخ جمس سنووا ابو نظارة </note>
+    <relatedItem xlink:href="#uuid-b74d6b07-81c4-4d15-9a07-2376d6d21ef6" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>9 - 10</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٩ و ١٠</number>
+            </detail>
+            <extent unit="pages">
+                <total>8</total>
+                <list/>
+            </extent>
+            <date encoding="w3cdtf">1886-10-30</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_009-010</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">yes</western_sorting>
+            <Jahr displayLabel="Year">1886</Jahr>
+            <Monat displayLabel="Month">10</Monat>
+            <Tag displayLabel="Day">30</Tag>
+            <UUID displayLabel="UUID of this record">a3d0a40e-8a56-44ee-87d8-a73dae477922</UUID>
+            <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_fa40aa7d-a43d-3e1c-9df3-e2032d4f9176">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_fa40aa7d-a43d-3e1c-9df3-e2032d4f9176</identifier>
+        <titleInfo>
+            <title>1886_0035_009-010_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_48ecfc8b-abcc-376d-a316-819fd530576c">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_48ecfc8b-abcc-376d-a316-819fd530576c</identifier>
+        <titleInfo>
+            <title>1886_0036_009-010_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_48fbcd61-50ae-3337-a126-98819746b060">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_48fbcd61-50ae-3337-a126-98819746b060</identifier>
+        <titleInfo>
+            <title>1886_0037_009-010_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7dbee10a-0380-324c-98b2-478476a21116">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_7dbee10a-0380-324c-98b2-478476a21116</identifier>
+        <titleInfo>
+            <title>1886_0038_009-010_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5438c920-f3d2-3dd3-a00c-4f8e8fa74013">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_5438c920-f3d2-3dd3-a00c-4f8e8fa74013</identifier>
+        <titleInfo>
+            <title>1886_0039_009-010_005.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="5">
+                <number>5</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_31cde1cf-17e6-36b4-9d58-37dd32804093">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_31cde1cf-17e6-36b4-9d58-37dd32804093</identifier>
+        <titleInfo>
+            <title>1886_0040_009-010_006.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="6">
+                <number>6</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9bf6eb37-4be4-3f82-86fd-ba2a4185b069">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_9bf6eb37-4be4-3f82-86fd-ba2a4185b069</identifier>
+        <titleInfo>
+            <title>1886_0041_009-010_007.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="7">
+                <number>7</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9282c832-aac0-3abd-a132-dbf369497186">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_9282c832-aac0-3abd-a132-dbf369497186</identifier>
+        <titleInfo>
+            <title>1886_0042_009-010_008.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="8">
+                <number>8</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

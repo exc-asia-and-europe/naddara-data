@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-a828628a-2ab7-45ce-bcb4-1b8838860469">
+    <titleInfo lang="ara" script="arab">
+        <title>رحلة ابي نظارة زرقا الوليّ من مصر القاهرة الى پاریس الفاخرة   
+</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>riḥlat abī naẓẓāra zarqā l-walīy min miṣr al-qāhira ilā pārīs al-fākhira. 
+</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title/>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Second number,
+The Holy Man with the Blue Glasses’ Journey from Victorious Egypt to Splendorous Paris
+</title>
+        <subTitle>By James Sanua, the publisher of The Man with the Light Blue Glasses, mother of The Egyptian Glasses</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1878</dateIssued>
+        <dateIssued displayLabel="Western date as printed"/>
+        <dateIssued displayLabel="Arabic date as printed"/>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed">(٥-٨)=(5-8)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information"/>
+    <note type="edition" displayLabel="Additional Arabic date information"/>
+    <relatedItem xlink:href="#uuid-45cbf281-e83f-4c97-848d-000f982048bf" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>02</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">النمرة الثانية</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list>(٥-٨)=(5-8)</list>
+            </extent>
+            <date encoding="w3cdtf">1878-08-14</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_002</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">no</western_sorting>
+            <Jahr displayLabel="Year">1878</Jahr>
+            <Monat displayLabel="Month">08</Monat>
+            <Tag displayLabel="Day">14</Tag>
+            <UUID displayLabel="UUID of this record">a828628a-2ab7-45ce-bcb4-1b8838860469</UUID>
+            <host_folder displayLabel="folder-name of host record">2_Rihlat_issues-001-020</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_33cb51e5-34c9-3ee6-acce-bd8db7785b4e">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_33cb51e5-34c9-3ee6-acce-bd8db7785b4e</identifier>
+        <titleInfo>
+            <title>1878_0006_002_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cab7647e-8c7e-369b-85bf-033ba6b92bbe">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_cab7647e-8c7e-369b-85bf-033ba6b92bbe</identifier>
+        <titleInfo>
+            <title>1878_0007_002_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_496c7c85-2380-3904-a261-398253f27ed0">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_496c7c85-2380-3904-a261-398253f27ed0</identifier>
+        <titleInfo>
+            <title>1878_0008_002_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_12c0c714-df14-3e63-b122-966c7d9f2d3c">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_12c0c714-df14-3e63-b122-966c7d9f2d3c</identifier>
+        <titleInfo>
+            <title>1878_0009_002_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

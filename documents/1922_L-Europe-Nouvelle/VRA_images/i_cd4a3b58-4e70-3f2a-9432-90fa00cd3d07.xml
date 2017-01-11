@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_cd4a3b58-4e70-3f2a-9432-90fa00cd3d07" source="Tamboti-Importer" href="hra-imageserver://kjc-sv016/commons/Abou_Naddara/documents/1922_L-Europe-Nouvelle/1922_0029_012_381.tif">
+        <titleSet>
+            <title type="generalView">1922_0029_012_381.tif (image record)</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_26b8e5da-31c4-3fcf-a42a-28265f5519e5" source="Tamboti-Importer">full view</relation>
+        </relationSet>
+    </image>
+</vra>

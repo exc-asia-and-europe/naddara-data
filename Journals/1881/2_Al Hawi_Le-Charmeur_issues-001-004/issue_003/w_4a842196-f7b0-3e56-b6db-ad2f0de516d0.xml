@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_4a842196-f7b0-3e56-b6db-ad2f0de516d0" source="Tamboti-Importer">
+        <titleSet>
+            <title type="generalView">1881_0135_003_004.tif</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_6569e973-6435-3255-964b-12d5fd8453ff" source="Tamboti-Importer">full view</relation>
+        </relationSet>
+    </work>
+</vra>

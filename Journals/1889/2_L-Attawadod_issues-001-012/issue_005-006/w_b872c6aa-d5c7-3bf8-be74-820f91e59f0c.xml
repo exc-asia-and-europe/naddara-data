@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_b872c6aa-d5c7-3bf8-be74-820f91e59f0c" source="Tamboti-Importer">
+        <titleSet>
+            <title type="generalView">1889_0053_005-006_005.tif</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_e1c81d94-91ce-3f3f-8d5d-7b1908ac252c" source="Tamboti-Importer">full view</relation>
+            <relation type="relatedTo" href="uuid-316ff8e9-7c19-4dc6-ab4c-25c1b6d59319" pref="false">Tamboti MODS record</relation>
+        </relationSet>
+    </work>
+</vra>

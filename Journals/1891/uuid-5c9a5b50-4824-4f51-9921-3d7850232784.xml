@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-5c9a5b50-4824-4f51-9921-3d7850232784">
+    <titleInfo lang="fre">
+        <title>Abou Naddara</title>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm lang="eng" type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf">1891</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="issues" displayLabel="Number of issues within this series">&gt;15</extent>
+        <note lang="eng" displayLabel="Content description">Abou Naddara (15 issues)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">journal</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Content description (by E. Ettmüller)">Abou Naddara (15 issues)</note>
+    <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
+    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara<br/>
+15ème Année - 1891<br/>
+Directeur et rédacteur en Chef J. Sanua Abou Naddara<br/>
+6, Rue Geoffroy -Marie, Paris </note>
+    <note type="edition" displayLabel="Text on cover in Arabic">جريدة ابي نظارة مدير الجريدة و محررها الاول 
+الشيخ ج. سانوا ابو نظارة نمرة ٦ رو جوفروا ماري باريس </note>
+    <relatedItem xlink:href="#uuid-c3b1e793-393a-4d62-983b-a26c1f3c51fd" displayLabel="Part of published series" type="series"/>
+    <location>
+        <url displayLabel="Path to Folder">1_Le-Journal-d-Abou-Naddara_issues-001-015</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_58743559-9e9a-3d5a-8d13-169d3532a0be">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>64</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_88036d4c-6bba-3ad2-9662-cc3bbb8ac4ff">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>63</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_42a44046-5a49-3578-810f-6c8a3c717705">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

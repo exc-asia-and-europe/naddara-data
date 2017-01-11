@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-386531b1-b845-476a-95bc-c9ea90fcbc85">
+    <titleInfo lang="ara" script="arab">
+        <title>ابو نظارة زرقاء
+</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>abū naẓẓāra zarqā 
+
+</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title/>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Man with the Blue Glasses</title>
+        <subTitle/>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1883</dateIssued>
+        <dateIssued displayLabel="Western date as printed">Paris 26 Mai 1883</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed">باريس في ٢٦ مايو ١٨٨٣</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed">(٨٩-٩٢)=(89-92)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">7ème Année
+Journal oriental bi-mensuel</note>
+    <note type="edition" displayLabel="Additional Arabic date information">السنة السابعة
+جريدة شرقية</note>
+    <relatedItem xlink:href="#uuid-137d37e0-d499-4b75-b4bd-8f689fe3f4f9" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>7</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٧</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list>(٨٩-٩٢)=(89-92)</list>
+            </extent>
+            <date encoding="w3cdtf">1883-05-26</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_007</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">no</western_sorting>
+            <Jahr displayLabel="Year">1883</Jahr>
+            <Monat displayLabel="Month">5</Monat>
+            <Tag displayLabel="Day">26</Tag>
+            <UUID displayLabel="UUID of this record">386531b1-b845-476a-95bc-c9ea90fcbc85</UUID>
+            <host_folder displayLabel="folder-name of host record">1_Abou-Naddara-Zarka-issues-001-014</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6aaf32d7-aa59-319c-8c26-16b78633fc2f">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_6aaf32d7-aa59-319c-8c26-16b78633fc2f</identifier>
+        <titleInfo>
+            <title>1883_0025_007_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f795af9a-32cb-3f7f-ae6f-ce4fbceee32f">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_f795af9a-32cb-3f7f-ae6f-ce4fbceee32f</identifier>
+        <titleInfo>
+            <title>1883_0026_007_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e07a853f-d8c0-3213-a86b-00f49f1d701b">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_e07a853f-d8c0-3213-a86b-00f49f1d701b</identifier>
+        <titleInfo>
+            <title>1883_0027_007_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3d0d5c71-309a-30e2-9d5a-f08ec7bd7d94">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_3d0d5c71-309a-30e2-9d5a-f08ec7bd7d94</identifier>
+        <titleInfo>
+            <title>1883_0028_007_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

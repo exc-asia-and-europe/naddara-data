@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_f666c0e7-89b3-3de0-a48d-55b7fb0ab92d" source="Tamboti-Importer" href="hra-imageserver://kjc-sv016/commons/Abou_Naddara/documents/1895_Vinet_Le-Cheikh-Abou-Naddara_in_L-hirondelle-de-France/1895_0003_000_135-copy.tif">
+        <titleSet>
+            <title type="generalView">1895_0003_000_135-copy.tif (image record)</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_8f0e593d-c45b-3beb-9b61-8351d6712fec" source="Tamboti-Importer">full view</relation>
+        </relationSet>
+    </image>
+</vra>

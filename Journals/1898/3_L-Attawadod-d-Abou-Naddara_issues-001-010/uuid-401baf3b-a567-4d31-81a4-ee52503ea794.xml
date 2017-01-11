@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-401baf3b-a567-4d31-81a4-ee52503ea794">
+    <titleInfo lang="ara" script="arab">
+        <title>تودد ابي نظارة</title>
+        <subTitle>جريدة سياسية ادبية بالرسومات محلية</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>at-tawaddud abī naẓẓāra</title>
+        <subTitle>garīda sīāsīya adabīya bi-r-rusūmāt maḥallīya</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>L'Attawadod d'Abou Naddara</title>
+        <subTitle>Revue Internationale Illustrée Destinée à l'Echange des Idées, des sentiments et des Intérêts
+ENTRE L'ORIENT ET L'OCCIDENT
+Sympathisons
+Résumé sommaire des articles arabes du présent numéro</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Man with the Glasses</title>
+        <subTitle>Let's Corroborate
+Political and Literary Journal with Local illustrations</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1898</dateIssued>
+        <dateIssued displayLabel="Western date as printed">Novembre 1898</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed">في شهررجب سنة ١٣١٦</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">16</extent>
+        <note lang="eng" displayLabel="Page range as printed"/>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">7ème Année
+Direction: 6, Rue Geoffroy-Marie. Paris</note>
+    <note type="edition" displayLabel="Additional Arabic date information">السنة السابعة 
+ترسل بمديرها الشيخ ج.سانواابو نظارة بشارع رو جوفروا ماري نمرة ٦ بباريس </note>
+    <relatedItem xlink:href="#uuid-7693582a-fcdb-4ad7-8188-a62cdbb8e9c1" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>10</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">العدد العاشر</number>
+            </detail>
+            <extent unit="pages">
+                <total>16</total>
+                <list/>
+            </extent>
+            <date encoding="w3cdtf">1898-11</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_010</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">no</western_sorting>
+            <Jahr displayLabel="Year">1898</Jahr>
+            <Monat displayLabel="Month">11</Monat>
+            <Tag displayLabel="Day"/>
+            <UUID displayLabel="UUID of this record">401baf3b-a567-4d31-81a4-ee52503ea794</UUID>
+            <host_folder displayLabel="folder-name of host record">3_L-Attawadod-d-Abou-Naddara_issues-001-010</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_11fc5c21-5220-364a-b292-91e3539aff72">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_11fc5c21-5220-364a-b292-91e3539aff72</identifier>
+        <titleInfo>
+            <title>1898_0147_010_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_48ea30dd-5143-3c96-b9d4-2a411707e9fb">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_48ea30dd-5143-3c96-b9d4-2a411707e9fb</identifier>
+        <titleInfo>
+            <title>1898_0148_010_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_38030035-c9a0-3e21-9169-673a52229476">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_38030035-c9a0-3e21-9169-673a52229476</identifier>
+        <titleInfo>
+            <title>1898_0149_010_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b9d05625-6e06-3204-91dc-f7bc94092773">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_b9d05625-6e06-3204-91dc-f7bc94092773</identifier>
+        <titleInfo>
+            <title>1898_0150_010_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9fef52bf-9f37-347e-a59a-a7d06609ed91">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_9fef52bf-9f37-347e-a59a-a7d06609ed91</identifier>
+        <titleInfo>
+            <title>1898_0151_010_005.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="5">
+                <number>5</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f825863e-afcd-3863-832e-6de71e4b6c59">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_f825863e-afcd-3863-832e-6de71e4b6c59</identifier>
+        <titleInfo>
+            <title>1898_0152_010_006.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="6">
+                <number>6</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_441236e3-8619-35f3-89b9-b41354aee4b2">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_441236e3-8619-35f3-89b9-b41354aee4b2</identifier>
+        <titleInfo>
+            <title>1898_0153_010_007.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="7">
+                <number>7</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_756c7520-e355-389d-9bbc-4452a62b2746">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_756c7520-e355-389d-9bbc-4452a62b2746</identifier>
+        <titleInfo>
+            <title>1898_0154_010_008.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="8">
+                <number>8</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6ae365ec-c9ba-3b4c-aa48-d57c049d5062">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_6ae365ec-c9ba-3b4c-aa48-d57c049d5062</identifier>
+        <titleInfo>
+            <title>1898_0155_010_009.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="9">
+                <number>9</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_705902ca-cfa2-3059-946a-07f7277781f2">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_705902ca-cfa2-3059-946a-07f7277781f2</identifier>
+        <titleInfo>
+            <title>1898_0156_010_010.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="10">
+                <number>10</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ef7553cf-e027-34a4-b432-48d2b61b9d7e">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_ef7553cf-e027-34a4-b432-48d2b61b9d7e</identifier>
+        <titleInfo>
+            <title>1898_0157_010_011.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="11">
+                <number>11</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7770b118-ba66-304d-ab2a-0a747bb1983a">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_7770b118-ba66-304d-ab2a-0a747bb1983a</identifier>
+        <titleInfo>
+            <title>1898_0158_010_012.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="12">
+                <number>12</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_99bf2970-de5e-3cf6-bf91-4dc6120c858f">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_99bf2970-de5e-3cf6-bf91-4dc6120c858f</identifier>
+        <titleInfo>
+            <title>1898_0159_010_013.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="13">
+                <number>13</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_76c1e37f-e5ae-37fb-888c-c325e3b75c15">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_76c1e37f-e5ae-37fb-888c-c325e3b75c15</identifier>
+        <titleInfo>
+            <title>1898_0160_010_014.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="14">
+                <number>14</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e02cd505-7355-3e96-95f5-e18e40996af6">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_e02cd505-7355-3e96-95f5-e18e40996af6</identifier>
+        <titleInfo>
+            <title>1898_0161_010_015.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="15">
+                <number>15</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6b9659ed-4d20-393c-bf4f-140ef1e12c31">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_6b9659ed-4d20-393c-bf4f-140ef1e12c31</identifier>
+        <titleInfo>
+            <title>1898_0162_010_016.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="16">
+                <number>16</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-dd0c98cb-ac96-4557-a53a-962b3674ae37">
+    <titleInfo lang="ara" script="arab">
+        <title>التودد
+</title>
+        <subTitle>جريدة  شرقية عربية</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>at-tawaddud
+</title>
+        <subTitle>garīda šarqīya arabīya</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>L'Attawadod d'Abou Naddara
+</title>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Let's Corroborate
+</title>
+        <subTitle>Eastern Arabic Journal</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1903</dateIssued>
+        <dateIssued displayLabel="Western date as printed">Mars 1903</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed">باريس في شهر ذى الحجة سنة ١٣٢٠</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed"/>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">Douzième Année
+Directeur et rédacteur en Chef J. Sanua Abou Naddara
+43, Rue Richer, Paris</note>
+    <note type="edition" displayLabel="Additional Arabic date information">السنة الثانية عشر
+جريدة  شرقية عربية مديرها الشيخ ج.سانواابونظارة  بباريس بشارع ريشه نمرة ٤٣ </note>
+    <relatedItem xlink:href="#uuid-967daa21-508f-4f57-8974-56a6e70f3fdf" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>1</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list/>
+            </extent>
+            <date encoding="w3cdtf">1903-03</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_001</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">yes</western_sorting>
+            <Jahr displayLabel="Year">1903</Jahr>
+            <Monat displayLabel="Month">3</Monat>
+            <Tag displayLabel="Day"/>
+            <UUID displayLabel="UUID of this record">dd0c98cb-ac96-4557-a53a-962b3674ae37</UUID>
+            <host_folder displayLabel="folder-name of host record">3_L-Attawadod-d-Abou-Naddara_issues-001-003</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b26286e5-b167-374c-b88a-8888568872f1">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_b26286e5-b167-374c-b88a-8888568872f1</identifier>
+        <titleInfo>
+            <title>1903_0007_001_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e6a1425e-0745-368b-95a1-7357128e5e40">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_e6a1425e-0745-368b-95a1-7357128e5e40</identifier>
+        <titleInfo>
+            <title>1903_0008_001_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d6678d50-9cea-381f-8347-1ae5dbfcf0d0">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_d6678d50-9cea-381f-8347-1ae5dbfcf0d0</identifier>
+        <titleInfo>
+            <title>1903_0009_001_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_cbe8034c-5fc3-3063-ba5c-dc0403914f58" source="Tamboti-Importer" href="hra-imageserver://kjc-sv016/commons/Abou_Naddara/documents/1890_decoration_Marie-de-Lusignan/1890_0001_000_000.tif">
+        <titleSet>
+            <title type="generalView">1890_0001_000_000.tif (image record)</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_6db76385-d592-35f6-ac94-c6d62b2d7f00" source="Tamboti-Importer">full view</relation>
+        </relationSet>
+    </image>
+</vra>

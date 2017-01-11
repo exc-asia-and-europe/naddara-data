@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-7693582a-fcdb-4ad7-8188-a62cdbb8e9c1">
+    <titleInfo lang="fre">
+        <title>L'Attawadod d'Abou Naddara</title>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm lang="eng" type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf">1898</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="issues" displayLabel="Number of issues within this series">&gt;10</extent>
+        <note lang="eng" displayLabel="Content description">L'Attawadod d'Abou Naddara (10 issues)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">journal</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Content description (by E. Ettmüller)">L'Attawadod d'Abou Naddara (10 issues)</note>
+    <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
+    <note type="edition" displayLabel="Text on cover in Western language">7èmeAnnée<br/>
+L'Attawadod d'Abou Naddara<br/>
+Revue Internationale Illustrée Destinée à l'Echange des Idées, des sentiments et des Intérêts<br/>
+ENTRE L'ORIENT ET L'OCCIDENT<br/>
+Direction: 6, Rue Geoffroy-Marie. Paris<br/>
+ANNÉE 1898</note>
+    <note type="edition" displayLabel="Text on cover in Arabic">مجموع اعداد التودد لعام ١٨٩٨
+تودد ابي نظارة
+جريدة سياسية ادبية بالرسومات محلية
+قيمة الاشتراك فيها فرنك ١٠ عن كل سنة
+ترسل بمديرها الشيخ ج.سانواابو نظارة
+ بشارع رو جوفروا ماري نمرة ٦ بباريس </note>
+    <relatedItem xlink:href="#uuid-ba73e871-91d0-49c0-ba6e-d15c75542408" displayLabel="Part of published series" type="series"/>
+    <location>
+        <url displayLabel="Path to Folder">3_L-Attawadod-d-Abou-Naddara_issues-001-010</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_b8aa228a-56c7-3ca3-a412-1a8a0de0a56b">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>164</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_d6215a1f-0601-3bf9-b3a6-bf465c17d584">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

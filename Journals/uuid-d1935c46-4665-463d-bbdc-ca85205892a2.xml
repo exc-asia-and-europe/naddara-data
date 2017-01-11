@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-d1935c46-4665-463d-bbdc-ca85205892a2">
+    <titleInfo lang="eng">
+        <title>1880</title>
+    </titleInfo>
+    <location>
+        <url displayLabel="Path to Folder">1880</url>
+    </location>
+    <relatedItem xlink:href="#uuid-34a1979d-ce93-4620-a6b9-7dae7b4ea12c" displayLabel="Part of published series" type="series"/>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_e91f8844-21d8-343d-ab74-222d10431bef">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>0</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_c31fa63a-2671-3991-8539-3cef0912cfcc">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>186</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

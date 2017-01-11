@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-f379aa6b-7f8b-42f8-86c7-5f1412cec3c4">
+    <titleInfo lang="fre">
+        <title>Abou-Naddara</title>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm lang="eng" type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf">1881</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="issues" displayLabel="Number of issues within this series">&gt;15</extent>
+        <note lang="eng" displayLabel="Content description">Abou-Naddara (15 issues)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">journal</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Content description (by E. Ettmüller)">Abou-Naddara (15 issues)</note>
+    <note type="edition" displayLabel="Source of original volumes">Reprint by Dar Sader in Beirut 1974 (by courtesy of Prof. Nagua Ibrāhīm ʿĀnūs)</note>
+    <note type="edition" displayLabel="Text on cover in Western language"/>
+    <note type="edition" displayLabel="Text on cover in Arabic"/>
+    <relatedItem xlink:href="#uuid-1d03d953-03ac-467a-8bfe-bf63ac619543" displayLabel="Part of published series" type="series"/>
+    <location>
+        <url displayLabel="Path to Folder">3_Abou-Naddara_issues-001-015</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_3b039b14-d436-35ef-b373-76260ee4831a">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>212</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_a080fcd0-2e27-3f86-9f72-1495236bd507">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_ecdfc26b-58e0-3f17-bafe-89a6f97a4b7a">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>213</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_78fe02e8-3595-38d0-8c00-68da6cf328a3">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>0</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

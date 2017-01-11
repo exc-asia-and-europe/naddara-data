@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_3f2f4dc8-042d-355f-8e37-ed992f3d779c" source="Tamboti-Importer" href="hra-imageserver://kjc-sv016/commons/Abou_Naddara/Journals/1892/1_Le-Journal-d-Abou-Naddara_issues-001-024/issue_003/1892_0011_003_001.tif">
+        <titleSet>
+            <title type="generalView">1892_0011_003_001.tif (image record)</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_7f127c7f-cf36-3933-9b4f-103de0db0d0e" source="Tamboti-Importer">full view</relation>
+        </relationSet>
+    </image>
+</vra>

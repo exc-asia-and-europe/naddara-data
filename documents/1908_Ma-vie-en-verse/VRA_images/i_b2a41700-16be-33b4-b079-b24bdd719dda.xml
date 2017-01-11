@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_b2a41700-16be-33b4-b079-b24bdd719dda" source="Tamboti-Importer" href="hra-imageserver://kjc-sv016/commons/Abou_Naddara/documents/1908_Ma-vie-en-verse/1908_0015_000_015.tif">
+        <titleSet>
+            <title type="generalView">1908_0015_000_015.tif (image record)</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_b509efc9-9cea-3926-9313-2c2b5a93b264" source="Tamboti-Importer">full view</relation>
+        </relationSet>
+    </image>
+</vra>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_8b34d782-4554-3f4e-a2d0-03ddf5df2464" source="Tamboti-Importer">
+        <titleSet>
+            <title type="generalView">Foto_Sanua_no_subtitle_rgb.tif</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_38f640f0-0ee2-3b12-98d4-c7d08bcea424" source="Tamboti-Importer">full view</relation>
+        </relationSet>
+    </work>
+</vra>

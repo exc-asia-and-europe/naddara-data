@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_fa8c02a8-ba42-38f9-862c-a29b0bdaaa6b" source="Tamboti-Importer" href="hra-imageserver://kjc-sv016/commons/Abou_Naddara/Journals/1881/2_Al%20Hawi_Le-Charmeur_issues-001-004/issue_001/1881_0126_001_003-0.tif">
+        <titleSet>
+            <title type="generalView">1881_0126_001_003-0.tif (image record)</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_4b5fba83-50bb-3288-8e34-47c7b2d82fd2" source="Tamboti-Importer">full view</relation>
+        </relationSet>
+    </image>
+</vra>

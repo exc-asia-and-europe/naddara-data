@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-5df8df9c-0a51-47d8-b0e5-e6206fb34b47">
+    <titleInfo lang="ara" script="arab">
+        <title>ابو نظارة</title>
+        <subTitle>سمادى الشعوب
+في صفاء القلوب
+جريدة تصويرية فكاهية</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>abū naẓẓāra</title>
+        <subTitle>sa‘āda aš-šu‘ūb fī ṣaffāʾ al-qulūb
+garīda taṣwīrīya fukāhīya</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>Journal Oriental Illustré</title>
+        <subTitle>Sympathisons et prospérons
+L'Abou Naddara
+"L'Abou Naddara", "L'Attawadod", "L'Almonsef" réunis</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Man with the  Glasses</title>
+        <subTitle>For the Wealth of the People and the Purity of the Hearts
+Illustrated Satirical Journal</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1910</dateIssued>
+        <dateIssued displayLabel="Western date as printed">Fin Décembre 1910</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed">باريس في غاية شهر ذي الحجة سنة ١٣٢٨</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed">Arab page nr: 15-18</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">34e Année
+Directeur et rédacteur en Chef: Le Cheikh  J. Sanua Abou Naddara
+43, Rue  Richer, Paris</note>
+    <note type="edition" displayLabel="Additional Arabic date information">السنة ٣٤  
+جريدة تصويرية فكاهية
+مديرها ابونظارة شاعر الملله بباريس  ٤٣ شاريع ريشيه  </note>
+    <relatedItem xlink:href="#uuid-39f9b117-4969-4965-8fed-9aabb00fcdeb" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>4</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٤ </number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list>Arab page nr: 15-18</list>
+            </extent>
+            <date encoding="w3cdtf">1910-12</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_004</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">yes</western_sorting>
+            <Jahr displayLabel="Year">1910</Jahr>
+            <Monat displayLabel="Month">12</Monat>
+            <Tag displayLabel="Day"/>
+            <UUID displayLabel="UUID of this record">5df8df9c-0a51-47d8-b0e5-e6206fb34b47</UUID>
+            <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-004</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_252d92ff-a3a0-3ae7-b64e-b1ba27150af6">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_252d92ff-a3a0-3ae7-b64e-b1ba27150af6</identifier>
+        <titleInfo>
+            <title>1910_0015_004_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6e786c99-a872-3757-8d87-9d0931781719">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_6e786c99-a872-3757-8d87-9d0931781719</identifier>
+        <titleInfo>
+            <title>1910_0016_004_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5ba257e5-9da0-3fb0-b667-c5037964c621">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_5ba257e5-9da0-3fb0-b667-c5037964c621</identifier>
+        <titleInfo>
+            <title>1910_0017_004_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8aae6f9f-d0f3-3217-ad2e-4cc159268752">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_8aae6f9f-d0f3-3217-ad2e-4cc159268752</identifier>
+        <titleInfo>
+            <title>1910_0018_004_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

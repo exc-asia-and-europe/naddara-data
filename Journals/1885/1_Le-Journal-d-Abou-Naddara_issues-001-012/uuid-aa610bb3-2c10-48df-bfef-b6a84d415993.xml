@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-aa610bb3-2c10-48df-bfef-b6a84d415993">
+    <titleInfo lang="ara" script="arab">
+        <title>ابو نظارة 
+</title>
+        <subTitle>مصر ال مصرين</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>abū naẓẓāra</title>
+        <subTitle>miṣr li-l-miṣrīyn</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title>Abou Naddara</title>
+        <subTitle>L'Egypte aux Egyptiens</subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>The Man with the  Glasses</title>
+        <subTitle>Egypt for the Egyptians</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1885</dateIssued>
+        <dateIssued displayLabel="Western date as printed">Paris le 31 octobre 1885</dateIssued>
+        <dateIssued displayLabel="Arabic date as printed">باريس  ٣١اوكتوبر ١٥ سنة ١٨٨٥</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed"/>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information">9ème Année
+Journal Oriental
+Direction et rédacteur en chef J. Sanua Abou Naddara </note>
+    <note type="edition" displayLabel="Additional Arabic date information">السنة التاسعة 
+جريدة شرقية 
+مدير و محرر اول جمس سانووا ابو نظارة زرقآء</note>
+    <relatedItem xlink:href="#uuid-facab91e-bf34-4bad-9d2b-75f50f22a4fe" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>10</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١٠</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list/>
+            </extent>
+            <date encoding="w3cdtf">1885-10-31</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_010</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">yes</western_sorting>
+            <Jahr displayLabel="Year">1885</Jahr>
+            <Monat displayLabel="Month">10</Monat>
+            <Tag displayLabel="Day">31</Tag>
+            <UUID displayLabel="UUID of this record">aa610bb3-2c10-48df-bfef-b6a84d415993</UUID>
+            <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e2ec7a9d-10dd-3e9b-886f-9bcb142fb11e">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_e2ec7a9d-10dd-3e9b-886f-9bcb142fb11e</identifier>
+        <titleInfo>
+            <title>1885_0039_010_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3ef72cfb-feae-3d27-8f2d-aa011ab2301c">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_3ef72cfb-feae-3d27-8f2d-aa011ab2301c</identifier>
+        <titleInfo>
+            <title>1885_0040_010_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c1b65277-727c-31d0-bf91-187e87f0977b">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_c1b65277-727c-31d0-bf91-187e87f0977b</identifier>
+        <titleInfo>
+            <title>1885_0041_010_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_71c072f5-3680-33df-ac80-9afcc93460b3">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_71c072f5-3680-33df-ac80-9afcc93460b3</identifier>
+        <titleInfo>
+            <title>1885_0042_010_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

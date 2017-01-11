@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-f4b6e908-7056-4666-9406-343c0337a7a4">
+    <titleInfo lang="ara" script="arab">
+        <title>رحْلَة ابي نَظّارَة زَرْقَا الوليّ مِن مَصر القاهِرَة الى پَاریز الفاخِرَة
+
+</title>
+        <subTitle> بقَلَم چِمْس سانووا
+مُدرّس.
+ لغاتْ شرقيّةوغَربيّة. </subTitle>
+    </titleInfo>
+    <titleInfo type="translated" lang="arab" transliteration="arabic/ala-lc">
+        <title>riḥlat abī naẓẓāra zarqā</title>
+        <subTitle>l-walīy min miṣr al-qāhira ilā pārīz al-fākhira bi-qalam chams sānūwā mudarris lughāt sharqīya wa-gharbīya.
+</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative" lang="fre">
+        <title/>
+        <subTitle/>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Fifth number,
+The Holy Man with the Blue Glasses’ Journey from Victorious Egypt to Splendorous Paris
+</title>
+        <subTitle>By James Sanua, teacher of Eastern and Western languages</subTitle>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf" keyDate="yes">1878</dateIssued>
+        <dateIssued displayLabel="Western date as printed"/>
+        <dateIssued displayLabel="Arabic date as printed"/>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="pages">4</extent>
+        <note lang="eng" displayLabel="Page range as printed">(١٧-٢٠)=(17-20)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">issue</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Additional western date information"/>
+    <note type="edition" displayLabel="Additional Arabic date information"/>
+    <relatedItem xlink:href="#uuid-45cbf281-e83f-4c97-848d-000f982048bf" displayLabel="Part of published series" type="series">
+        <part>
+            <detail type="issue">
+                <number>05</number>
+                <number lang="ara" script="arab" displayLabel="Arabic issue number">لنمرَةٌ الخامِسَة.</number>
+            </detail>
+            <extent unit="pages">
+                <total>4</total>
+                <list>(١٧-٢٠)=(17-20)</list>
+            </extent>
+            <date encoding="w3cdtf">1878-09-08</date>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Path to Folder">issue_005</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <extension xmlns:e="http://www.asia-europe.uni-heidelberg.de/">
+        <e:naddara>
+            <western_sorting displayLabel="Western sorting of issue">no</western_sorting>
+            <Jahr displayLabel="Year">1878</Jahr>
+            <Monat displayLabel="Month">09</Monat>
+            <Tag displayLabel="Day">08</Tag>
+            <UUID displayLabel="UUID of this record">f4b6e908-7056-4666-9406-343c0337a7a4</UUID>
+            <host_folder displayLabel="folder-name of host record">2_Rihlat_issues-001-020</host_folder>
+        </e:naddara>
+    </extension>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_611da5eb-5176-39b6-928c-d775e1cff7bb">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_611da5eb-5176-39b6-928c-d775e1cff7bb</identifier>
+        <titleInfo>
+            <title>1878_0018_005_001.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="1">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ade30f6b-31d9-3fc8-bbd0-9fac3ce829a3">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_ade30f6b-31d9-3fc8-bbd0-9fac3ce829a3</identifier>
+        <titleInfo>
+            <title>1878_0019_005_002.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="2">
+                <number>2</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_867d160b-f0d0-3c23-90b6-a4cd3c326f98">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_867d160b-f0d0-3c23-90b6-a4cd3c326f98</identifier>
+        <titleInfo>
+            <title>1878_0020_005_003.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="3">
+                <number>3</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0619b568-1a96-3363-927f-5eaf6c585085">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local">w_0619b568-1a96-3363-927f-5eaf6c585085</identifier>
+        <titleInfo>
+            <title>1878_0021_005_004.tif</title>
+        </titleInfo>
+        <part>
+            <detail type="page number" order="4">
+                <number>4</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>

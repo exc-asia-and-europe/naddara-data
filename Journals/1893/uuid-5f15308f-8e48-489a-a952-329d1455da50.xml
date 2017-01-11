@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-5f15308f-8e48-489a-a952-329d1455da50">
+    <titleInfo lang="fre">
+        <title>Le Journal d'Abou Naddara</title>
+    </titleInfo>
+    <name type="personal" xlink:href="#uuid-7743b9b1-21c3-4472-83f8-65ce81cab817"/>
+    <originInfo>
+        <place>
+            <placeTerm lang="eng" type="text">Paris</placeTerm>
+        </place>
+        <dateIssued encoding="w3cdtf">1893</dateIssued>
+    </originInfo>
+    <physicalDescription>
+        <extent unit="issues" displayLabel="Number of issues within this series">&gt;15</extent>
+        <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (15 issues)</note>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience authority="marctarget">adult</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">journal</genre>
+    <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+    <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (15 issues)</note>
+    <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
+    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara<br/>
+Fondateur<br/>
+Directeur et rédacteur en Chef J. Sanua Abou Naddara<br/>
+6, Rue Geoffroy -Marie, Paris<br/>
+17ème Année 1893<br/>
+Résumé des matières contenues dans les numéros de la présente collection <br/>
+        <br/>
+The Journal of Abou Naddara<br/>
+Founder <br/>
+Director and Editor: J. Sanua Abou Naddara<br/>
+Résumé of the Matter contained in the numbers of the present series<br/>
+17th Year 1893</note>
+    <note type="edition" displayLabel="Text on cover in Arabic"/>
+    <relatedItem xlink:href="#uuid-16f8081f-a67d-4ab0-b1a1-372e2d84a303" displayLabel="Part of published series" type="series"/>
+    <location>
+        <url displayLabel="Path to Folder">1_Le-Journal-d-Abou-Naddara_issues-001-015</url>
+    </location>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+        <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        <scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+    </language>
+    <recordInfo lang="eng" script="latn">
+        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_be31f227-861d-3f02-8f6b-a7b405813abe">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>64</number>
+            </detail>
+        </part>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_a40f7799-1046-3307-8c33-63ffadd75b4d">
+        <typeOfResource>still image</typeOfResource>
+        <identifier type="local"/>
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <part>
+            <text type="cover"/>
+            <detail type="page number">
+                <number>1</number>
+            </detail>
+        </part>
+    </relatedItem>
+</mods>
