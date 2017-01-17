@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-5594fb1d-fd37-4146-9d97-5594ca2c9392">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-5594fb1d-fd37-4146-9d97-5594ca2c9392">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة
 </title>
@@ -31,8 +31,6 @@ Independant Eastern Journal</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1901</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Septembre 1901</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في  شهر جمادي الاخر سنة ١٣١٩</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -49,11 +47,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 43, Rue Richer, Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الخامسة و العشرون
 جريدة حرة شرقية مديرها و محررها الشيخ ج.سانواابونظارة بباريس في شاريع ريشه نمرة ٤٣ </note>
+    <note type="edition" displayLabel="Western date as printed">Septembre 1901</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في  شهر جمادي الاخر سنة ١٣١٩</note>
     <relatedItem xlink:href="#uuid-adc9ef28-d46a-41b5-855d-f3b95037cb43" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>3</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٣</number>
+                <number lang="ara" script="arab">عدد ٣</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -91,6 +91,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-004</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Septembre 1901</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في  شهر جمادي الاخر سنة ١٣١٩</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_44b00730-1632-36c2-957f-1c22ec9aacb5">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_44b00730-1632-36c2-957f-1c22ec9aacb5</identifier>
@@ -98,11 +100,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1901_0027_003_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Septembre 1901</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في  شهر جمادي الاخر سنة ١٣١٩</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_609be74a-08e8-3a85-b3a7-de1d198c6a5c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_609be74a-08e8-3a85-b3a7-de1d198c6a5c</identifier>
@@ -110,11 +114,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1901_0028_003_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Septembre 1901</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في  شهر جمادي الاخر سنة ١٣١٩</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_55409032-514c-32ad-84d9-1f2278ef3198">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_55409032-514c-32ad-84d9-1f2278ef3198</identifier>
@@ -122,11 +128,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1901_0029_003_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Septembre 1901</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في  شهر جمادي الاخر سنة ١٣١٩</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2a2e2ad7-ee6e-3851-9f87-a61cf1411b9e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2a2e2ad7-ee6e-3851-9f87-a61cf1411b9e</identifier>
@@ -134,7 +142,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1901_0030_003_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

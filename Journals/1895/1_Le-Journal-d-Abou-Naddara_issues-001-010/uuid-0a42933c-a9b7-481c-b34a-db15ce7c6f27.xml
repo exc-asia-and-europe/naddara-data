@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-0a42933c-a9b7-481c-b34a-db15ce7c6f27">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-0a42933c-a9b7-481c-b34a-db15ce7c6f27">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة</title>
         <subTitle>مصر للمصرين</subTitle>
@@ -23,8 +23,6 @@ L'Egypte aux Egyptiens</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1895</dateIssued>
-        <dateIssued displayLabel="Western date as printed">25 Août 1895</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٢٥ اوت سنة ١٨٩٥</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 6, Rue Geoffroy -Marie, Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة التاسعة عشر
 جريدة شرقية مديرها و محررها الشيخ ج.سانواابونظارة بباريس نمرة ٦ رو جوفروا ماري</note>
+    <note type="edition" displayLabel="Western date as printed">25 Août 1895</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٥ اوت سنة ١٨٩٥</note>
     <relatedItem xlink:href="#uuid-e6259816-f59a-47fb-b012-e41022adba31" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>7</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٧</number>
+                <number lang="ara" script="arab">عدد ٧</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">25 Août 1895</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٥ اوت سنة ١٨٩٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1bcf5bae-0216-39ac-85f5-9b1e32c8ad57">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_1bcf5bae-0216-39ac-85f5-9b1e32c8ad57</identifier>
@@ -90,11 +92,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1895_0031_007_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Août 1895</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٥ اوت سنة ١٨٩٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_81eb65a3-467b-3926-b0b2-037f239d5f02">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_81eb65a3-467b-3926-b0b2-037f239d5f02</identifier>
@@ -102,11 +106,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1895_0032_007_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Août 1895</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٥ اوت سنة ١٨٩٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1864f4c2-a4b0-30ab-a6bc-91f8b81a6b5b">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_1864f4c2-a4b0-30ab-a6bc-91f8b81a6b5b</identifier>
@@ -114,11 +120,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1895_0033_007_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Août 1895</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٥ اوت سنة ١٨٩٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9801a8f6-86bf-3712-a231-fd9de89ce3dc">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9801a8f6-86bf-3712-a231-fd9de89ce3dc</identifier>
@@ -126,7 +134,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1895_0034_007_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

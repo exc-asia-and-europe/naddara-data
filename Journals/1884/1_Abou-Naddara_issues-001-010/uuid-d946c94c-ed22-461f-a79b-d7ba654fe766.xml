@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-d946c94c-ed22-461f-a79b-d7ba654fe766">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-d946c94c-ed22-461f-a79b-d7ba654fe766">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة زرقاء
 </title>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1884</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 14 Septenbre 1884</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ١٤ سبتمبر سنة ١٨٨٤</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -40,11 +38,13 @@ Journal Oriental
 Direction Abou Naddara</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثامنة
 جريدة شرقية مديرها و محررها الشيخ ابو نظارة</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 14 Septenbre 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٤ سبتمبر سنة ١٨٨٤</note>
     <relatedItem xlink:href="#uuid-38661a66-3700-48f5-bf0a-b42fdc5d6860" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>8</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٨</number>
+                <number lang="ara" script="arab">عدد ٨</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -82,6 +82,8 @@ Direction Abou Naddara</note>
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 14 Septenbre 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٤ سبتمبر سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5ea602f1-59fe-3f4b-ac0e-696a13b63c7d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5ea602f1-59fe-3f4b-ac0e-696a13b63c7d</identifier>
@@ -89,11 +91,13 @@ Direction Abou Naddara</note>
             <title>1884_0029_008_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 14 Septenbre 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٤ سبتمبر سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6575ef5f-34ae-3492-8920-93b49315887e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_6575ef5f-34ae-3492-8920-93b49315887e</identifier>
@@ -101,11 +105,13 @@ Direction Abou Naddara</note>
             <title>1884_0030_008_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 14 Septenbre 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٤ سبتمبر سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b92ba923-7198-3e5d-9d09-7cbc1aabbf69">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b92ba923-7198-3e5d-9d09-7cbc1aabbf69</identifier>
@@ -113,11 +119,13 @@ Direction Abou Naddara</note>
             <title>1884_0031_008_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 14 Septenbre 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٤ سبتمبر سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ee6ff5c3-ae29-31d6-9260-3f359295072c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ee6ff5c3-ae29-31d6-9260-3f359295072c</identifier>
@@ -125,7 +133,7 @@ Direction Abou Naddara</note>
             <title>1884_0032_008_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

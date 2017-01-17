@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-3d08e81e-19a5-4344-b992-612fb630d8e7">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-3d08e81e-19a5-4344-b992-612fb630d8e7">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة زرقاء
 </title>
@@ -25,8 +25,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1883</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 18 Août 1883</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ١٨ اغوسطو سنة ١٨٨٣</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@
 Journal oriental bi-mensuel</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة السابعة
 جريدة شرقية</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 18 Août 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٨ اغوسطو سنة ١٨٨٣</note>
     <relatedItem xlink:href="#uuid-137d37e0-d499-4b75-b4bd-8f689fe3f4f9" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>11</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١١</number>
+                <number lang="ara" script="arab">عدد ١١</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Journal oriental bi-mensuel</note>
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara-Zarka-issues-001-014</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 18 Août 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٨ اغوسطو سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_18471eea-3c64-3e90-a0aa-6af1a375dd36">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_18471eea-3c64-3e90-a0aa-6af1a375dd36</identifier>
@@ -90,11 +92,13 @@ Journal oriental bi-mensuel</note>
             <title>1883_0041_011_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 18 Août 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٨ اغوسطو سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_bf6f7a58-30a3-32b7-805a-5bb55bc2d4db">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_bf6f7a58-30a3-32b7-805a-5bb55bc2d4db</identifier>
@@ -102,11 +106,13 @@ Journal oriental bi-mensuel</note>
             <title>1883_0042_011_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 18 Août 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٨ اغوسطو سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b50ebf77-4eb7-3f20-a9e1-2ad477998537">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b50ebf77-4eb7-3f20-a9e1-2ad477998537</identifier>
@@ -114,11 +120,13 @@ Journal oriental bi-mensuel</note>
             <title>1883_0043_011_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 18 Août 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٨ اغوسطو سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3653cb20-df11-3a01-9f34-02ba20337d6a">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_3653cb20-df11-3a01-9f34-02ba20337d6a</identifier>
@@ -126,7 +134,7 @@ Journal oriental bi-mensuel</note>
             <title>1883_0044_011_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

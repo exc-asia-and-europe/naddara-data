@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-2702fc93-23bb-45eb-a090-95b93ff8467c">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-2702fc93-23bb-45eb-a090-95b93ff8467c">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة</title>
         <subTitle>سمادى الشعوب
@@ -28,8 +28,6 @@ Illustrated Satirical Journal</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1907</dateIssued>
-        <dateIssued displayLabel="Western date as printed">10 Mars 1906</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">بباريس في شهر ربيع الاول سنة ١٣٢٥</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -46,11 +44,13 @@ Directeur et rédacteur en Chef: Le Cheikh  J. Sanua Abou Naddara
     <note type="edition" displayLabel="Additional Arabic date information">السنة ٣١  
 جريدة تصويرية فكاهية
 مديرها ابونظارة شاعر الملله بباريس  ٤٣ شاريع ريشيه  </note>
+    <note type="edition" displayLabel="Western date as printed">10 Mars 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر ربيع الاول سنة ١٣٢٥</note>
     <relatedItem xlink:href="#uuid-448c40a4-9754-43a9-9dcf-2495ecaa86a8" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>3</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٣</number>
+                <number lang="ara" script="arab">عدد ٣</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -88,6 +88,8 @@ Directeur et rédacteur en Chef: Le Cheikh  J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">2_L-Abou-Naddara_issues-001-008</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">10 Mars 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر ربيع الاول سنة ١٣٢٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ca73aa18-f329-3ec5-9877-81fafc4307ac">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ca73aa18-f329-3ec5-9877-81fafc4307ac</identifier>
@@ -95,11 +97,13 @@ Directeur et rédacteur en Chef: Le Cheikh  J. Sanua Abou Naddara
             <title>1907_0011_003_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">10 Mars 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر ربيع الاول سنة ١٣٢٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d6ea6fe6-53da-302c-b1b9-8908f040845c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d6ea6fe6-53da-302c-b1b9-8908f040845c</identifier>
@@ -107,11 +111,13 @@ Directeur et rédacteur en Chef: Le Cheikh  J. Sanua Abou Naddara
             <title>1907_0012_003_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">10 Mars 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر ربيع الاول سنة ١٣٢٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5211ee08-c014-3e6a-a045-12747eb5c17e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5211ee08-c014-3e6a-a045-12747eb5c17e</identifier>
@@ -119,11 +125,13 @@ Directeur et rédacteur en Chef: Le Cheikh  J. Sanua Abou Naddara
             <title>1907_0013_003_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">10 Mars 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر ربيع الاول سنة ١٣٢٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a7d755bc-e795-3b63-ac85-907d74e96b49">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_a7d755bc-e795-3b63-ac85-907d74e96b49</identifier>
@@ -131,7 +139,7 @@ Directeur et rédacteur en Chef: Le Cheikh  J. Sanua Abou Naddara
             <title>1907_0014_003_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

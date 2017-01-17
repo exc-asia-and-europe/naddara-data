@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-96ec7e74-9a9d-4945-a3fb-c363de791609">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-96ec7e74-9a9d-4945-a3fb-c363de791609">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة
 </title>
@@ -33,8 +33,6 @@ Independant Eastern Journal</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1903</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Décembre 1903</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في شهر  رمضان المعظم المعظم سنة ١٣٢١</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -51,11 +49,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
     <note type="edition" displayLabel="Additional Arabic date information">السنة السابعة و العشرون
 جريدة حرة شرقية
 مديرها و محررها الاول الشيخ ج.سانواابونظارة بباريس في شاريع ريشه نمرة ٤٣ </note>
+    <note type="edition" displayLabel="Western date as printed">Décembre 1903</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في شهر  رمضان المعظم المعظم سنة ١٣٢١</note>
     <relatedItem xlink:href="#uuid-5c5cd6f3-4bb5-4011-970c-c44649716849" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>5</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٥</number>
+                <number lang="ara" script="arab">عدد ٥</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -93,6 +93,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-005</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Décembre 1903</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في شهر  رمضان المعظم المعظم سنة ١٣٢١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d3dc324c-3fa6-3049-adaa-22403b5600f1">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d3dc324c-3fa6-3049-adaa-22403b5600f1</identifier>
@@ -100,11 +102,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1903_0043_005_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Décembre 1903</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في شهر  رمضان المعظم المعظم سنة ١٣٢١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6f30c331-45c3-361f-9f8a-01eace9d2870">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_6f30c331-45c3-361f-9f8a-01eace9d2870</identifier>
@@ -112,11 +116,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1903_0044_005_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Décembre 1903</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في شهر  رمضان المعظم المعظم سنة ١٣٢١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_05e87d99-089d-3b07-8062-d067cdf50865">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_05e87d99-089d-3b07-8062-d067cdf50865</identifier>
@@ -124,11 +130,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1903_0045_005_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Décembre 1903</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في شهر  رمضان المعظم المعظم سنة ١٣٢١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_58f4bcb7-3891-3ddc-95b5-bc7ef5515eb2">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_58f4bcb7-3891-3ddc-95b5-bc7ef5515eb2</identifier>
@@ -136,7 +144,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1903_0046_005_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

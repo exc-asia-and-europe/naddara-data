@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-febe9f02-9ddf-4991-81a9-e5038b1b5d34">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-febe9f02-9ddf-4991-81a9-e5038b1b5d34">
     <titleInfo lang="ara" script="arab">
         <title>
 
@@ -32,8 +32,6 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1889</dateIssued>
-        <dateIssued displayLabel="Western date as printed">15 Novembre 1889</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed"/>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">16</extent>
@@ -46,11 +44,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information"/>
     <note type="edition" displayLabel="Additional Arabic date information"/>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem xlink:href="#uuid-24020cfc-f580-499b-abad-f48343bc40bf" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>9 and 10</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٩ و ١٠</number>
+                <number lang="ara" script="arab">عدد ٩ و ١٠</number>
             </detail>
             <extent unit="pages">
                 <total>16</total>
@@ -88,6 +88,8 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <host_folder displayLabel="folder-name of host record">2_L-Attawadod_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7a3e1ab1-fad0-399f-a639-9e540db90769">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_7a3e1ab1-fad0-399f-a639-9e540db90769</identifier>
@@ -95,11 +97,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0081_009-010_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d1fb3f75-c788-3efc-b6e6-47cc029d8cba">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d1fb3f75-c788-3efc-b6e6-47cc029d8cba</identifier>
@@ -107,11 +111,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0082_009-010_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c7487838-a5eb-311a-a1fe-18fe9da17987">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_c7487838-a5eb-311a-a1fe-18fe9da17987</identifier>
@@ -119,11 +125,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0083_009-010_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_fbcab131-50a4-3225-88bf-05890880a026">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_fbcab131-50a4-3225-88bf-05890880a026</identifier>
@@ -131,11 +139,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0084_009-010_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_fec611c2-c2b0-3d5e-b02c-2f3902412035">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_fec611c2-c2b0-3d5e-b02c-2f3902412035</identifier>
@@ -143,11 +153,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0085_009-010_005.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="5">
+            <detail type="page number">
                 <number>5</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8703494f-422f-3dae-8e82-68fa0565605e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8703494f-422f-3dae-8e82-68fa0565605e</identifier>
@@ -155,11 +167,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0086_009-010_006.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="6">
+            <detail type="page number">
                 <number>6</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8df11181-87e1-3418-b50e-e39a210567e7">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8df11181-87e1-3418-b50e-e39a210567e7</identifier>
@@ -167,11 +181,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0087_009-010_007.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="7">
+            <detail type="page number">
                 <number>7</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_838d0621-8b9b-3fd5-8211-395baf148175">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_838d0621-8b9b-3fd5-8211-395baf148175</identifier>
@@ -179,11 +195,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0088_009-010_008.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="8">
+            <detail type="page number">
                 <number>8</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8776ace5-d209-3729-b44c-8bcbf85619a5">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8776ace5-d209-3729-b44c-8bcbf85619a5</identifier>
@@ -191,11 +209,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0089_009-010_009.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="9">
+            <detail type="page number">
                 <number>9</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_39ae820f-4ef1-3cb0-b9c9-0c1c867c2745">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_39ae820f-4ef1-3cb0-b9c9-0c1c867c2745</identifier>
@@ -203,11 +223,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0090_009-010_010.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="10">
+            <detail type="page number">
                 <number>10</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_56515226-4a0d-3bf3-8c89-6a9f5278ecc6">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_56515226-4a0d-3bf3-8c89-6a9f5278ecc6</identifier>
@@ -215,11 +237,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0091_009-010_011.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="11">
+            <detail type="page number">
                 <number>11</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b0be4f53-ab97-3a55-8066-8760ca88fcb3">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b0be4f53-ab97-3a55-8066-8760ca88fcb3</identifier>
@@ -227,11 +251,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0092_009-010_012.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="12">
+            <detail type="page number">
                 <number>12</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d9ab89ba-a54f-315e-af45-ee1f2f5b53a6">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d9ab89ba-a54f-315e-af45-ee1f2f5b53a6</identifier>
@@ -239,11 +265,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0093_009-010_013.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="13">
+            <detail type="page number">
                 <number>13</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_13cd1ecd-38e3-3bba-b890-e30da5e56503">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_13cd1ecd-38e3-3bba-b890-e30da5e56503</identifier>
@@ -251,11 +279,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0094_009-010_014.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="14">
+            <detail type="page number">
                 <number>14</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5fcf783c-6f7f-3247-b159-9d90cdb81420">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5fcf783c-6f7f-3247-b159-9d90cdb81420</identifier>
@@ -263,11 +293,13 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0095_009-010_015.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="15">
+            <detail type="page number">
                 <number>15</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Novembre 1889</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cbfef426-3931-3bec-8b2e-ae9e74352eed">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_cbfef426-3931-3bec-8b2e-ae9e74352eed</identifier>
@@ -275,7 +307,7 @@ Dirécteur et Rédacteur en chef: J. SANUA ABOU NADDARA</subTitle>
             <title>1889_0096_009-010_016.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="16">
+            <detail type="page number">
                 <number>16</number>
             </detail>
         </part>

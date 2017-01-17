@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-b8a5ae2f-69e9-4d78-abc8-0a2d1312d2b7">
+	<titleInfo>
+		<title>Le Cheikh J. Sanua Abou Naddara</title>
+		<subTitle/>
+	</titleInfo>
+	<name type="personal">
+		<namePart>Bonneval, J. (ed.)</namePart>
+		<role>
+			<roleTerm lang="eng" authority="marcrelator" type="text">author</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="code">aut</roleTerm>
+		</role>
+	</name>
+	<originInfo>
+		<place>
+			<placeTerm lang="eng" type="text"/>
+		</place>
+		<publisher>Bonneval, J.</publisher>
+		<dateIssued encoding="w3cdtf">1912</dateIssued>
+	</originInfo>
+	<physicalDescription>
+		<extent unit="issues" displayLabel="Number of issues within this series ">1912_L-Athenee</extent>
+		<note lang="eng" displayLabel="Content description">1912_L-Athenee</note>
+		<digitalOrigin>reformatted digital</digitalOrigin>
+	</physicalDescription>
+	<targetAudience authority="marctarget">adult</targetAudience>
+	<typeOfResource>text</typeOfResource>
+	<genre authority="marcgt">journal</genre>
+	<subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+	<note type="edition" displayLabel="Content description (by E. Ettmüller)">Issue dedicated to Sanua's obituary</note>
+	<note type="edition" displayLabel="Source of original objects">Original (by
+		courtesy of Mrs Eva Milhaud)</note>
+	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
+	<relatedItem displayLabel="Part of published volume" type="part">
+		<titleInfo lang="eng" script="latn">
+			<title>L'Athénée</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Bonneval, J.</namePart>
+			<role>
+				<roleTerm type="code" authority="marcrelator">pub</roleTerm>
+			</role>
+		</name>
+		<originInfo>
+			<issuance>continuing</issuance>
+		</originInfo>
+		<genre type="code" authority="marcgt">periodical</genre>
+		<part>
+			<detail type="issue">
+				<number>November</number>
+			</detail>
+			<extent unit="pages">
+				<total>17</total>
+				<list>096-112</list>
+			</extent>
+			<date encoding="w3cdtf">1912</date>
+		</part>
+	</relatedItem>
+	<location>
+		<url displayLabel="Path to Folder">1912_L-Athenee</url>
+	</location>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+	</language>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+		<scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+	</language>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b0195904-33e0-3226-8aeb-2e208c348f7b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_b0195904-33e0-3226-8aeb-2e208c348f7b</identifier>
+		<titleInfo>
+			<title>1912_0001_011_096.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>96</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cbf4cd9c-bced-339f-8cf5-b327038fa0e5">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_cbf4cd9c-bced-339f-8cf5-b327038fa0e5</identifier>
+		<titleInfo>
+			<title>1912_0002_011_097.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>97</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_59608a77-540e-33ea-bd34-3167f0e29763">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_59608a77-540e-33ea-bd34-3167f0e29763</identifier>
+		<titleInfo>
+			<title>1912_0003_011_098.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>98</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cb5f50c7-fc56-328f-975a-3b85fa482c45">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_cb5f50c7-fc56-328f-975a-3b85fa482c45</identifier>
+		<titleInfo>
+			<title>1912_0004_011_099.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>99</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_48dbe6d5-386b-33fe-a061-60f451fe2004">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_48dbe6d5-386b-33fe-a061-60f451fe2004</identifier>
+		<titleInfo>
+			<title>1912_0005_011_100.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>100</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_fad22c6b-cf28-3eb6-b597-c4896948acc8">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_fad22c6b-cf28-3eb6-b597-c4896948acc8</identifier>
+		<titleInfo>
+			<title>1912_0006_011_101.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>101</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cdcb7743-8c0b-3102-b9ba-f4c2e396a808">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_cdcb7743-8c0b-3102-b9ba-f4c2e396a808</identifier>
+		<titleInfo>
+			<title>1912_0007_011_102.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>102</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_40f69d21-6b3e-3a90-a368-683419c758a3">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_40f69d21-6b3e-3a90-a368-683419c758a3</identifier>
+		<titleInfo>
+			<title>1912_0008_011_103.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>103</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d540ac07-1840-3bff-9c80-268c870b913a">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_d540ac07-1840-3bff-9c80-268c870b913a</identifier>
+		<titleInfo>
+			<title>1912_0009_011_104.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>104</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4bc003ca-e04d-30ab-9c85-3001bd4b6e6d">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_4bc003ca-e04d-30ab-9c85-3001bd4b6e6d</identifier>
+		<titleInfo>
+			<title>1912_0010_011_105.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>105</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_eb590673-dac8-3b8c-acc6-976f5de0e360">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_eb590673-dac8-3b8c-acc6-976f5de0e360</identifier>
+		<titleInfo>
+			<title>1912_0011_011_106.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>106</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_45a5c26e-0a70-3bee-918f-3337bcc43620">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_45a5c26e-0a70-3bee-918f-3337bcc43620</identifier>
+		<titleInfo>
+			<title>1912_0012_011_107.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>107</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_dfc74069-4828-3a95-a6a2-ba7dd7c76a90">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_dfc74069-4828-3a95-a6a2-ba7dd7c76a90</identifier>
+		<titleInfo>
+			<title>1912_0013_011_108.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>108</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_08ac0b3a-1e18-3d59-ae18-2cd8f74c7786">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_08ac0b3a-1e18-3d59-ae18-2cd8f74c7786</identifier>
+		<titleInfo>
+			<title>1912_0014_011_109.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>109</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_74575c4d-c99b-340c-86bb-3a1df9ebfaa7">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_74575c4d-c99b-340c-86bb-3a1df9ebfaa7</identifier>
+		<titleInfo>
+			<title>1912_0015_011_110.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>110</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_fcccd45e-d8fb-3106-9fb3-4964305ad1b3">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_fcccd45e-d8fb-3106-9fb3-4964305ad1b3</identifier>
+		<titleInfo>
+			<title>1912_0016_011_111.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>111</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7e60de67-4a78-3ca1-a203-4ee1a200775a">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_7e60de67-4a78-3ca1-a203-4ee1a200775a</identifier>
+		<titleInfo>
+			<title>1912_0017_011_112.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>112</number>
+			</detail>
+		</part>
+	</relatedItem>
+</mods>

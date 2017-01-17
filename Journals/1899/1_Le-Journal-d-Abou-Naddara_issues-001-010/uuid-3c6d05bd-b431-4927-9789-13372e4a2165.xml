@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-3c6d05bd-b431-4927-9789-13372e4a2165">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-3c6d05bd-b431-4927-9789-13372e4a2165">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة
 </title>
@@ -27,8 +27,6 @@ L'Egypte aux Egyptiens
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1899</dateIssued>
-        <dateIssued displayLabel="Western date as printed">25 Janvier 1899</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">بباريس في ١٥ امضان المكرم سنة ١٣١٦</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -45,11 +43,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 6, Rue Geoffroy -Marie, Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثالثة و العشرون
 جريدة وطنية  مديرها و محررها الشيخ ج.سانواابونظارة بباريس  شاريع جوفروا ماري نمرة ٦</note>
+    <note type="edition" displayLabel="Western date as printed">25 Janvier 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في ١٥ امضان المكرم سنة ١٣١٦</note>
     <relatedItem xlink:href="#uuid-46c435fe-3b3e-4750-b9b6-954824b39a64" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>1</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١</number>
+                <number lang="ara" script="arab">عدد ١</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -87,6 +87,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">25 Janvier 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في ١٥ امضان المكرم سنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_468c0cd9-4f37-3d0e-99f3-4751d9ae5ae2">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_468c0cd9-4f37-3d0e-99f3-4751d9ae5ae2</identifier>
@@ -94,11 +96,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0003_001_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Janvier 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في ١٥ امضان المكرم سنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9a04f15d-7c65-3cad-a449-db90bb4d66bb">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9a04f15d-7c65-3cad-a449-db90bb4d66bb</identifier>
@@ -106,11 +110,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0004_001_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Janvier 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في ١٥ امضان المكرم سنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e7e6b1eb-ea55-302a-a134-018e034089aa">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e7e6b1eb-ea55-302a-a134-018e034089aa</identifier>
@@ -118,11 +124,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0005_001_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Janvier 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في ١٥ امضان المكرم سنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_94c91a90-87f3-3b79-917c-c5b3f48e2e52">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_94c91a90-87f3-3b79-917c-c5b3f48e2e52</identifier>
@@ -130,7 +138,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0006_001_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-2ec548eb-8184-4d3e-a0b8-db83b2720615">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-2ec548eb-8184-4d3e-a0b8-db83b2720615">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة زرقاء
 </title>
@@ -25,8 +25,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1883</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 7 Juillet 1883</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٧ لوليو سنة ١٨٨٣</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@
 Journal oriental bi-mensuel</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة السابعة
 جريدة شرقية</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 7 Juillet 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٧ لوليو سنة ١٨٨٣</note>
     <relatedItem xlink:href="#uuid-137d37e0-d499-4b75-b4bd-8f689fe3f4f9" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>9</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٩</number>
+                <number lang="ara" script="arab">عدد ٩</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Journal oriental bi-mensuel</note>
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara-Zarka-issues-001-014</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 7 Juillet 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٧ لوليو سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8912930c-46ce-3ee2-8586-f754d573ef6e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8912930c-46ce-3ee2-8586-f754d573ef6e</identifier>
@@ -90,11 +92,13 @@ Journal oriental bi-mensuel</note>
             <title>1883_0033_009_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 7 Juillet 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٧ لوليو سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7d5dea25-067b-3d6f-b556-95daf2ff6704">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_7d5dea25-067b-3d6f-b556-95daf2ff6704</identifier>
@@ -102,11 +106,13 @@ Journal oriental bi-mensuel</note>
             <title>1883_0034_009_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 7 Juillet 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٧ لوليو سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_963cbcee-567e-3c38-a19b-13464ef32f39">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_963cbcee-567e-3c38-a19b-13464ef32f39</identifier>
@@ -114,11 +120,13 @@ Journal oriental bi-mensuel</note>
             <title>1883_0035_009_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 7 Juillet 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٧ لوليو سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cc684086-05b1-3344-9007-e5b06b62c20a">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_cc684086-05b1-3344-9007-e5b06b62c20a</identifier>
@@ -126,7 +134,7 @@ Journal oriental bi-mensuel</note>
             <title>1883_0036_009_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

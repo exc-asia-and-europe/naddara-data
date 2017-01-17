@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-3272b7f5-b9f9-48b2-9c26-7073c778fd00">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-3272b7f5-b9f9-48b2-9c26-7073c778fd00">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة زرقاء
 </title>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1884</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 8 Mars 1884</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٨ مرس سنة ١٨٨٤</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -40,11 +38,13 @@ Journal Oriental
 Direction Abou Naddara</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثامنة
 جريدة شرقية مديرها و محررها الشيخ ابو نظارة</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 8 Mars 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٨ مرس سنة ١٨٨٤</note>
     <relatedItem xlink:href="#uuid-38661a66-3700-48f5-bf0a-b42fdc5d6860" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>3</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٣</number>
+                <number lang="ara" script="arab">عدد ٣</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -82,6 +82,8 @@ Direction Abou Naddara</note>
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 8 Mars 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٨ مرس سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e839418f-347a-3e5e-8b61-ce2145c1b22a">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e839418f-347a-3e5e-8b61-ce2145c1b22a</identifier>
@@ -89,11 +91,13 @@ Direction Abou Naddara</note>
             <title>1884_0009_003_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 8 Mars 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٨ مرس سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b1dc0f71-1099-31ce-8b81-979dbac3236c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b1dc0f71-1099-31ce-8b81-979dbac3236c</identifier>
@@ -101,11 +105,13 @@ Direction Abou Naddara</note>
             <title>1884_0010_003_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 8 Mars 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٨ مرس سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c88fafcd-9b53-3c7d-98de-78b17e004a1c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_c88fafcd-9b53-3c7d-98de-78b17e004a1c</identifier>
@@ -113,11 +119,13 @@ Direction Abou Naddara</note>
             <title>1884_0011_003_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 8 Mars 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٨ مرس سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9f3448fc-4c73-33c3-9472-599343259242">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9f3448fc-4c73-33c3-9472-599343259242</identifier>
@@ -125,7 +133,7 @@ Direction Abou Naddara</note>
             <title>1884_0012_003_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

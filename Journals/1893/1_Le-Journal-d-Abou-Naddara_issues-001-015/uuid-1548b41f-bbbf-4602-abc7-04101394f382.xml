@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-1548b41f-bbbf-4602-abc7-04101394f382">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-1548b41f-bbbf-4602-abc7-04101394f382">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة</title>
         <subTitle>مصر للمصرين</subTitle>
@@ -23,8 +23,6 @@ L'Egypte aux Egyptiens</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1893</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris 26 Septembre 1893</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٢٦ سيبتمبر سنة ١٨٩٣</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -43,11 +41,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 السنة السابعة عشر
 مدير الجريدة و محررها الاول 
 الشيخ ج. سانوا ابو نظارة نمرة ٦ رو جوفروا ماري بباريس </note>
+    <note type="edition" displayLabel="Western date as printed">Paris 26 Septembre 1893</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٦ سيبتمبر سنة ١٨٩٣</note>
     <relatedItem xlink:href="#uuid-5f15308f-8e48-489a-a952-329d1455da50" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>12</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١٢</number>
+                <number lang="ara" script="arab">عدد ١٢</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -85,6 +85,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-015</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris 26 Septembre 1893</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٦ سيبتمبر سنة ١٨٩٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2f2cbd39-348c-3a9b-9253-d17fed4bec45">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2f2cbd39-348c-3a9b-9253-d17fed4bec45</identifier>
@@ -92,11 +94,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1893_0047_012_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris 26 Septembre 1893</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٦ سيبتمبر سنة ١٨٩٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5c8f8f81-ab22-3c6f-a9ca-1011249cb8ec">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5c8f8f81-ab22-3c6f-a9ca-1011249cb8ec</identifier>
@@ -104,11 +108,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1893_0048_012_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris 26 Septembre 1893</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٦ سيبتمبر سنة ١٨٩٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_85e7e985-1ebb-3aee-bb7e-50254da6f194">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_85e7e985-1ebb-3aee-bb7e-50254da6f194</identifier>
@@ -116,11 +122,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1893_0049_012_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris 26 Septembre 1893</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٦ سيبتمبر سنة ١٨٩٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f6d6fa4a-40f7-3cc3-84cf-1ab1134c8106">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f6d6fa4a-40f7-3cc3-84cf-1ab1134c8106</identifier>
@@ -128,7 +136,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1893_0050_012_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-3f0b577a-af86-4c4c-8bf1-bddae24b147c">
+	<titleInfo>
+		<title> L'Arabo anziano</title>
+		<subTitle/>
+	</titleInfo>
+	<name type="personal">
+		<namePart>Sanua, James</namePart>
+		<role>
+			<roleTerm lang="eng" authority="marcrelator" type="text">author</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="code">aut</roleTerm>
+		</role>
+	</name>
+	<originInfo>
+		<place>
+			<placeTerm lang="eng" type="text">Cairo</placeTerm>
+		</place>
+		<publisher>Nuova Tipografia di P. Cumbo</publisher>
+		<dateIssued encoding="w3cdtf">1869</dateIssued>
+	</originInfo>
+	<physicalDescription>
+		<extent unit="issues" displayLabel="Number of issues within this series">1869_L-Arabo</extent>
+		<note lang="eng" displayLabel="Content description">1869_L-Arabo</note>
+		<digitalOrigin>reformatted digital</digitalOrigin>
+	</physicalDescription>
+	<targetAudience authority="marctarget">adult</targetAudience>
+	<typeOfResource>text</typeOfResource>
+	<genre authority="marcgt">journal</genre>
+	<subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+	<note type="edition" displayLabel="Content description (by E. Ettmüller)">Italian Poem which allegorizes Egypt as an old Arab man. Oldest
+		document published by Sanua to be found.</note>
+	<note type="edition" displayLabel="Source of original objects">Original (by
+		courtesy of Mrs Eva Milhaud)</note>
+	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
+	<relatedItem displayLabel="Part of published volume" type="part">
+		<titleInfo lang="eng" script="latn">
+			<title/>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Nuova Tipografia di P. Cumbo</namePart>
+			<role>
+				<roleTerm type="code" authority="marcrelator">pub</roleTerm>
+			</role>
+		</name>
+		<originInfo>
+			<issuance>continuing</issuance>
+		</originInfo>
+		<genre type="code" authority="marcgt">periodical</genre>
+		<part>
+			<detail type="issue">
+				<number/>
+			</detail>
+			<extent unit="pages">
+				<total>48</total>
+				<list>01-48</list>
+			</extent>
+			<date encoding="w3cdtf">1869</date>
+		</part>
+	</relatedItem>
+	<location>
+		<url displayLabel="Path to Folder">1869_L-Arabo</url>
+	</location>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+	</language>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+		<scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+	</language>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b67ec0cc-a6a6-32f8-9603-63aaf9548dca">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_b67ec0cc-a6a6-32f8-9603-63aaf9548dca</identifier>
+		<titleInfo>
+			<title>1869_0001_000_000.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number/>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_77eebc42-84cd-3d42-af73-a08658894467">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_77eebc42-84cd-3d42-af73-a08658894467</identifier>
+		<titleInfo>
+			<title>1869_0003_000_003.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>3</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cbdebb3c-d788-3ae7-b70f-1ad747e71d51">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_cbdebb3c-d788-3ae7-b70f-1ad747e71d51</identifier>
+		<titleInfo>
+			<title>1869_0004_000_004.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>4</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e3ff1818-3ab8-3633-ba24-9d1fce20873b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_e3ff1818-3ab8-3633-ba24-9d1fce20873b</identifier>
+		<titleInfo>
+			<title>1869_0005_000_005.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>5</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_28e3ef90-c09b-3214-b843-e27be7a0e91d">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_28e3ef90-c09b-3214-b843-e27be7a0e91d</identifier>
+		<titleInfo>
+			<title>1869_0006_000_006.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>6</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d5bc7d85-a584-3b99-8d5f-1b88c1becf88">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_d5bc7d85-a584-3b99-8d5f-1b88c1becf88</identifier>
+		<titleInfo>
+			<title>1869_0007_000_007.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>7</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0a02d09a-7401-3840-bf73-76f42e3895ba">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_0a02d09a-7401-3840-bf73-76f42e3895ba</identifier>
+		<titleInfo>
+			<title>1869_0008_000_008.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>8</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1216327e-5493-3323-b502-7b7bd13ce1e3">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_1216327e-5493-3323-b502-7b7bd13ce1e3</identifier>
+		<titleInfo>
+			<title>1869_0009_000_009.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>9</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5c50cd74-d4cf-34c6-a25a-e21f4aec9089">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_5c50cd74-d4cf-34c6-a25a-e21f4aec9089</identifier>
+		<titleInfo>
+			<title>1869_0010_000_010.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>10</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_bc5ef5d3-79a9-3727-893d-51ddb316ea3e">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_bc5ef5d3-79a9-3727-893d-51ddb316ea3e</identifier>
+		<titleInfo>
+			<title>1869_0011_000_011.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>11</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_011577b5-066b-38f0-9e74-22996804a85b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_011577b5-066b-38f0-9e74-22996804a85b</identifier>
+		<titleInfo>
+			<title>1869_0012_000_012.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>12</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_72f5525a-03f6-3229-93ce-a991825166ac">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_72f5525a-03f6-3229-93ce-a991825166ac</identifier>
+		<titleInfo>
+			<title>1869_0013_000_013.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>13</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6556a5e0-6f70-3ffb-9017-d71ea716850d">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_6556a5e0-6f70-3ffb-9017-d71ea716850d</identifier>
+		<titleInfo>
+			<title>1869_0014_000_014.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>14</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4e9bca0b-0d71-3f1e-a409-464f915a756b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_4e9bca0b-0d71-3f1e-a409-464f915a756b</identifier>
+		<titleInfo>
+			<title>1869_0015_000_015.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>15</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f022a4b7-bef9-353c-b1ef-eeadc52f0db0">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_f022a4b7-bef9-353c-b1ef-eeadc52f0db0</identifier>
+		<titleInfo>
+			<title>1869_0016_000_016.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>16</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_bec22a61-3951-30be-bda7-0fb379df23c7">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_bec22a61-3951-30be-bda7-0fb379df23c7</identifier>
+		<titleInfo>
+			<title>1869_0017_000_017.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>17</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d28689a2-ca61-352a-9d38-119cf010fb67">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_d28689a2-ca61-352a-9d38-119cf010fb67</identifier>
+		<titleInfo>
+			<title>1869_0018_000_018.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>18</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_78166410-2f8f-3b04-9a5c-89a7423463ea">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_78166410-2f8f-3b04-9a5c-89a7423463ea</identifier>
+		<titleInfo>
+			<title>1869_0019_000_019.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>19</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_dfd8e4e0-9b3a-3d2a-8992-a1871871bdc5">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_dfd8e4e0-9b3a-3d2a-8992-a1871871bdc5</identifier>
+		<titleInfo>
+			<title>1869_0020_000_020.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>20</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0fcec404-f7b1-31b6-a1c9-1ff8c92f11f9">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_0fcec404-f7b1-31b6-a1c9-1ff8c92f11f9</identifier>
+		<titleInfo>
+			<title>1869_0021_000_021.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>21</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6f97688a-fa92-3e43-9636-2a12674841db">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_6f97688a-fa92-3e43-9636-2a12674841db</identifier>
+		<titleInfo>
+			<title>1869_0022_000_022.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>22</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4323a90a-a787-3f0a-bc34-eba90ea732b7">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_4323a90a-a787-3f0a-bc34-eba90ea732b7</identifier>
+		<titleInfo>
+			<title>1869_0023_000_023.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>23</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5c357962-be0e-3320-97f3-413702ff221b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_5c357962-be0e-3320-97f3-413702ff221b</identifier>
+		<titleInfo>
+			<title>1869_0024_000_024.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>24</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8e8c61dc-b934-3460-b7d4-84bbf8ec579a">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_8e8c61dc-b934-3460-b7d4-84bbf8ec579a</identifier>
+		<titleInfo>
+			<title>1869_0025_000_025.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>25</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e278b71d-023c-38a7-b9de-e6c5f2cf85f6">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_e278b71d-023c-38a7-b9de-e6c5f2cf85f6</identifier>
+		<titleInfo>
+			<title>1869_0026_000_026.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>26</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f0b422a4-4254-3401-9869-3b5c4efd5426">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_f0b422a4-4254-3401-9869-3b5c4efd5426</identifier>
+		<titleInfo>
+			<title>1869_0027_000_027.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>27</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e2419577-b16b-3e49-b830-6e28028f1e66">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_e2419577-b16b-3e49-b830-6e28028f1e66</identifier>
+		<titleInfo>
+			<title>1869_0028_000_028.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>28</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_656af182-fb36-3ce1-8cdd-57a483e947f1">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_656af182-fb36-3ce1-8cdd-57a483e947f1</identifier>
+		<titleInfo>
+			<title>1869_0029_000_029.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>29</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_be6cf9a6-cf82-38c1-aaa7-898a052e4e39">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_be6cf9a6-cf82-38c1-aaa7-898a052e4e39</identifier>
+		<titleInfo>
+			<title>1869_0030_000_030.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>30</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_13695376-e466-3fb5-a666-8a97aad38b42">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_13695376-e466-3fb5-a666-8a97aad38b42</identifier>
+		<titleInfo>
+			<title>1869_0031_000_031.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>31</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_bc17d35e-840f-3044-aa89-538e4b43f7c3">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_bc17d35e-840f-3044-aa89-538e4b43f7c3</identifier>
+		<titleInfo>
+			<title>1869_0032_000_032.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>32</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4a14538f-df11-3164-9d75-04720bedff17">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_4a14538f-df11-3164-9d75-04720bedff17</identifier>
+		<titleInfo>
+			<title>1869_0033_000_033.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>33</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_26566937-c402-3f9f-996f-f1350da31a89">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_26566937-c402-3f9f-996f-f1350da31a89</identifier>
+		<titleInfo>
+			<title>1869_0034_000_034.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>34</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_bddc7c7b-bc8b-3dd3-add8-3b559a4683cb">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_bddc7c7b-bc8b-3dd3-add8-3b559a4683cb</identifier>
+		<titleInfo>
+			<title>1869_0035_000_035.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>35</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e85be5b9-6d36-3a13-92de-506fc4cb7a15">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_e85be5b9-6d36-3a13-92de-506fc4cb7a15</identifier>
+		<titleInfo>
+			<title>1869_0036_000_036.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>36</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2b629fea-33b9-36b2-8fea-df04be474aa6">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_2b629fea-33b9-36b2-8fea-df04be474aa6</identifier>
+		<titleInfo>
+			<title>1869_0037_000_037.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>37</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2c098740-0338-3550-adc1-9c2a0a3c8f74">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_2c098740-0338-3550-adc1-9c2a0a3c8f74</identifier>
+		<titleInfo>
+			<title>1869_0038_000_038.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>38</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_896e6b27-ef65-3c18-afb6-58a77244fc08">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_896e6b27-ef65-3c18-afb6-58a77244fc08</identifier>
+		<titleInfo>
+			<title>1869_0039_000_039.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>39</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2903599c-7593-32e5-a8d8-a1b700cf9387">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_2903599c-7593-32e5-a8d8-a1b700cf9387</identifier>
+		<titleInfo>
+			<title>1869_0040_000_040.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>40</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9689fd0f-0698-37d6-b1e4-24d4509ef8c7">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_9689fd0f-0698-37d6-b1e4-24d4509ef8c7</identifier>
+		<titleInfo>
+			<title>1869_0041_000_041.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>41</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_08cdb8c9-4b7a-30de-b6a7-9069ea24c76b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_08cdb8c9-4b7a-30de-b6a7-9069ea24c76b</identifier>
+		<titleInfo>
+			<title>1869_0042_000_042.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>42</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_478180d3-326e-3aca-8f07-57a1e65706c1">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_478180d3-326e-3aca-8f07-57a1e65706c1</identifier>
+		<titleInfo>
+			<title>1869_0043_000_043.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>43</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a07607bf-f854-3d2c-aad0-dac15c20edac">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_a07607bf-f854-3d2c-aad0-dac15c20edac</identifier>
+		<titleInfo>
+			<title>1869_0044_000_044.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>44</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6d0c264c-654d-3889-a827-58f575e7faf1">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_6d0c264c-654d-3889-a827-58f575e7faf1</identifier>
+		<titleInfo>
+			<title>1869_0045_000_045.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>45</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8dfaf909-4efb-3a41-9601-ca9a61fe6cfd">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_8dfaf909-4efb-3a41-9601-ca9a61fe6cfd</identifier>
+		<titleInfo>
+			<title>1869_0046_000_046.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>46</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a7ba86d6-b484-3a31-96a4-208b74669edf">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_a7ba86d6-b484-3a31-96a4-208b74669edf</identifier>
+		<titleInfo>
+			<title>1869_0047_000_047.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>47</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a8c87e7d-8c53-303d-a11f-6bb5a55a466c">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_a8c87e7d-8c53-303d-a11f-6bb5a55a466c</identifier>
+		<titleInfo>
+			<title>1869_0048_000_048.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>48</number>
+			</detail>
+		</part>
+	</relatedItem>
+</mods>

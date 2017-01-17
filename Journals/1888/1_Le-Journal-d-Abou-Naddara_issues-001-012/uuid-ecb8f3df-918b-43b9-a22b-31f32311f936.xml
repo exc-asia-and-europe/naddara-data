@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-ecb8f3df-918b-43b9-a22b-31f32311f936">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-ecb8f3df-918b-43b9-a22b-31f32311f936">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة</title>
         <subTitle>مصر للمصرين</subTitle>
@@ -22,8 +22,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1888</dateIssued>
-        <dateIssued displayLabel="Western date as printed">22 Septembre 1888</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٢٢ سبتمبر سنة ١٨٨٨</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 مديرالجريدة و المحررها جمس سنووا ابو نظارة 
 ٦ نمرة رو جفروا ماري
 باريس</note>
+    <note type="edition" displayLabel="Western date as printed">22 Septembre 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٢ سبتمبر سنة ١٨٨٨</note>
     <relatedItem xlink:href="#uuid-30e1ea7e-562e-41cc-93da-e8cb74c04878" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>9</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٩</number>
+                <number lang="ara" script="arab">عدد ٩</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">22 Septembre 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٢ سبتمبر سنة ١٨٨٨</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b55aff6a-3e5a-3e9a-a1b2-7ed79da09677">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b55aff6a-3e5a-3e9a-a1b2-7ed79da09677</identifier>
@@ -90,11 +92,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1888_0031_009_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">22 Septembre 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٢ سبتمبر سنة ١٨٨٨</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b66a65df-3525-3840-a882-086261e685c4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b66a65df-3525-3840-a882-086261e685c4</identifier>
@@ -102,11 +106,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1888_0032_009_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">22 Septembre 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٢ سبتمبر سنة ١٨٨٨</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ab6cc2dd-1728-3ca3-be9b-09e68bbae495">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ab6cc2dd-1728-3ca3-be9b-09e68bbae495</identifier>
@@ -114,11 +120,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1888_0033_009_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">22 Septembre 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٢ سبتمبر سنة ١٨٨٨</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_45d59d84-d272-35a0-a332-196d2beac2a9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_45d59d84-d272-35a0-a332-196d2beac2a9</identifier>
@@ -126,7 +134,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1888_0034_009_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

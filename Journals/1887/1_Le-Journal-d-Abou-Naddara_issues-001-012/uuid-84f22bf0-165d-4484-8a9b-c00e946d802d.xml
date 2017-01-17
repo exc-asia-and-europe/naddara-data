@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-84f22bf0-165d-4484-8a9b-c00e946d802d">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-84f22bf0-165d-4484-8a9b-c00e946d802d">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة 
 </title>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1887</dateIssued>
-        <dateIssued displayLabel="Western date as printed">31 Août 1887</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٣١ اغوسطوس سنة ١٨٨٧</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
     <note type="edition" displayLabel="Additional Arabic date information">السنة الحادية عشر
 جريدة حرة
 مديرها و محررها الشيخ جمس سنووا ابو نظارة </note>
+    <note type="edition" displayLabel="Western date as printed">31 Août 1887</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٣١ اغوسطوس سنة ١٨٨٧</note>
     <relatedItem xlink:href="#uuid-be848fbf-c28d-4600-9cb4-d55a2771ec32" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>8</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٨</number>
+                <number lang="ara" script="arab">عدد ٨</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">31 Août 1887</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٣١ اغوسطوس سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ee8ae3a3-24b0-392d-ab31-9970dfb216b9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ee8ae3a3-24b0-392d-ab31-9970dfb216b9</identifier>
@@ -90,11 +92,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0029_008_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">31 Août 1887</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٣١ اغوسطوس سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_497a8ee9-2a40-3444-a53b-4cb5c3a59c3c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_497a8ee9-2a40-3444-a53b-4cb5c3a59c3c</identifier>
@@ -102,11 +106,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0030_008_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">31 Août 1887</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٣١ اغوسطوس سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1bc3e750-afa9-3e59-8027-9a6e70a79ec9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_1bc3e750-afa9-3e59-8027-9a6e70a79ec9</identifier>
@@ -114,11 +120,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0031_008_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">31 Août 1887</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٣١ اغوسطوس سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1e3f0ad7-e003-3958-b721-49bccfffced9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_1e3f0ad7-e003-3958-b721-49bccfffced9</identifier>
@@ -126,7 +134,7 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0032_008_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

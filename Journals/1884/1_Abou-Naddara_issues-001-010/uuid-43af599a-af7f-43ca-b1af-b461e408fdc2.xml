@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-43af599a-af7f-43ca-b1af-b461e408fdc2">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-43af599a-af7f-43ca-b1af-b461e408fdc2">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة زرقاء
 </title>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1884</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 6 Décembre 1884</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٦ ديسمبر سنة ١٨٨٤</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -40,11 +38,13 @@ Journal Oriental
 Direction Abou Naddara</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثامنة
 جريدة شرقية مديرها و محررها الشيخ ابو نظارة</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 6 Décembre 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٦ ديسمبر سنة ١٨٨٤</note>
     <relatedItem xlink:href="#uuid-38661a66-3700-48f5-bf0a-b42fdc5d6860" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>10</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١٠</number>
+                <number lang="ara" script="arab">عدد ١٠</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -82,6 +82,8 @@ Direction Abou Naddara</note>
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 6 Décembre 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٦ ديسمبر سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b1c356ad-9b17-30bb-9945-602c745cfd6b">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b1c356ad-9b17-30bb-9945-602c745cfd6b</identifier>
@@ -89,11 +91,13 @@ Direction Abou Naddara</note>
             <title>1884_0037_010_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 6 Décembre 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٦ ديسمبر سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_76f7b6cb-a112-31ce-ad34-c6356d0b3a3d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_76f7b6cb-a112-31ce-ad34-c6356d0b3a3d</identifier>
@@ -101,11 +105,13 @@ Direction Abou Naddara</note>
             <title>1884_0038_010_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 6 Décembre 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٦ ديسمبر سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_35fd6d0d-90c7-3b7a-9457-ffbde47ae21e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_35fd6d0d-90c7-3b7a-9457-ffbde47ae21e</identifier>
@@ -113,11 +119,13 @@ Direction Abou Naddara</note>
             <title>1884_0039_010_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 6 Décembre 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٦ ديسمبر سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4909de22-227e-317f-9e75-27073f1df153">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_4909de22-227e-317f-9e75-27073f1df153</identifier>
@@ -125,7 +133,7 @@ Direction Abou Naddara</note>
             <title>1884_0040_010_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

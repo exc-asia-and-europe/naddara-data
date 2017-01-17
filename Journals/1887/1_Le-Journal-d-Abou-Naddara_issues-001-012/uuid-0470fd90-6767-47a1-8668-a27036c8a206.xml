@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-0470fd90-6767-47a1-8668-a27036c8a206">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-0470fd90-6767-47a1-8668-a27036c8a206">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة 
 </title>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1887</dateIssued>
-        <dateIssued displayLabel="Western date as printed">16 Avril</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس١٧ ابريل سنة ١٨٨٧</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
     <note type="edition" displayLabel="Additional Arabic date information">السنة الحادية عشر
 جريدة حرة
 مديرها و محررها الشيخ جمس سنووا ابو نظارة </note>
+    <note type="edition" displayLabel="Western date as printed">16 Avril</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس١٧ ابريل سنة ١٨٨٧</note>
     <relatedItem xlink:href="#uuid-be848fbf-c28d-4600-9cb4-d55a2771ec32" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>4</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٤</number>
+                <number lang="ara" script="arab">عدد ٤</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">16 Avril</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس١٧ ابريل سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_bf002c59-5113-3c32-b1cf-41bd169fe8f5">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_bf002c59-5113-3c32-b1cf-41bd169fe8f5</identifier>
@@ -90,11 +92,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0013_004_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">16 Avril</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس١٧ ابريل سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3a6a5ffa-5174-3e43-94b8-e70491c0498f">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_3a6a5ffa-5174-3e43-94b8-e70491c0498f</identifier>
@@ -102,11 +106,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0014_004_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">16 Avril</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس١٧ ابريل سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ba839c8b-3647-3dbe-aa41-e55675f61961">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ba839c8b-3647-3dbe-aa41-e55675f61961</identifier>
@@ -114,11 +120,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0015_004_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">16 Avril</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس١٧ ابريل سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5e32469a-c224-3b20-a7ca-d30c7eb0f884">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5e32469a-c224-3b20-a7ca-d30c7eb0f884</identifier>
@@ -126,7 +134,7 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0016_004_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-3416a7ce-4685-41b3-847d-6e40c0454158">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-3416a7ce-4685-41b3-847d-6e40c0454158">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة زرقاء
 </title>
@@ -26,8 +26,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1883</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris, le 9 Février 1883</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٩ فبروار  سنة ١٨٨٣</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -42,11 +40,13 @@
 Journal Satyrique paraissant le 2ème et le 4ème vendredi de chaque mois</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة السابعة
 جريدة هزلية</note>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 9 Février 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٩ فبروار  سنة ١٨٨٣</note>
     <relatedItem xlink:href="#uuid-137d37e0-d499-4b75-b4bd-8f689fe3f4f9" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>2</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد الثاني</number>
+                <number lang="ara" script="arab">عدد الثاني</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -84,6 +84,8 @@ Journal Satyrique paraissant le 2ème et le 4ème vendredi de chaque mois</note>
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara-Zarka-issues-001-014</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 9 Février 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٩ فبروار  سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e0979204-09b4-3682-b73d-2e79f2af5571">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e0979204-09b4-3682-b73d-2e79f2af5571</identifier>
@@ -91,11 +93,13 @@ Journal Satyrique paraissant le 2ème et le 4ème vendredi de chaque mois</note>
             <title>1883_0005_002_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 9 Février 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٩ فبروار  سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_69b70872-3fa3-3494-9097-4d2266218994">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_69b70872-3fa3-3494-9097-4d2266218994</identifier>
@@ -103,11 +107,13 @@ Journal Satyrique paraissant le 2ème et le 4ème vendredi de chaque mois</note>
             <title>1883_0006_002_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 9 Février 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٩ فبروار  سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4d9a8044-6445-31ec-9667-8f382508fb1d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_4d9a8044-6445-31ec-9667-8f382508fb1d</identifier>
@@ -115,11 +121,13 @@ Journal Satyrique paraissant le 2ème et le 4ème vendredi de chaque mois</note>
             <title>1883_0007_002_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 9 Février 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٩ فبروار  سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9c5a611c-85d4-3064-af64-fe0c83a01a59">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9c5a611c-85d4-3064-af64-fe0c83a01a59</identifier>
@@ -127,7 +135,7 @@ Journal Satyrique paraissant le 2ème et le 4ème vendredi de chaque mois</note>
             <title>1883_0008_002_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

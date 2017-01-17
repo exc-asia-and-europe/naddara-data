@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-45da78d9-c471-4ec9-896e-4789d9e04ad6">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-45da78d9-c471-4ec9-896e-4789d9e04ad6">
     <titleInfo lang="ara" script="arab">
         <title>تودد ابي نظارة</title>
         <subTitle>جريدة سياسية ادبية بالرسومات محلية</subTitle>
@@ -26,8 +26,6 @@ Political and Literary Journal with Local illustrations</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1898</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Octobre 1898</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">16</extent>
@@ -42,11 +40,13 @@ Political and Literary Journal with Local illustrations</subTitle>
 Direction: 6, Rue Geoffroy-Marie. Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة السابعة 
 ترسل بمديرها الشيخ ج.سانواابو نظارة بشارع رو جوفروا ماري نمرة ٦ بباريس </note>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem xlink:href="#uuid-7693582a-fcdb-4ad7-8188-a62cdbb8e9c1" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>9</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">العدد الثاسع</number>
+                <number lang="ara" script="arab">العدد الثاسع</number>
             </detail>
             <extent unit="pages">
                 <total>16</total>
@@ -84,6 +84,8 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <host_folder displayLabel="folder-name of host record">3_L-Attawadod-d-Abou-Naddara_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_00553c7c-1f4c-3a55-afff-5eca58a67d8c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_00553c7c-1f4c-3a55-afff-5eca58a67d8c</identifier>
@@ -91,11 +93,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0131_009_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ef9bcecb-2908-3c60-87d3-08ccb1ddb0d1">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ef9bcecb-2908-3c60-87d3-08ccb1ddb0d1</identifier>
@@ -103,11 +107,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0132_009_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b7aa51c0-2a83-36bb-b6b4-a0c2435a42df">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b7aa51c0-2a83-36bb-b6b4-a0c2435a42df</identifier>
@@ -115,11 +121,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0133_009_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7f87ae1d-f2ae-3ca7-a323-d458010626c0">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_7f87ae1d-f2ae-3ca7-a323-d458010626c0</identifier>
@@ -127,11 +135,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0134_009_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d18d11ff-12fa-3e06-b456-73ae2ceffd94">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d18d11ff-12fa-3e06-b456-73ae2ceffd94</identifier>
@@ -139,11 +149,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0135_009_005.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="5">
+            <detail type="page number">
                 <number>5</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cd49eebd-1264-3152-83b9-917a136965a6">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_cd49eebd-1264-3152-83b9-917a136965a6</identifier>
@@ -151,11 +163,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0136_009_006.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="6">
+            <detail type="page number">
                 <number>6</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ecb6117e-f212-33ef-a8a2-a082d8433ca9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ecb6117e-f212-33ef-a8a2-a082d8433ca9</identifier>
@@ -163,11 +177,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0137_009_007.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="7">
+            <detail type="page number">
                 <number>7</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_131efb73-1631-38fc-8b92-4adf976255dd">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_131efb73-1631-38fc-8b92-4adf976255dd</identifier>
@@ -175,11 +191,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0138_009_008.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="8">
+            <detail type="page number">
                 <number>8</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_bcad6d9e-6c70-3412-8fd4-446c4d8fd0ff">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_bcad6d9e-6c70-3412-8fd4-446c4d8fd0ff</identifier>
@@ -187,11 +205,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0139_009_009.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="9">
+            <detail type="page number">
                 <number>9</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cdae4060-1f63-3c8a-ab98-13975aee8565">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_cdae4060-1f63-3c8a-ab98-13975aee8565</identifier>
@@ -199,11 +219,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0140_009_010.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="10">
+            <detail type="page number">
                 <number>10</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3c50be64-56ad-355e-a587-4029fd3ba547">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_3c50be64-56ad-355e-a587-4029fd3ba547</identifier>
@@ -211,11 +233,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0141_009_011.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="11">
+            <detail type="page number">
                 <number>11</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d81c97f6-552a-303c-b140-8b97bc8abb05">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d81c97f6-552a-303c-b140-8b97bc8abb05</identifier>
@@ -223,11 +247,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0142_009_012.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="12">
+            <detail type="page number">
                 <number>12</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8fb3f028-21ce-3111-a701-7fdba56d2eb8">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8fb3f028-21ce-3111-a701-7fdba56d2eb8</identifier>
@@ -235,11 +261,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0143_009_013.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="13">
+            <detail type="page number">
                 <number>13</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f20cc74a-18be-369f-a3d5-c1b6e011a169">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f20cc74a-18be-369f-a3d5-c1b6e011a169</identifier>
@@ -247,11 +275,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0144_009_014.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="14">
+            <detail type="page number">
                 <number>14</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_203e80f7-2dc3-3843-82ea-db4dbfa898fd">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_203e80f7-2dc3-3843-82ea-db4dbfa898fd</identifier>
@@ -259,11 +289,13 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0145_009_015.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="15">
+            <detail type="page number">
                 <number>15</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">في شهرجمادي الاخرسنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_674beccb-0c99-3acb-88f3-70c334fd7ce8">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_674beccb-0c99-3acb-88f3-70c334fd7ce8</identifier>
@@ -271,7 +303,7 @@ Direction: 6, Rue Geoffroy-Marie. Paris</note>
             <title>1898_0146_009_016.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="16">
+            <detail type="page number">
                 <number>16</number>
             </detail>
         </part>

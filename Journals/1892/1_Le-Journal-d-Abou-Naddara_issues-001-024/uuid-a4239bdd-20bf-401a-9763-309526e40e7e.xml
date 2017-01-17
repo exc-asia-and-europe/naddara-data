@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-a4239bdd-20bf-401a-9763-309526e40e7e">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-a4239bdd-20bf-401a-9763-309526e40e7e">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة</title>
         <subTitle>مصر للمصرين</subTitle>
@@ -23,8 +23,6 @@ L'Egypte aux Egyptiens</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1892</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris, le 25 Avril 1892</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في 25 ابريل  سنة ١٨٩٢ </dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -42,11 +40,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 السنة السادسة عشر
 مدير الجريدة و محررها الاول 
 الشيخ ج. سانوا ابو نظارة نمرة ٦ رو جوفروا ماري بباريس </note>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 25 Avril 1892</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 25 ابريل  سنة ١٨٩٢ </note>
     <relatedItem xlink:href="#uuid-dd67546e-93ee-487e-b2fe-fc4f1a94c3bc" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>8</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٨</number>
+                <number lang="ara" script="arab">عدد ٨</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -84,6 +84,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-024</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 25 Avril 1892</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 25 ابريل  سنة ١٨٩٢ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1462acfd-48b9-3f77-9a8e-6d8e1d151d4c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_1462acfd-48b9-3f77-9a8e-6d8e1d151d4c</identifier>
@@ -91,11 +93,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1892_0031_008_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 25 Avril 1892</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 25 ابريل  سنة ١٨٩٢ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8380c601-b8d3-3585-8e1c-64f76bcbdebe">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8380c601-b8d3-3585-8e1c-64f76bcbdebe</identifier>
@@ -103,11 +107,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1892_0032_008_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 25 Avril 1892</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 25 ابريل  سنة ١٨٩٢ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_65b9bc90-1482-3813-86a7-8c687542cc9e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_65b9bc90-1482-3813-86a7-8c687542cc9e</identifier>
@@ -115,11 +121,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1892_0033_008_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 25 Avril 1892</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 25 ابريل  سنة ١٨٩٢ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_882e2395-6741-33aa-bf60-a2b03ff4865b">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_882e2395-6741-33aa-bf60-a2b03ff4865b</identifier>
@@ -127,7 +135,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1892_0034_008_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-605839aa-44c6-42bb-b056-4276ab0e4b89">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-605839aa-44c6-42bb-b056-4276ab0e4b89">
     <titleInfo lang="ara" script="arab">
         <title>العالم الاسلامي</title>
         <subTitle/>
@@ -22,8 +22,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1907</dateIssued>
-        <dateIssued displayLabel="Western date as printed">15 Juillet 1907</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed"/>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ Direction et Administration
 43, Rue  Richer, Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">مدير الجريدة و محررها الاول الشيخ سانوا ابونظارة 
 شاعر الملك</note>
+    <note type="edition" displayLabel="Western date as printed">15 Juillet 1907</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem xlink:href="#uuid-53270165-447b-41db-9a86-85db5580396d" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>5</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number"/>
+                <number lang="ara" script="arab"/>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Direction et Administration
             <host_folder displayLabel="folder-name of host record">1_L-univers-musulman_issues-001-008</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">15 Juillet 1907</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_eeaa4561-ae67-3fca-9357-a8403d335cee">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_eeaa4561-ae67-3fca-9357-a8403d335cee</identifier>
@@ -90,11 +92,13 @@ Direction et Administration
             <title>1907_0017_005_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Juillet 1907</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1b710922-fec0-344c-9fcd-eb31ba5898b7">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_1b710922-fec0-344c-9fcd-eb31ba5898b7</identifier>
@@ -102,11 +106,13 @@ Direction et Administration
             <title>1907_0018_005_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Juillet 1907</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_55fb84be-124a-304b-b92b-86116cb8c1d1">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_55fb84be-124a-304b-b92b-86116cb8c1d1</identifier>
@@ -114,11 +120,13 @@ Direction et Administration
             <title>1907_0019_005_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Juillet 1907</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3561f8c9-053e-3da7-8184-a9b7a0c5e0c8">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_3561f8c9-053e-3da7-8184-a9b7a0c5e0c8</identifier>
@@ -126,7 +134,7 @@ Direction et Administration
             <title>1907_0020_005_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

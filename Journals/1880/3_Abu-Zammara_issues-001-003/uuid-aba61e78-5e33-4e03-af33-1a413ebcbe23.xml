@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-aba61e78-5e33-4e03-af33-1a413ebcbe23">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-aba61e78-5e33-4e03-af33-1a413ebcbe23">
     <titleInfo lang="ara" script="arab">
         <title>أَلسَنَةُ الرابعة 
 أَبو زَمَّارَة
@@ -29,8 +29,6 @@ abū zammāra
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1880</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 27 Août 1880</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٢٧ اغستوس سنة ١٨٨٠</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -43,11 +41,13 @@ abū zammāra
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information">4ème Année</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة ٩</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 27 Août 1880</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٧ اغستوس سنة ١٨٨٠</note>
     <relatedItem xlink:href="#uuid-7f0c5cc7-4eaf-4c47-b69e-ba27c4d62c84" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>03</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٣</number>
+                <number lang="ara" script="arab">عدد ٣</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -85,6 +85,8 @@ abū zammāra
             <host_folder displayLabel="folder-name of host record">3_Abu-Zammara_issues-001-003</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 27 Août 1880</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٧ اغستوس سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3aba0283-b5f4-390d-8678-d2df2ffb8be4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_3aba0283-b5f4-390d-8678-d2df2ffb8be4</identifier>
@@ -92,11 +94,13 @@ abū zammāra
             <title>1880_0182_003_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 27 Août 1880</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٧ اغستوس سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_17aed9f9-201f-3850-b86e-09ee313bdd01">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_17aed9f9-201f-3850-b86e-09ee313bdd01</identifier>
@@ -104,11 +108,13 @@ abū zammāra
             <title>1880_0183_003_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 27 Août 1880</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٧ اغستوس سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_622d3c80-17c1-32d5-af8e-c1af7c911403">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_622d3c80-17c1-32d5-af8e-c1af7c911403</identifier>
@@ -116,11 +122,13 @@ abū zammāra
             <title>1880_0184_003_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 27 Août 1880</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٧ اغستوس سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_96b40621-43f6-3e0b-8dcf-6e16e90707c4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_96b40621-43f6-3e0b-8dcf-6e16e90707c4</identifier>
@@ -128,7 +136,7 @@ abū zammāra
             <title>1880_0185_003_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

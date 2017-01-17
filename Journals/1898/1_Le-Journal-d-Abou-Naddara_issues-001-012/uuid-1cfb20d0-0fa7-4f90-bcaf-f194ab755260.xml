@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-1cfb20d0-0fa7-4f90-bcaf-f194ab755260">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-1cfb20d0-0fa7-4f90-bcaf-f194ab755260">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة</title>
         <subTitle>مصر للمصرين</subTitle>
@@ -23,8 +23,6 @@ L'Egypte aux Egyptiens</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1898</dateIssued>
-        <dateIssued displayLabel="Western date as printed">25 Décembre 1898</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٩ شعبان المعظم سنة ١٣١٦</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 6, Rue Geoffroy -Marie, Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثانية و العشرون
 جريدة وطنية والشرقية مديرها و محررها الشيخ ج.سانواابونظارة بباريس  شاريع جوفروا ماري نمرة ٦</note>
+    <note type="edition" displayLabel="Western date as printed">25 Décembre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٩ شعبان المعظم سنة ١٣١٦</note>
     <relatedItem xlink:href="#uuid-2bee5342-8490-4fd0-be6f-511d6931780f" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>11 et 12</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١١ و ١٢</number>
+                <number lang="ara" script="arab">عدد ١١ و ١٢</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">25 Décembre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٩ شعبان المعظم سنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5b12b5bc-0ac4-3f2a-abd8-3ba09a4b0457">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5b12b5bc-0ac4-3f2a-abd8-3ba09a4b0457</identifier>
@@ -90,11 +92,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1898_0043_011-012_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Décembre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٩ شعبان المعظم سنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0d5dcc7c-2392-3e1d-8065-9d4f5841a809">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_0d5dcc7c-2392-3e1d-8065-9d4f5841a809</identifier>
@@ -102,11 +106,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1898_0044_011-012_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Décembre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٩ شعبان المعظم سنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_359ce874-a7c6-30cf-838e-2779359f88c4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_359ce874-a7c6-30cf-838e-2779359f88c4</identifier>
@@ -114,11 +120,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1898_0045_011-012_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Décembre 1898</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٩ شعبان المعظم سنة ١٣١٦</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_279d1cc0-5f4b-3656-b30c-13db1e5196fd">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_279d1cc0-5f4b-3656-b30c-13db1e5196fd</identifier>
@@ -126,7 +134,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1898_0046_011-012_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

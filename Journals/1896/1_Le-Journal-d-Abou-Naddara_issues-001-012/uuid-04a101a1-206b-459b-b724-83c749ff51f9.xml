@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-04a101a1-206b-459b-b724-83c749ff51f9">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-04a101a1-206b-459b-b724-83c749ff51f9">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة</title>
         <subTitle>مصر للمصرين</subTitle>
@@ -23,8 +23,6 @@ L'Egypte aux Egyptiens</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1896</dateIssued>
-        <dateIssued displayLabel="Western date as printed">22 Juin 1896</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ١٠ محرم الحرام   سنة ١٣١٤</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 6, Rue Geoffroy -Marie, Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الحادية و العشرون
 جريدة شرقية مديرها و محررها الشيخ ج.سانواابونظارة بباريس نمرة ٦ رو جوفروا ماري</note>
+    <note type="edition" displayLabel="Western date as printed">22 Juin 1896</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٠ محرم الحرام   سنة ١٣١٤</note>
     <relatedItem xlink:href="#uuid-ec4a3df5-b2ec-4681-b722-f4513dfa84d6" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>6</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٦</number>
+                <number lang="ara" script="arab">عدد ٦</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">22 Juin 1896</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٠ محرم الحرام   سنة ١٣١٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e669385c-d438-3499-bcf5-c50343ab744f">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e669385c-d438-3499-bcf5-c50343ab744f</identifier>
@@ -90,11 +92,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1896_0023_006_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">22 Juin 1896</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٠ محرم الحرام   سنة ١٣١٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ed8d1e64-b3ad-3d3c-b641-3557920d6da0">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ed8d1e64-b3ad-3d3c-b641-3557920d6da0</identifier>
@@ -102,11 +106,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1896_0024_006_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">22 Juin 1896</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٠ محرم الحرام   سنة ١٣١٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cbf7c013-033e-3fca-9ba6-e03b708cda94">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_cbf7c013-033e-3fca-9ba6-e03b708cda94</identifier>
@@ -114,11 +120,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1896_0025_006_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">22 Juin 1896</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٠ محرم الحرام   سنة ١٣١٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_37b2fbde-3052-36f9-8e96-9eec7d7116a6">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_37b2fbde-3052-36f9-8e96-9eec7d7116a6</identifier>
@@ -126,7 +134,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1896_0026_006_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

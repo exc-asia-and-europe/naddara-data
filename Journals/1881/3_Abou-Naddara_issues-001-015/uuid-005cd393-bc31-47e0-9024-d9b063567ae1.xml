@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-005cd393-bc31-47e0-9024-d9b063567ae1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-005cd393-bc31-47e0-9024-d9b063567ae1">
     <titleInfo lang="ara" script="arab">
         <title>أبو نظارة 
 لِسان حَال الاُمّةِ
@@ -28,8 +28,6 @@ Numéro 8
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1881</dateIssued>
-        <dateIssued displayLabel="Western date as printed"/>
-        <dateIssued displayLabel="Arabic date as printed"/>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">8</extent>
@@ -42,11 +40,13 @@ Numéro 8
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information">5ème Année</note>
     <note type="edition" displayLabel="Additional Arabic date information">أَلسَنَةُ الخاَمِسَة</note>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem xlink:href="#uuid-f379aa6b-7f8b-42f8-86c7-5f1412cec3c4" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>08</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number"/>
+                <number lang="ara" script="arab"/>
             </detail>
             <extent unit="pages">
                 <total>8</total>
@@ -84,6 +84,8 @@ Numéro 8
             <host_folder displayLabel="folder-name of host record">3_Abou-Naddara_issues-001-015</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d5b81a1a-3dbe-36ab-95c7-19076d0700b4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d5b81a1a-3dbe-36ab-95c7-19076d0700b4</identifier>
@@ -91,11 +93,13 @@ Numéro 8
             <title>1881_0176_008_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_437a1765-2a1a-39d7-8dc5-8d66bed6849c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_437a1765-2a1a-39d7-8dc5-8d66bed6849c</identifier>
@@ -103,11 +107,13 @@ Numéro 8
             <title>1881_0177_008_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7f0e04af-dc9a-360a-9f3e-743a3810984e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_7f0e04af-dc9a-360a-9f3e-743a3810984e</identifier>
@@ -115,11 +121,13 @@ Numéro 8
             <title>1881_0178_008_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_91049f19-b5c8-38d5-b8b9-10c17bf915b9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_91049f19-b5c8-38d5-b8b9-10c17bf915b9</identifier>
@@ -127,11 +135,13 @@ Numéro 8
             <title>1881_0179_008_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f8663e19-43d3-39df-b725-722c4a7afea3">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f8663e19-43d3-39df-b725-722c4a7afea3</identifier>
@@ -139,11 +149,13 @@ Numéro 8
             <title>1881_0180_008_005.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="5">
+            <detail type="page number">
                 <number>5</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2f1ee316-7142-3816-a937-6839242dde72">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2f1ee316-7142-3816-a937-6839242dde72</identifier>
@@ -151,11 +163,13 @@ Numéro 8
             <title>1881_0181_008_006.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="6">
+            <detail type="page number">
                 <number>6</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3ec3e539-9f6c-3b3f-b601-a987822e753c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_3ec3e539-9f6c-3b3f-b601-a987822e753c</identifier>
@@ -163,11 +177,13 @@ Numéro 8
             <title>1881_0182_008_007.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="7">
+            <detail type="page number">
                 <number>7</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8c50f780-663c-3e5d-b224-8d954730ad28">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8c50f780-663c-3e5d-b224-8d954730ad28</identifier>
@@ -175,7 +191,7 @@ Numéro 8
             <title>1881_0183_008_008.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="8">
+            <detail type="page number">
                 <number>8</number>
             </detail>
         </part>

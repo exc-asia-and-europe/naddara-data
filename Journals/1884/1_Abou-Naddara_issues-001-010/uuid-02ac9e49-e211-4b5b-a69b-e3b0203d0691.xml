@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-02ac9e49-e211-4b5b-a69b-e3b0203d0691">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-02ac9e49-e211-4b5b-a69b-e3b0203d0691">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة زرقاء
 </title>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1884</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 17 Mai 1884</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ١٧ مايو سنة ١٨٨٤</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -40,11 +38,13 @@ Journal Oriental
 Direction Abou Naddara</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثامنة
 جريدة شرقية مديرها و محررها الشيخ ابو نظارة</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 17 Mai 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٧ مايو سنة ١٨٨٤</note>
     <relatedItem xlink:href="#uuid-38661a66-3700-48f5-bf0a-b42fdc5d6860" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>5</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٥</number>
+                <number lang="ara" script="arab">عدد ٥</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -82,6 +82,8 @@ Direction Abou Naddara</note>
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 17 Mai 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٧ مايو سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_48a30a3c-d54e-3c03-bbe1-9419cc103a62">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_48a30a3c-d54e-3c03-bbe1-9419cc103a62</identifier>
@@ -89,11 +91,13 @@ Direction Abou Naddara</note>
             <title>1884_0017_005_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 17 Mai 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٧ مايو سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5931b548-f1a6-3e65-9192-9fcff0ed38c6">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5931b548-f1a6-3e65-9192-9fcff0ed38c6</identifier>
@@ -101,11 +105,13 @@ Direction Abou Naddara</note>
             <title>1884_0018_005_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 17 Mai 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٧ مايو سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f91352f8-799c-3f2a-a5c9-1a75341db4b2">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f91352f8-799c-3f2a-a5c9-1a75341db4b2</identifier>
@@ -113,11 +119,13 @@ Direction Abou Naddara</note>
             <title>1884_0019_005_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 17 Mai 1884</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٧ مايو سنة ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1d096ffd-f4eb-3332-bd28-3dbf9fbc2c52">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_1d096ffd-f4eb-3332-bd28-3dbf9fbc2c52</identifier>
@@ -125,7 +133,7 @@ Direction Abou Naddara</note>
             <title>1884_0020_005_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

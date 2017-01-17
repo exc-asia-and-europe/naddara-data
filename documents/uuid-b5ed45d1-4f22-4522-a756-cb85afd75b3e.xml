@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-b5ed45d1-4f22-4522-a756-cb85afd75b3e">
+	<titleInfo>
+		<title>Le Cheikh Abou Naddara</title>
+		<subTitle/>
+	</titleInfo>
+	<name type="personal">
+		<namePart>Vinet, René</namePart>
+		<role>
+			<roleTerm lang="eng" authority="marcrelator" type="text">author</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="code">aut</roleTerm>
+		</role>
+	</name>
+	<originInfo>
+		<place>
+			<placeTerm lang="eng" type="text"/>
+		</place>
+		<publisher>Abou Naddara</publisher>
+		<dateIssued encoding="w3cdtf">1895</dateIssued>
+	</originInfo>
+	<physicalDescription>
+		<extent unit="issues" displayLabel="Number of issues within this series ">1895_Vinet_Le-Cheikh-Abou-Naddara_in_L-hirondelle-de-France</extent>
+		<note lang="eng" displayLabel="Content description">1895_Vinet_Le-Cheikh-Abou-Naddara_in_L-hirondelle-de-France</note>
+		<digitalOrigin>reformatted digital</digitalOrigin>
+	</physicalDescription>
+	<targetAudience authority="marctarget">adult</targetAudience>
+	<typeOfResource>text</typeOfResource>
+	<genre authority="marcgt">journal</genre>
+	<subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+	<note type="edition" displayLabel="Content description (by E. Ettmüller)">Article from french journal "L'Hirondelle de France" by René Vinet
+		about Abou Naddara, reissued within No. 1895 of Abou Naddaras Journal Le
+		Journal d´Abou Naddara</note>
+	<note type="edition" displayLabel="Source of original objects">Original (by
+		courtesy of Mrs Eva Milhaud)</note>
+	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
+	<relatedItem displayLabel="Part of published volume" type="part">
+		<titleInfo lang="eng" script="latn">
+			<title>L'Hirondelle de France</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Abou Naddara</namePart>
+			<role>
+				<roleTerm type="code" authority="marcrelator">pub</roleTerm>
+			</role>
+		</name>
+		<originInfo>
+			<issuance>continuing</issuance>
+		</originInfo>
+		<genre type="code" authority="marcgt">periodical</genre>
+		<part>
+			<detail type="issue">
+				<number/>
+			</detail>
+			<extent unit="pages">
+				<total>4</total>
+				<list>133-136</list>
+			</extent>
+			<date encoding="w3cdtf">1895</date>
+		</part>
+	</relatedItem>
+	<location>
+		<url displayLabel="Path to Folder">1895_Vinet_Le-Cheikh-Abou-Naddara_in_L-hirondelle-de-France</url>
+	</location>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+	</language>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+		<scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+	</language>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_54b71ba3-cbd8-30c0-8fc3-9fa8a2de3c2a">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_54b71ba3-cbd8-30c0-8fc3-9fa8a2de3c2a</identifier>
+		<titleInfo>
+			<title>1895_0001_000_133-copy.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>133-copy</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_502f3779-246e-3cf3-b031-98585ff248c9">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_502f3779-246e-3cf3-b031-98585ff248c9</identifier>
+		<titleInfo>
+			<title>1895_0002_000_134-copy.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>134-copy</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8f0e593d-c45b-3beb-9b61-8351d6712fec">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_8f0e593d-c45b-3beb-9b61-8351d6712fec</identifier>
+		<titleInfo>
+			<title>1895_0003_000_135-copy.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>135-copy</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9f194cc7-6e39-366b-adc5-3d1c559c7089">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_9f194cc7-6e39-366b-adc5-3d1c559c7089</identifier>
+		<titleInfo>
+			<title>1895_0004_000_136-copy.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>136-copy</number>
+			</detail>
+		</part>
+	</relatedItem>
+</mods>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-f8148d1a-130a-4966-affd-b83f1baff56f">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-f8148d1a-130a-4966-affd-b83f1baff56f">
     <titleInfo lang="ara" script="arab">
         <title>أَلسَنَةُ الرابعة 
 أَبو صفَّارَة
@@ -29,8 +29,6 @@ abū ṣuffāra
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1880</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris, le 20 Juin 1880</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٢٠ جونيو سنة ١٨٨٠</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -43,11 +41,13 @@ abū ṣuffāra
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information">4ème Année</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة ٦</note>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 20 Juin 1880</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٠ جونيو سنة ١٨٨٠</note>
     <relatedItem xlink:href="#uuid-82bed0b1-1864-4c6d-a331-828f42cd8ba0" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>03</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ثالث</number>
+                <number lang="ara" script="arab">عدد ثالث</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -85,6 +85,8 @@ abū ṣuffāra
             <host_folder displayLabel="folder-name of host record">2_Abu-Saffara_issues-001-003</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 20 Juin 1880</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٠ جونيو سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_87e9cc51-8d20-3b9c-a290-10dec4bbad5c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_87e9cc51-8d20-3b9c-a290-10dec4bbad5c</identifier>
@@ -92,11 +94,13 @@ abū ṣuffāra
             <title>1880_0170_003_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 20 Juin 1880</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٠ جونيو سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d0b9a77e-3460-33c5-b388-a6187072478e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d0b9a77e-3460-33c5-b388-a6187072478e</identifier>
@@ -104,11 +108,13 @@ abū ṣuffāra
             <title>1880_0171_003_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 20 Juin 1880</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٠ جونيو سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d28121a2-25fc-33ff-892a-4b6bbca4f778">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d28121a2-25fc-33ff-892a-4b6bbca4f778</identifier>
@@ -116,11 +122,13 @@ abū ṣuffāra
             <title>1880_0172_003_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 20 Juin 1880</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٠ جونيو سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_32e6ece4-9f79-36ba-89e0-70707a99394a">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_32e6ece4-9f79-36ba-89e0-70707a99394a</identifier>
@@ -128,7 +136,7 @@ abū ṣuffāra
             <title>1880_0173_003_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

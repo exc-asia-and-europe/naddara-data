@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-27b3a5d4-d56b-4506-a549-af8d86387844">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-27b3a5d4-d56b-4506-a549-af8d86387844">
     <titleInfo lang="ara" script="arab">
         <title>أَبُو نَظَّارَة زَرْقَا.
 
@@ -28,8 +28,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1879</dateIssued>
-        <dateIssued displayLabel="Western date as printed"/>
-        <dateIssued displayLabel="Arabic date as printed">يوم الثلاثا ١١نوفمبر ١٨٧٩ </dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -42,11 +40,13 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information"/>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثالثة.</note>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الثلاثا ١١نوفمبر ١٨٧٩ </note>
     <relatedItem xlink:href="#uuid-0023da71-e667-4f79-a27e-50b11b09613b" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>27</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٢٧</number>
+                <number lang="ara" script="arab">عدد ٢٧</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -84,6 +84,8 @@
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara-Zarqa_issues-001-030</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الثلاثا ١١نوفمبر ١٨٧٩ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5615cdb8-5835-385a-88d1-df1bc15e297e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5615cdb8-5835-385a-88d1-df1bc15e297e</identifier>
@@ -91,11 +93,13 @@
             <title>1879_0106_027_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الثلاثا ١١نوفمبر ١٨٧٩ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_23432508-2c07-3930-9189-17b0560a890a">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_23432508-2c07-3930-9189-17b0560a890a</identifier>
@@ -103,11 +107,13 @@
             <title>1879_0107_027_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الثلاثا ١١نوفمبر ١٨٧٩ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d4f07558-beef-3f89-885c-d1c0a72bc9b0">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d4f07558-beef-3f89-885c-d1c0a72bc9b0</identifier>
@@ -115,11 +121,13 @@
             <title>1879_0108_027_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الثلاثا ١١نوفمبر ١٨٧٩ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ab8acec3-81dd-3582-8872-a4b87f80f15e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ab8acec3-81dd-3582-8872-a4b87f80f15e</identifier>
@@ -127,7 +135,7 @@
             <title>1879_0109_027_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

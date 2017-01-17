@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-48a8adf5-5f82-4804-8eb4-884f23e1d4f4">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-48a8adf5-5f82-4804-8eb4-884f23e1d4f4">
     <titleInfo lang="ara" script="arab">
         <title>النظَّاراتْ المصرية.
 </title>
@@ -25,8 +25,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1879</dateIssued>
-        <dateIssued displayLabel="Western date as printed"/>
-        <dateIssued displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">16</extent>
@@ -39,11 +37,13 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information"/>
     <note type="edition" displayLabel="Additional Arabic date information"/>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem xlink:href="#uuid-d2149b3f-e38e-41a0-b127-bf03cc15bc8b" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>02</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٢</number>
+                <number lang="ara" script="arab">عدد ٢</number>
             </detail>
             <extent unit="pages">
                 <total>16</total>
@@ -81,6 +81,8 @@
             <host_folder displayLabel="folder-name of host record">1_an-Naddarat-al-Misriya_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e673e303-31d8-3c17-a87a-858aaae54f25">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e673e303-31d8-3c17-a87a-858aaae54f25</identifier>
@@ -88,11 +90,13 @@
             <title>1880_0018_002_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b4c2f4d1-057e-3903-a214-4fbc6603d240">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b4c2f4d1-057e-3903-a214-4fbc6603d240</identifier>
@@ -100,11 +104,13 @@
             <title>1880_0019_002_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_df737f4a-8aa4-3c22-9abb-f92d606999ea">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_df737f4a-8aa4-3c22-9abb-f92d606999ea</identifier>
@@ -112,11 +118,13 @@
             <title>1880_0020_002_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f21f7236-8d9c-3c2b-b6ba-644321e818c0">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f21f7236-8d9c-3c2b-b6ba-644321e818c0</identifier>
@@ -124,11 +132,13 @@
             <title>1880_0021_002_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f4413527-a10e-30c7-bffa-ea405f16a684">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f4413527-a10e-30c7-bffa-ea405f16a684</identifier>
@@ -136,11 +146,13 @@
             <title>1880_0022_002_005.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="5">
+            <detail type="page number">
                 <number>5</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a98e483d-0d6e-3d80-9386-67ab41a24d69">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_a98e483d-0d6e-3d80-9386-67ab41a24d69</identifier>
@@ -148,11 +160,13 @@
             <title>1880_0023_002_006.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="6">
+            <detail type="page number">
                 <number>6</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e710eea6-5e23-36ab-bd32-47d94227722f">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e710eea6-5e23-36ab-bd32-47d94227722f</identifier>
@@ -160,11 +174,13 @@
             <title>1880_0024_002_007.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="7">
+            <detail type="page number">
                 <number>7</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2a6ae415-e784-3d98-92ca-20cfda8fdbda">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2a6ae415-e784-3d98-92ca-20cfda8fdbda</identifier>
@@ -172,11 +188,13 @@
             <title>1880_0025_002_008.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="8">
+            <detail type="page number">
                 <number>8</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_45b8301d-f12c-37ff-b689-fef9dbde8387">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_45b8301d-f12c-37ff-b689-fef9dbde8387</identifier>
@@ -184,11 +202,13 @@
             <title>1880_0026_002_009.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="9">
+            <detail type="page number">
                 <number>9</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ce1f6d42-60fb-3a29-b226-575bd83cb11f">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ce1f6d42-60fb-3a29-b226-575bd83cb11f</identifier>
@@ -196,11 +216,13 @@
             <title>1880_0027_002_010.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="10">
+            <detail type="page number">
                 <number>10</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0dd0e6c6-4e4a-3803-a0dd-3d3780e16065">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_0dd0e6c6-4e4a-3803-a0dd-3d3780e16065</identifier>
@@ -208,11 +230,13 @@
             <title>1880_0028_002_011.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="11">
+            <detail type="page number">
                 <number>11</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0467ba15-2e76-3c31-9f79-b8af49a6f73d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_0467ba15-2e76-3c31-9f79-b8af49a6f73d</identifier>
@@ -220,11 +244,13 @@
             <title>1880_0029_002_012.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="12">
+            <detail type="page number">
                 <number>12</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d695ae0b-8fee-3399-99c9-58c380f1d60b">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d695ae0b-8fee-3399-99c9-58c380f1d60b</identifier>
@@ -232,11 +258,13 @@
             <title>1880_0030_002_013.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="13">
+            <detail type="page number">
                 <number>13</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_feb1bf86-40ad-37ee-bc85-2f957cde19d1">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_feb1bf86-40ad-37ee-bc85-2f957cde19d1</identifier>
@@ -244,11 +272,13 @@
             <title>1880_0031_002_014.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="14">
+            <detail type="page number">
                 <number>14</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9123b077-044d-35eb-a744-4a1a5a5be918">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9123b077-044d-35eb-a744-4a1a5a5be918</identifier>
@@ -256,11 +286,13 @@
             <title>1880_0032_002_015.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="15">
+            <detail type="page number">
                 <number>15</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">الثلاثا ١٤ اوكتوبر سنة ١٨٧٩.</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_699349fb-3d8d-33ea-bac1-cbc7ce863d0a">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_699349fb-3d8d-33ea-bac1-cbc7ce863d0a</identifier>
@@ -268,7 +300,7 @@
             <title>1880_0033_002_016.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="16">
+            <detail type="page number">
                 <number>16</number>
             </detail>
         </part>

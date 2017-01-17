@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-db728cbe-b6f9-4357-9a56-57922bab2cc3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-db728cbe-b6f9-4357-9a56-57922bab2cc3">
     <titleInfo lang="ara" script="arab">
         <title> ابو نظارة
 </title>
@@ -32,8 +32,6 @@ Illustrated Satirical Journal</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1904</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Février 1904</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في شهر ذى الحجة   سنة ١٣٢٢</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -50,11 +48,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثامنة و العشرون
 جريدة تصويرية فكاهية
 مديرها و محررها الاول الشيخ ج.سانواابونظارة بباريس في شاريع ريشه نمرة ٤٣ </note>
+    <note type="edition" displayLabel="Western date as printed">Février 1904</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في شهر ذى الحجة   سنة ١٣٢٢</note>
     <relatedItem xlink:href="#uuid-5fe76c8f-8d30-40f4-a5c0-b1809de45a56" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>1 + 2</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١ و ٢</number>
+                <number lang="ara" script="arab">عدد ١ و ٢</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -92,6 +92,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_L-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Février 1904</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في شهر ذى الحجة   سنة ١٣٢٢</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a8d9817e-9373-30f2-9c86-e2aea911b025">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_a8d9817e-9373-30f2-9c86-e2aea911b025</identifier>
@@ -99,11 +101,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1904_0003_001-002_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Février 1904</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في شهر ذى الحجة   سنة ١٣٢٢</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d16c49fd-5008-3358-ba8e-c94c1bfdb146">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d16c49fd-5008-3358-ba8e-c94c1bfdb146</identifier>
@@ -111,11 +115,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1904_0004_001-002_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Février 1904</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في شهر ذى الحجة   سنة ١٣٢٢</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1504631c-0f17-38b0-a9b7-58f79c863380">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_1504631c-0f17-38b0-a9b7-58f79c863380</identifier>
@@ -123,11 +129,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1904_0005_001-002_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Février 1904</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في شهر ذى الحجة   سنة ١٣٢٢</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_faff76c1-3d82-39eb-abb3-37cbbac87264">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_faff76c1-3d82-39eb-abb3-37cbbac87264</identifier>
@@ -135,7 +143,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1904_0006_001-002_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

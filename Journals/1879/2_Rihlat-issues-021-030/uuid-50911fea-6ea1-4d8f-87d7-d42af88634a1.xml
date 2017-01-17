@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-50911fea-6ea1-4d8f-87d7-d42af88634a1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-50911fea-6ea1-4d8f-87d7-d42af88634a1">
     <titleInfo lang="ara" script="arab">
         <title/>
         <subTitle/>
@@ -22,8 +22,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1879</dateIssued>
-        <dateIssued displayLabel="Western date as printed"/>
-        <dateIssued displayLabel="Arabic date as printed"/>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">12</extent>
@@ -36,11 +34,13 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information"/>
     <note type="edition" displayLabel="Additional Arabic date information"/>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem xlink:href="#uuid-dd471d2d-7d26-403d-ac44-cecd9ddcd22f" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>00</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number"/>
+                <number lang="ara" script="arab"/>
             </detail>
             <extent unit="pages">
                 <total>12</total>
@@ -78,6 +78,8 @@
             <host_folder displayLabel="folder-name of host record">2_Rihlat-issues-021-030</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b63cdeb0-9de1-3604-ae1f-d430c9e7f45b">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b63cdeb0-9de1-3604-ae1f-d430c9e7f45b</identifier>
@@ -85,11 +87,13 @@
             <title>1879_0122_000_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7e0d0f86-d110-3f57-98d5-5424f90327a4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_7e0d0f86-d110-3f57-98d5-5424f90327a4</identifier>
@@ -97,11 +101,13 @@
             <title>1879_0123_000_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ae878eb0-83f4-3dc0-9ec9-5216dcc6f138">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ae878eb0-83f4-3dc0-9ec9-5216dcc6f138</identifier>
@@ -109,11 +115,13 @@
             <title>1879_0124_000_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e45724d7-f7bd-39f8-a661-e8c187ea7094">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e45724d7-f7bd-39f8-a661-e8c187ea7094</identifier>
@@ -121,11 +129,13 @@
             <title>1879_0125_000_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4b017bb2-eba6-3557-86ca-9f31bf21ce73">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_4b017bb2-eba6-3557-86ca-9f31bf21ce73</identifier>
@@ -133,11 +143,13 @@
             <title>1879_0125_000_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f85b4b0e-d106-3986-8132-d651e1fd1e0d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f85b4b0e-d106-3986-8132-d651e1fd1e0d</identifier>
@@ -145,11 +157,13 @@
             <title>1879_0126_000_005.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="5">
+            <detail type="page number">
                 <number>5</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ec764ec7-100d-346f-86d9-f2ee73eeee2f">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ec764ec7-100d-346f-86d9-f2ee73eeee2f</identifier>
@@ -157,11 +171,13 @@
             <title>1879_0127_000_006.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="6">
+            <detail type="page number">
                 <number>6</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_44425326-e570-3330-a85c-bf063f7a5c81">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_44425326-e570-3330-a85c-bf063f7a5c81</identifier>
@@ -169,11 +185,13 @@
             <title>1879_0127_000_006.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="6">
+            <detail type="page number">
                 <number>6</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f61dddd0-3fc2-3921-8d58-b3ad7c5b9648">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f61dddd0-3fc2-3921-8d58-b3ad7c5b9648</identifier>
@@ -181,11 +199,13 @@
             <title>1879_0128_000_007.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="7">
+            <detail type="page number">
                 <number>7</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_16df00fc-d38f-3442-abc4-087e78d260ba">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_16df00fc-d38f-3442-abc4-087e78d260ba</identifier>
@@ -193,11 +213,13 @@
             <title>1879_0129_000_008.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="8">
+            <detail type="page number">
                 <number>8</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_abd6939d-220e-3813-bde3-6d410d4f0bbd">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_abd6939d-220e-3813-bde3-6d410d4f0bbd</identifier>
@@ -205,11 +227,13 @@
             <title>1879_0130_000_009.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="9">
+            <detail type="page number">
                 <number>9</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9fcf1a1c-2858-32e8-a55b-a5063eacde65">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9fcf1a1c-2858-32e8-a55b-a5063eacde65</identifier>
@@ -217,11 +241,13 @@
             <title>1879_0131_000_010.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="10">
+            <detail type="page number">
                 <number>10</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_389eb972-1749-3fa4-9303-56f14dbab5f9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_389eb972-1749-3fa4-9303-56f14dbab5f9</identifier>
@@ -229,11 +255,13 @@
             <title>1879_0132_000_011.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="11">
+            <detail type="page number">
                 <number>11</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2121109b-6bfa-33e1-90eb-19430622043b">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2121109b-6bfa-33e1-90eb-19430622043b</identifier>
@@ -241,7 +269,7 @@
             <title>1879_0133_000_012.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="12">
+            <detail type="page number">
                 <number>12</number>
             </detail>
         </part>

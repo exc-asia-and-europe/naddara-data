@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-729ce7c9-ef22-4055-aec2-c886d794a988">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-729ce7c9-ef22-4055-aec2-c886d794a988">
     <titleInfo lang="ara" script="arab">
         <title>رحْلَة ابي نَظّارَة زَرْقَا الوليّ مِن مَصر القاهِرَة الى پَاریز الفاخِرَة
 
@@ -28,8 +28,6 @@ The Holy Man with the Blue Glasses’ Journey from Victorious Egypt to Splendoro
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1878</dateIssued>
-        <dateIssued displayLabel="Western date as printed"/>
-        <dateIssued displayLabel="Arabic date as printed"/>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -42,11 +40,13 @@ The Holy Man with the Blue Glasses’ Journey from Victorious Egypt to Splendoro
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information"/>
     <note type="edition" displayLabel="Additional Arabic date information"/>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem xlink:href="#uuid-45cbf281-e83f-4c97-848d-000f982048bf" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>07</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">النُمرَةٌ السابِعَة.</number>
+                <number lang="ara" script="arab">النُمرَةٌ السابِعَة.</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -84,6 +84,8 @@ The Holy Man with the Blue Glasses’ Journey from Victorious Egypt to Splendoro
             <host_folder displayLabel="folder-name of host record">2_Rihlat_issues-001-020</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_38798a60-a14e-3d54-bd72-28ae5546f8e7">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_38798a60-a14e-3d54-bd72-28ae5546f8e7</identifier>
@@ -91,11 +93,13 @@ The Holy Man with the Blue Glasses’ Journey from Victorious Egypt to Splendoro
             <title>1878_0026_007_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_142c4726-a0f6-372a-a6c3-dcc1ad0d2e7e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_142c4726-a0f6-372a-a6c3-dcc1ad0d2e7e</identifier>
@@ -103,11 +107,13 @@ The Holy Man with the Blue Glasses’ Journey from Victorious Egypt to Splendoro
             <title>1878_0027_007_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2d593814-669a-363c-9e42-c0292da886ac">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2d593814-669a-363c-9e42-c0292da886ac</identifier>
@@ -115,11 +121,13 @@ The Holy Man with the Blue Glasses’ Journey from Victorious Egypt to Splendoro
             <title>1878_0028_007_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f2570a88-0c2d-3a99-be27-f9ecb6f86a06">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f2570a88-0c2d-3a99-be27-f9ecb6f86a06</identifier>
@@ -127,7 +135,7 @@ The Holy Man with the Blue Glasses’ Journey from Victorious Egypt to Splendoro
             <title>1878_0029_007_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

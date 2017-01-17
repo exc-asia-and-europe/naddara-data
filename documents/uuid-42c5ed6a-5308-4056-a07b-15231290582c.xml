@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-42c5ed6a-5308-4056-a07b-15231290582c">
+	<titleInfo>
+		<title>Les affaires d'Egypte</title>
+		<subTitle/>
+	</titleInfo>
+	<name type="personal">
+		<namePart>n.A.</namePart>
+		<role>
+			<roleTerm lang="eng" authority="marcrelator" type="text">author</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="code">aut</roleTerm>
+		</role>
+	</name>
+	<originInfo>
+		<place>
+			<placeTerm lang="eng" type="text"/>
+		</place>
+		<publisher/>
+		<dateIssued encoding="w3cdtf">1922</dateIssued>
+	</originInfo>
+	<physicalDescription>
+		<extent unit="issues" displayLabel="Number of issues within this series ">1922_L-Europe-Nouvelle</extent>
+		<note lang="eng" displayLabel="Content description">1922_L-Europe-Nouvelle</note>
+		<digitalOrigin>reformatted digital</digitalOrigin>
+	</physicalDescription>
+	<targetAudience authority="marctarget">adult</targetAudience>
+	<typeOfResource>text</typeOfResource>
+	<genre authority="marcgt">journal</genre>
+	<subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+	<note type="edition" displayLabel="Content description (by E. Ettmüller)">In
+		the article "Les affaires d'Egypte" (...), it summarizes Egpytian
+		history from 1840 to 1922 and adds caricatures of Abou Naddara which are
+		said to derive from the first nationalist mouthpiece</note>
+	<note type="edition" displayLabel="Source of original objects">Original (by
+		courtesy of Mrs Eva Milhaud)</note>
+	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
+	<relatedItem displayLabel="Part of published volume" type="part">
+		<titleInfo lang="eng" script="latn">
+			<title> L´Europe Nouvelle</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart/>
+			<role>
+				<roleTerm type="code" authority="marcrelator">pub</roleTerm>
+			</role>
+		</name>
+		<originInfo>
+			<issuance>continuing</issuance>
+		</originInfo>
+		<genre type="code" authority="marcgt">periodical</genre>
+		<part>
+			<detail type="issue">
+				<number>12</number>
+			</detail>
+			<extent unit="pages">
+				<total>6</total>
+				<list>371-376</list>
+			</extent>
+			<date encoding="w3cdtf">1922-03-25</date>
+		</part>
+	</relatedItem>
+	<location>
+		<url displayLabel="Path to Folder">1922_L-Europe-Nouvelle</url>
+	</location>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+	</language>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+		<scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+	</language>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e3bde3da-3f58-302a-959a-19dc8773791c">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_e3bde3da-3f58-302a-959a-19dc8773791c</identifier>
+		<titleInfo>
+			<title>1922_0001_012_353.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>353</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8d6f05ba-4505-3ca1-8de2-2e7af49aa8ee">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_8d6f05ba-4505-3ca1-8de2-2e7af49aa8ee</identifier>
+		<titleInfo>
+			<title>1922_0002_012_354.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>354</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4cdb8521-91a9-3cf4-adfc-fa2b50456714">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_4cdb8521-91a9-3cf4-adfc-fa2b50456714</identifier>
+		<titleInfo>
+			<title>1922_0003_012_355.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>355</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5a8aec47-9bac-338d-84b7-85c2ba434d85">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_5a8aec47-9bac-338d-84b7-85c2ba434d85</identifier>
+		<titleInfo>
+			<title>1922_0004_012_356.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>356</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5d77ee2d-6bc0-3c58-b90e-647d5a494105">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_5d77ee2d-6bc0-3c58-b90e-647d5a494105</identifier>
+		<titleInfo>
+			<title>1922_0005_012_357.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>357</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3d496196-cccc-3e86-8de9-657bff34dbdc">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_3d496196-cccc-3e86-8de9-657bff34dbdc</identifier>
+		<titleInfo>
+			<title>1922_0006_012_358.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>358</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4dbad06b-5cd7-3d99-a29a-79b6bcb6078e">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_4dbad06b-5cd7-3d99-a29a-79b6bcb6078e</identifier>
+		<titleInfo>
+			<title>1922_0007_012_359.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>359</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d783d795-4218-3572-984a-79e9a666d7f9">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_d783d795-4218-3572-984a-79e9a666d7f9</identifier>
+		<titleInfo>
+			<title>1922_0008_012_360.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>360</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9012b25b-122a-32f0-95de-37952eeac5fe">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_9012b25b-122a-32f0-95de-37952eeac5fe</identifier>
+		<titleInfo>
+			<title>1922_0009_012_361.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>361</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8c102c44-fbb0-35d0-b526-0e36b6c6f19d">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_8c102c44-fbb0-35d0-b526-0e36b6c6f19d</identifier>
+		<titleInfo>
+			<title>1922_0010_012_362.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>362</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_74773c1e-a6f9-3e52-acfa-3195b1de31ea">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_74773c1e-a6f9-3e52-acfa-3195b1de31ea</identifier>
+		<titleInfo>
+			<title>1922_0011_012_363.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>363</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c9dee640-bf6f-3a73-9032-d9a417889e45">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_c9dee640-bf6f-3a73-9032-d9a417889e45</identifier>
+		<titleInfo>
+			<title>1922_0012_012_364.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>364</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a327d6d1-2b14-384a-9f43-551215fdc09f">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_a327d6d1-2b14-384a-9f43-551215fdc09f</identifier>
+		<titleInfo>
+			<title>1922_0013_012_365.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>365</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4527f6e2-dc77-3511-b2ea-5e2ecb8985c5">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_4527f6e2-dc77-3511-b2ea-5e2ecb8985c5</identifier>
+		<titleInfo>
+			<title>1922_0014_012_366.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>366</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a9e7cfcd-63d2-32d3-a0d0-13327244848f">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_a9e7cfcd-63d2-32d3-a0d0-13327244848f</identifier>
+		<titleInfo>
+			<title>1922_0015_012_367.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>367</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c323f067-27e3-3896-82c4-c63288d9f9ef">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_c323f067-27e3-3896-82c4-c63288d9f9ef</identifier>
+		<titleInfo>
+			<title>1922_0016_012_368.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>368</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f8b95fdc-9cff-3d24-8a6f-a7e4297c5849">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_f8b95fdc-9cff-3d24-8a6f-a7e4297c5849</identifier>
+		<titleInfo>
+			<title>1922_0017_012_369.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>369</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7c60cdc3-e9be-33da-b5d8-684aa951372d">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_7c60cdc3-e9be-33da-b5d8-684aa951372d</identifier>
+		<titleInfo>
+			<title>1922_0018_012_370.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>370</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_285c8355-3910-3011-a7a2-79de82e5d89f">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_285c8355-3910-3011-a7a2-79de82e5d89f</identifier>
+		<titleInfo>
+			<title>1922_0019_012_371.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>371</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_76b1ae8d-851c-351b-aa3a-f441fd24a63e">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_76b1ae8d-851c-351b-aa3a-f441fd24a63e</identifier>
+		<titleInfo>
+			<title>1922_0020_012_372.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>372</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f1eb8efa-0952-3dab-bfaf-13b78b7734cb">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_f1eb8efa-0952-3dab-bfaf-13b78b7734cb</identifier>
+		<titleInfo>
+			<title>1922_0021_012_373.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>373</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d85ec0da-bbbc-32f8-a0ab-c5faf7981428">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_d85ec0da-bbbc-32f8-a0ab-c5faf7981428</identifier>
+		<titleInfo>
+			<title>1922_0022_012_374.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>374</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_fbfcec3b-ffa4-337c-ab80-a7b936937784">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_fbfcec3b-ffa4-337c-ab80-a7b936937784</identifier>
+		<titleInfo>
+			<title>1922_0023_012_375.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>375</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_da38d145-b642-39e1-b681-ccf07d1a6644">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_da38d145-b642-39e1-b681-ccf07d1a6644</identifier>
+		<titleInfo>
+			<title>1922_0024_012_376.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>376</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_15d57586-1167-321c-b410-e2eb69195c96">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_15d57586-1167-321c-b410-e2eb69195c96</identifier>
+		<titleInfo>
+			<title>1922_0025_012_377.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>377</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0385b1b4-8c56-375b-b117-27e4a189eb7e">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_0385b1b4-8c56-375b-b117-27e4a189eb7e</identifier>
+		<titleInfo>
+			<title>1922_0026_012_378.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>378</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8773e380-d76d-3c13-94ae-2ecb047ff31d">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_8773e380-d76d-3c13-94ae-2ecb047ff31d</identifier>
+		<titleInfo>
+			<title>1922_0027_012_379.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>379</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_96001e90-3d3d-3f8e-88c0-a1e13d06c881">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_96001e90-3d3d-3f8e-88c0-a1e13d06c881</identifier>
+		<titleInfo>
+			<title>1922_0028_012_380.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>380</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_26b8e5da-31c4-3fcf-a42a-28265f5519e5">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_26b8e5da-31c4-3fcf-a42a-28265f5519e5</identifier>
+		<titleInfo>
+			<title>1922_0029_012_381.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>381</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ec604bf0-5a6a-3c55-9e93-4fe630379dd2">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_ec604bf0-5a6a-3c55-9e93-4fe630379dd2</identifier>
+		<titleInfo>
+			<title>1922_0030_012_382.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>382</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5f8620ad-b645-3eac-a864-552701aa1560">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_5f8620ad-b645-3eac-a864-552701aa1560</identifier>
+		<titleInfo>
+			<title>1922_0031_012_383.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>383</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cd9acac1-b074-3277-b74a-b655c114e6fa">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_cd9acac1-b074-3277-b74a-b655c114e6fa</identifier>
+		<titleInfo>
+			<title>1922_0032_012_384.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>384</number>
+			</detail>
+		</part>
+	</relatedItem>
+</mods>

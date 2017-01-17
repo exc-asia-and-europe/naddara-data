@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-2efe3b3d-cb1f-4317-89a8-969a8caeca68">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-2efe3b3d-cb1f-4317-89a8-969a8caeca68">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة زرقاء
 </title>
@@ -25,8 +25,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1883</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Samedi 17 Mars 1883</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ١٧ مارس سنة ١٨٨٣</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@
 Journal oriental bi-mensuel</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة السابعة
 جريدة شرقية</note>
+    <note type="edition" displayLabel="Western date as printed">Samedi 17 Mars 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٧ مارس سنة ١٨٨٣</note>
     <relatedItem xlink:href="#uuid-137d37e0-d499-4b75-b4bd-8f689fe3f4f9" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>4</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد الرابع</number>
+                <number lang="ara" script="arab">عدد الرابع</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Journal oriental bi-mensuel</note>
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara-Zarka-issues-001-014</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Samedi 17 Mars 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٧ مارس سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9bba3d4d-4727-3391-b260-ca6b0b76c2fb">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9bba3d4d-4727-3391-b260-ca6b0b76c2fb</identifier>
@@ -90,11 +92,13 @@ Journal oriental bi-mensuel</note>
             <title>1883_0013_004_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Samedi 17 Mars 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٧ مارس سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a605be8c-1333-3abc-8846-a7b5b0c33b56">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_a605be8c-1333-3abc-8846-a7b5b0c33b56</identifier>
@@ -102,11 +106,13 @@ Journal oriental bi-mensuel</note>
             <title>1883_0014_004_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Samedi 17 Mars 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٧ مارس سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9b51b1e8-440d-3c14-883e-d366899efaa6">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9b51b1e8-440d-3c14-883e-d366899efaa6</identifier>
@@ -114,11 +120,13 @@ Journal oriental bi-mensuel</note>
             <title>1883_0015_004_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Samedi 17 Mars 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٧ مارس سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_abf74aaa-08df-3817-861a-e911d9b35e16">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_abf74aaa-08df-3817-861a-e911d9b35e16</identifier>
@@ -126,7 +134,7 @@ Journal oriental bi-mensuel</note>
             <title>1883_0016_004_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

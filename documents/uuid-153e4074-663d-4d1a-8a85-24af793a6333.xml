@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-153e4074-663d-4d1a-8a85-24af793a6333">
+	<titleInfo>
+		<title>Jubilé Littéraire et Retraite du Doyen des Publicistes arabes</title>
+	</titleInfo>
+	<name type="personal">
+		<namePart>n.A.</namePart>
+		<role>
+			<roleTerm lang="eng" authority="marcrelator" type="text">author</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="code">aut</roleTerm>
+		</role>
+	</name>
+	<originInfo>
+		<place>
+			<placeTerm lang="eng" type="text">Paris</placeTerm>
+		</place>
+		<publisher>Imprimerie Montgeronnaise</publisher>
+		<dateIssued encoding="w3cdtf">1911</dateIssued>
+	</originInfo>
+	<physicalDescription>
+		<extent unit="page">12</extent>
+		<note lang="eng" displayLabel="Content description">1911_Retraite_de_Sanua</note>
+		<digitalOrigin>reformatted digital</digitalOrigin>
+	</physicalDescription>
+	<targetAudience authority="marctarget">adult</targetAudience>
+	<typeOfResource>text</typeOfResource>
+	<genre authority="marcgt">journal</genre>
+	<subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+	<note type="edition" displayLabel="Content description (by E. Ettmüller)"/>
+	<note type="edition" displayLabel="Source of original objects">Original (by courtesy of Mrs Eva Milhaud)</note>
+	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
+	<location>
+		<url displayLabel="Path to Folder">1911_Retraite_de_Sanua</url>
+	</location>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+	</language>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+		<scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+	</language>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a9563d6d-b2a1-304f-941e-1e1fab33992b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_a9563d6d-b2a1-304f-941e-1e1fab33992b</identifier>
+		<titleInfo>
+			<title>1911_0001_000_001.tif</title>
+		</titleInfo>
+		<part order="1">
+			<detail type="page number">
+				<number>1</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_628d3c3c-05fc-32cd-a1ce-204830f3066a">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_628d3c3c-05fc-32cd-a1ce-204830f3066a</identifier>
+		<titleInfo>
+			<title>1911_0002_000_002.tif</title>
+		</titleInfo>
+		<part order="2">
+			<detail type="page number">
+				<number>2</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e9a9624c-b454-351e-b602-e183ed00b638">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_e9a9624c-b454-351e-b602-e183ed00b638</identifier>
+		<titleInfo>
+			<title>1911_0003_000_003.tif</title>
+		</titleInfo>
+		<part order="3">
+			<detail type="page number">
+				<number>3</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_51d6a727-9e96-386b-b83c-cb2d822b55de">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_51d6a727-9e96-386b-b83c-cb2d822b55de</identifier>
+		<titleInfo>
+			<title>1911_0004_000_004.tif</title>
+		</titleInfo>
+		<part order="4">
+			<detail type="page number">
+				<number>4</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4715c3cd-2026-382c-ae8f-b1a81bba7a4b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_4715c3cd-2026-382c-ae8f-b1a81bba7a4b</identifier>
+		<titleInfo>
+			<title>1911_0005_000_005.tif</title>
+		</titleInfo>
+		<part order="5">
+			<detail type="page number">
+				<number>5</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b344159d-b6ce-32b8-833d-ba5224f92890">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_b344159d-b6ce-32b8-833d-ba5224f92890</identifier>
+		<titleInfo>
+			<title>1911_0006_000_006.tif</title>
+		</titleInfo>
+		<part order="6">
+			<detail type="page number">
+				<number>6</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_25bce415-903b-3f95-b56d-958ec85edd58">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_25bce415-903b-3f95-b56d-958ec85edd58</identifier>
+		<titleInfo>
+			<title>1911_0007_000_007.tif</title>
+		</titleInfo>
+		<part order="7">
+			<detail type="page number">
+				<number>7</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_869987a8-29b9-3bef-80f4-bc2788b81356">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_869987a8-29b9-3bef-80f4-bc2788b81356</identifier>
+		<titleInfo>
+			<title>1911_0008_000_008.tif</title>
+		</titleInfo>
+		<part order="8">
+			<detail type="page number">
+				<number>8</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_456da153-ad70-36d5-b345-0e0d39b63ebc">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_456da153-ad70-36d5-b345-0e0d39b63ebc</identifier>
+		<titleInfo>
+			<title>1911_0009_000_009.tif</title>
+		</titleInfo>
+		<part order="9">
+			<detail type="page number">
+				<number>9</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c62a6b7a-2937-3297-bb0c-37daec75e681">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_c62a6b7a-2937-3297-bb0c-37daec75e681</identifier>
+		<titleInfo>
+			<title>1911_0010_000_010.tif</title>
+		</titleInfo>
+		<part order="10">
+			<detail type="page number">
+				<number>10</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0f1755a6-c4e5-35a8-8d1a-cb13c0cfbe10">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_0f1755a6-c4e5-35a8-8d1a-cb13c0cfbe10</identifier>
+		<titleInfo>
+			<title>1911_0011_000_011.tif</title>
+		</titleInfo>
+		<part order="11">
+			<detail type="page number">
+				<number>11</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_26f3f274-561d-36cc-b8d0-db45809e1f22">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_26f3f274-561d-36cc-b8d0-db45809e1f22</identifier>
+		<titleInfo>
+			<title>1911_0012_000_012.tif</title>
+		</titleInfo>
+		<part order="12">
+			<detail type="page number">
+				<number>12</number>
+			</detail>
+		</part>
+	</relatedItem>
+</mods>

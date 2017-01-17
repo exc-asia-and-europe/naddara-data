@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-6db2905f-3e4a-4e90-b8fc-43235adf7c87">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-6db2905f-3e4a-4e90-b8fc-43235adf7c87">
     <titleInfo lang="ara" script="arab">
         <title>العالم الاسلامي</title>
         <subTitle/>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1907</dateIssued>
-        <dateIssued displayLabel="Western date as printed">15 Février 1907</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed"/>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -43,11 +41,13 @@ Direction et Administration
     <note type="edition" displayLabel="Additional Arabic date information">مدير الجريدة الشيخ سانوا ابونظارة 
 شاعر الملك 
 و محررها الاول</note>
+    <note type="edition" displayLabel="Western date as printed">15 Février 1907</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem xlink:href="#uuid-53270165-447b-41db-9a86-85db5580396d" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>1</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number"/>
+                <number lang="ara" script="arab"/>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -85,6 +85,8 @@ Direction et Administration
             <host_folder displayLabel="folder-name of host record">1_L-univers-musulman_issues-001-008</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">15 Février 1907</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_994a456c-a446-3820-825f-31ce105d41ce">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_994a456c-a446-3820-825f-31ce105d41ce</identifier>
@@ -92,11 +94,13 @@ Direction et Administration
             <title>1907_0001_001_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Février 1907</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9d69757d-5ba6-35ca-80b7-157300afb0c9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9d69757d-5ba6-35ca-80b7-157300afb0c9</identifier>
@@ -104,11 +108,13 @@ Direction et Administration
             <title>1907_0002_001_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Février 1907</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b505db8c-660d-3d53-ada1-bdef0a8c4474">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b505db8c-660d-3d53-ada1-bdef0a8c4474</identifier>
@@ -116,11 +122,13 @@ Direction et Administration
             <title>1907_0003_001_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Février 1907</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ea41b0c6-b682-34b5-9e51-232bad6f21bf">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ea41b0c6-b682-34b5-9e51-232bad6f21bf</identifier>
@@ -128,7 +136,7 @@ Direction et Administration
             <title>1907_0004_001_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

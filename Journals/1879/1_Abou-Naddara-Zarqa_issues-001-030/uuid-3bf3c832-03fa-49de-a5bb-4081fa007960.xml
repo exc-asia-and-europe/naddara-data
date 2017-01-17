@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-3bf3c832-03fa-49de-a5bb-4081fa007960">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-3bf3c832-03fa-49de-a5bb-4081fa007960">
     <titleInfo lang="ara" script="arab">
         <title>أَبُو نَظَّارَة زَرْقَا.
 </title>
@@ -25,8 +25,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1879</dateIssued>
-        <dateIssued displayLabel="Western date as printed"/>
-        <dateIssued displayLabel="Arabic date as printed">يوم الجمعة ٢١ مارت سنة ١٨٧٩. </dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -42,11 +40,13 @@
 صحيفة اسبوعية ادبية علمية بها محاورات ظريفة ونوادر لطيفة ودوار غريبة وقصايد عجيبة
 مديرها ومحررها الاستاذ چمس سانووا المصري مؤسس التياتريات العربية في ديار المصرية قيمة الاشتراك عن نمرة مرنك ٢٥
 </note>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الجمعة ٢١ مارت سنة ١٨٧٩. </note>
     <relatedItem xlink:href="#uuid-0023da71-e667-4f79-a27e-50b11b09613b" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>01</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١</number>
+                <number lang="ara" script="arab">عدد ١</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -84,6 +84,8 @@
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara-Zarqa_issues-001-030</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الجمعة ٢١ مارت سنة ١٨٧٩. </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e25703f4-a500-3146-b811-125af0909d18">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e25703f4-a500-3146-b811-125af0909d18</identifier>
@@ -91,11 +93,13 @@
             <title>1879_0002_001_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الجمعة ٢١ مارت سنة ١٨٧٩. </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0bad242b-da47-37df-8207-4867f5f63d58">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_0bad242b-da47-37df-8207-4867f5f63d58</identifier>
@@ -103,11 +107,13 @@
             <title>1879_0003_001_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الجمعة ٢١ مارت سنة ١٨٧٩. </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e31048fd-ebbe-3eb7-8dc2-34f2d495f3ea">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e31048fd-ebbe-3eb7-8dc2-34f2d495f3ea</identifier>
@@ -115,11 +121,13 @@
             <title>1879_0004_001_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الجمعة ٢١ مارت سنة ١٨٧٩. </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9138643b-d2c7-3247-b7cb-ef7b935a9e45">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9138643b-d2c7-3247-b7cb-ef7b935a9e45</identifier>
@@ -127,7 +135,7 @@
             <title>1879_0005_001_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

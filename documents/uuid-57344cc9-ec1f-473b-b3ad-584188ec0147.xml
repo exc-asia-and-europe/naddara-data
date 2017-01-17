@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-57344cc9-ec1f-473b-b3ad-584188ec0147">
+	<titleInfo>
+		<title>Ma vie en vers et mon théâtre en prose</title>
+		<subTitle>Nouvelle Édition Modifiée et Abrégée</subTitle>
+	</titleInfo>
+	<name type="personal">
+		<namePart>Cheikh J. Sanua Abou Naddara Chaer-el-Molk</namePart>
+		<role>
+			<roleTerm lang="eng" authority="marcrelator" type="text">author</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="code">aut</roleTerm>
+		</role>
+	</name>
+	<originInfo>
+		<place>
+			<placeTerm lang="eng" type="text">Paris</placeTerm>
+		</place>
+		<publisher> Imprimerie Montgeronnaise</publisher>
+		<dateIssued encoding="w3cdtf">1908</dateIssued>
+	</originInfo>
+	<physicalDescription>
+		<extent unit="issues" displayLabel="Number of issues within this series ">1908_Ma-vie-en-verse</extent>
+		<note lang="eng" displayLabel="Content description">1908_Ma-vie-en-verse</note>
+		<digitalOrigin>reformatted digital</digitalOrigin>
+	</physicalDescription>
+	<targetAudience authority="marctarget">adult</targetAudience>
+	<typeOfResource>text</typeOfResource>
+	<genre authority="marcgt">journal</genre>
+	<subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+	<note type="edition" displayLabel="Content description (by E. Ettmüller)">Separata by Sanua of autobiographical content</note>
+	<note type="edition" displayLabel="Source of original objects">Original (by
+		courtesy of Mrs Eva Milhaud)</note>
+	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
+	<relatedItem displayLabel="Part of published volume" type="part">
+		<titleInfo lang="eng" script="latn">
+			<title/>
+		</titleInfo>
+		<name type="personal">
+			<namePart> Imprimerie Montgeronnaise</namePart>
+			<role>
+				<roleTerm type="code" authority="marcrelator">pub</roleTerm>
+			</role>
+		</name>
+		<originInfo>
+			<issuance>continuing</issuance>
+		</originInfo>
+		<genre type="code" authority="marcgt">periodical</genre>
+		<part>
+			<detail type="issue">
+				<number/>
+			</detail>
+			<extent unit="pages">
+				<total>16</total>
+				<list>01-16</list>
+			</extent>
+			<date encoding="w3cdtf">1908</date>
+		</part>
+	</relatedItem>
+	<location>
+		<url displayLabel="Path to Folder">1908_Ma-vie-en-verse</url>
+	</location>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+	</language>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+		<scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+	</language>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_52248703-47b4-304f-b166-ac8dd50fda7f">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_52248703-47b4-304f-b166-ac8dd50fda7f</identifier>
+		<titleInfo>
+			<title>1908_0001_000_001.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>1</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_19258c4a-995a-3e20-a27c-6ee8dbc532d5">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_19258c4a-995a-3e20-a27c-6ee8dbc532d5</identifier>
+		<titleInfo>
+			<title>1908_0002_000_002.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>2</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5f438bb1-07ea-3349-830a-9b962a7704ae">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_5f438bb1-07ea-3349-830a-9b962a7704ae</identifier>
+		<titleInfo>
+			<title>1908_0003_000_003.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>3</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9b2fb7b5-fa1f-3231-931f-9f3fb1e285c8">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_9b2fb7b5-fa1f-3231-931f-9f3fb1e285c8</identifier>
+		<titleInfo>
+			<title>1908_0004_000_004.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>4</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cb73e6ff-5f23-37c8-8f2f-0e3597d3f20e">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_cb73e6ff-5f23-37c8-8f2f-0e3597d3f20e</identifier>
+		<titleInfo>
+			<title>1908_0005_000_005.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>5</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_60081bac-1b18-36be-85b6-4d20c4b2ce01">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_60081bac-1b18-36be-85b6-4d20c4b2ce01</identifier>
+		<titleInfo>
+			<title>1908_0006_000_006.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>6</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a36bfb14-312a-3718-8ef5-3b75c584b3b4">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_a36bfb14-312a-3718-8ef5-3b75c584b3b4</identifier>
+		<titleInfo>
+			<title>1908_0007_000_007.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>7</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_25cf0c66-b5e2-34ab-8a5f-9eaf7bd7205d">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_25cf0c66-b5e2-34ab-8a5f-9eaf7bd7205d</identifier>
+		<titleInfo>
+			<title>1908_0008_000_008.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>8</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9392354a-db9d-30ac-a1a6-c6623d92a43b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_9392354a-db9d-30ac-a1a6-c6623d92a43b</identifier>
+		<titleInfo>
+			<title>1908_0009_000_009.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>9</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e28bc32b-50a0-30bb-82c4-6b4091c44f25">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_e28bc32b-50a0-30bb-82c4-6b4091c44f25</identifier>
+		<titleInfo>
+			<title>1908_0010_000_010.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>10</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9c31faa0-73c0-3f73-8651-d77ee93fba6b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_9c31faa0-73c0-3f73-8651-d77ee93fba6b</identifier>
+		<titleInfo>
+			<title>1908_0011_000_011.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>11</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d346054d-294b-3c25-aacb-c624a0c0ef6d">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_d346054d-294b-3c25-aacb-c624a0c0ef6d</identifier>
+		<titleInfo>
+			<title>1908_0012_000_012.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>12</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_705baf8a-c230-3dbf-bb7c-fe55d18fb8b3">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_705baf8a-c230-3dbf-bb7c-fe55d18fb8b3</identifier>
+		<titleInfo>
+			<title>1908_0013_000_013.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>13</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_97987313-a221-32c7-b12a-65288c423b80">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_97987313-a221-32c7-b12a-65288c423b80</identifier>
+		<titleInfo>
+			<title>1908_0014_000_014.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>14</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b509efc9-9cea-3926-9313-2c2b5a93b264">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_b509efc9-9cea-3926-9313-2c2b5a93b264</identifier>
+		<titleInfo>
+			<title>1908_0015_000_015.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>15</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4244217b-365f-31b3-a527-4db19958d6ec">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_4244217b-365f-31b3-a527-4db19958d6ec</identifier>
+		<titleInfo>
+			<title>1908_0016_000_016.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>16</number>
+			</detail>
+		</part>
+	</relatedItem>
+</mods>

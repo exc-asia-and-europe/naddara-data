@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-8d1f4d53-aefb-49e4-b4f2-f5d396dc4ea5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-8d1f4d53-aefb-49e4-b4f2-f5d396dc4ea5">
     <titleInfo lang="ara" script="arab">
         <title>الوطني المصري</title>
         <subTitle/>
@@ -22,8 +22,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1883</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris september 29th 1883</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في 29 سبتمبر سنة ١٨٨٣</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">6</extent>
@@ -36,11 +34,13 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information">First Series of 10 numbers</note>
     <note type="edition" displayLabel="Additional Arabic date information">الجزو الاول</note>
+    <note type="edition" displayLabel="Western date as printed">Paris september 29th 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 29 سبتمبر سنة ١٨٨٣</note>
     <relatedItem xlink:href="#uuid-0f720cd1-c3c8-4be7-bd7a-51c0cda9755d" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>1</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١</number>
+                <number lang="ara" script="arab">عدد ١</number>
             </detail>
             <extent unit="pages">
                 <total>6</total>
@@ -78,6 +78,8 @@
             <host_folder displayLabel="folder-name of host record">2_The-Egyptian-Patriot_issues-001-002</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris september 29th 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 29 سبتمبر سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_70e39de6-febb-3559-8fc9-913f84175b52">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_70e39de6-febb-3559-8fc9-913f84175b52</identifier>
@@ -85,11 +87,13 @@
             <title>1883_0057_001_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris september 29th 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 29 سبتمبر سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e2f80fc2-5fb1-35b1-a6b6-53ac23ee8a4c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e2f80fc2-5fb1-35b1-a6b6-53ac23ee8a4c</identifier>
@@ -97,11 +101,13 @@
             <title>1883_0058_001_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris september 29th 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 29 سبتمبر سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c5d003cf-ae84-3c3d-a1b9-f6a5af8291f1">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_c5d003cf-ae84-3c3d-a1b9-f6a5af8291f1</identifier>
@@ -109,11 +115,13 @@
             <title>1883_0059_001_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris september 29th 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 29 سبتمبر سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c096b64f-ac17-3432-a0ea-948be48100ea">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_c096b64f-ac17-3432-a0ea-948be48100ea</identifier>
@@ -121,11 +129,13 @@
             <title>1883_0060_001_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris september 29th 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 29 سبتمبر سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3e02e503-6b2e-36b0-b933-eec59e736ceb">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_3e02e503-6b2e-36b0-b933-eec59e736ceb</identifier>
@@ -133,11 +143,13 @@
             <title>1883_0061_001_005.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="5">
+            <detail type="page number">
                 <number>5</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris september 29th 1883</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في 29 سبتمبر سنة ١٨٨٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b879e4a2-34b9-3eec-a6e8-1bdf7a305827">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b879e4a2-34b9-3eec-a6e8-1bdf7a305827</identifier>
@@ -145,7 +157,7 @@
             <title>1883_0062_001_006.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="6">
+            <detail type="page number">
                 <number>6</number>
             </detail>
         </part>
