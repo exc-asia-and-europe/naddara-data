@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1888</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;12</extent>
+        <extent unit="issues">12</extent>
         <note lang="eng" displayLabel="Content description">Abou Naddara (12 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,8 +21,8 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Abou Naddara (12 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Abou Naddara&lt;br/&gt;
-L'Egypte aux Egyptiens&lt;br/&gt;
+    <note type="edition" displayLabel="Text on cover in Western language">Abou Naddara
+L'Egypte aux Egyptiens
 Année 1888</note>
     <note type="edition" displayLabel="Text on cover in Arabic">مصر للمصرين</note>
     <relatedItem xlink:href="#uuid-384b91aa-66e3-494b-b018-922e5cefee6e" displayLabel="Part of published series" type="series"/>

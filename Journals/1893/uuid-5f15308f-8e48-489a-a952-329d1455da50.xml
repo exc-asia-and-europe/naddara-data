@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1893</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;15</extent>
+        <extent unit="issues">15</extent>
         <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (15 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,17 +21,17 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (15 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara<br/>
-Fondateur<br/>
-Directeur et rédacteur en Chef J. Sanua Abou Naddara<br/>
-6, Rue Geoffroy -Marie, Paris<br/>
-17ème Année 1893<br/>
-Résumé des matières contenues dans les numéros de la présente collection <br/>
-        <br/>
-The Journal of Abou Naddara<br/>
-Founder <br/>
-Director and Editor: J. Sanua Abou Naddara<br/>
-Résumé of the Matter contained in the numbers of the present series<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara
+Fondateur
+Directeur et rédacteur en Chef J. Sanua Abou Naddara
+6, Rue Geoffroy -Marie, Paris
+17ème Année 1893
+Résumé des matières contenues dans les numéros de la présente collection 
+        
+The Journal of Abou Naddara
+Founder 
+Director and Editor: J. Sanua Abou Naddara
+Résumé of the Matter contained in the numbers of the present series
 17th Year 1893</note>
     <note type="edition" displayLabel="Text on cover in Arabic"/>
     <relatedItem xlink:href="#uuid-16f8081f-a67d-4ab0-b1a1-372e2d84a303" displayLabel="Part of published series" type="series"/>

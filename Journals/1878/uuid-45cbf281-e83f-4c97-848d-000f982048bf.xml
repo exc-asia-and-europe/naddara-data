@@ -11,7 +11,7 @@
 		<dateIssued encoding="w3cdtf">1878</dateIssued>
 	</originInfo>
 	<physicalDescription>
-		<extent unit="issues" displayLabel="Number of issues within this series">&gt;20 (30)</extent>
+		<extent unit="issues">20 (30)</extent>
 		<note lang="eng" displayLabel="Content description">Riḥlat Abī
 			Naẓẓāra Zarqā (20 of 30 issues)</note>
 		<digitalOrigin>reformatted digital</digitalOrigin>

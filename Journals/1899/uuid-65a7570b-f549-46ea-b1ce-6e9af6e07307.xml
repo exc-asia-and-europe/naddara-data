@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1899</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;7</extent>
+        <extent unit="issues">7</extent>
         <note lang="eng" displayLabel="Content description">L'Almonsef (7 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>

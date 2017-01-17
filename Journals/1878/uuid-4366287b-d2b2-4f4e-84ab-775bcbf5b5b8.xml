@@ -11,7 +11,7 @@
 		<dateIssued encoding="w3cdtf">1878</dateIssued>
 	</originInfo>
 	<physicalDescription>
-		<extent unit="issues" displayLabel="Number of issues within this series">&gt;15</extent>
+		<extent unit="issues">15</extent>
 		<note lang="eng" displayLabel="Content description">Abū Naẓẓāra
 			Zarqā (15 issues), the oldest of Sanua's newspapers, the only one
 			published in Cairo before Sanua's life-long exile to Paris</note>

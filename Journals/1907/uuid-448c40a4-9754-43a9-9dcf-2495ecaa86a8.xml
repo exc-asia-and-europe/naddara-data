@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1907</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;8</extent>
+        <extent unit="issues">8</extent>
         <note lang="eng" displayLabel="Content description">L'Abou Naddara (8 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>

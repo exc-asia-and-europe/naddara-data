@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1907</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;7</extent>
+        <extent unit="issues">7</extent>
         <note lang="eng" displayLabel="Content description">L'Univers Musulman (7 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,13 +21,13 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">L'Univers Musulman (7 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">ANNÉE 1907<br/>
-L'ABOU NADDARA<br/> 
-L'ÉGYPTE AUX EGYPTIENS<br/>
-FONDÉ EN 1877<br/>
-        <br/>
-L'UNIVERS MUSULMAN <br/>
-SYMPATHISONS ET PROSPÉRONS <br/>
+    <note type="edition" displayLabel="Text on cover in Western language">ANNÉE 1907
+L'ABOU NADDARA 
+L'ÉGYPTE AUX EGYPTIENS
+FONDÉ EN 1877
+        
+L'UNIVERS MUSULMAN 
+SYMPATHISONS ET PROSPÉRONS 
 FONDÉ EN 1907</note>
     <note type="edition" displayLabel="Text on cover in Arabic">السنة الحادية و الثلاثون 
 سمادى الشعوب

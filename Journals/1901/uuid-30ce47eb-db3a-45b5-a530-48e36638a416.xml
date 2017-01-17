@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1901</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;3</extent>
+        <extent unit="issues">3</extent>
         <note lang="eng" displayLabel="Content description">L'Almonsef d'Abou Naddara (3 issues) </note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>

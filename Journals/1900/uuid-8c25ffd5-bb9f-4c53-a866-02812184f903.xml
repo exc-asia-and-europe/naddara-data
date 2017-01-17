@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1900</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;5</extent>
+        <extent unit="issues">5</extent>
         <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (5 issues) </note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,14 +21,14 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (5 issues) </note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Album 1900<br/>
-Les Journaux d'Abou Naddara <br/>
-Année 1900<br/>
-L'Abou Naddara 24ème Année <br/>
-L'Attawadod 9ème Année<br/>
-L'Almonsef 2ème Année<br/>
-Administration et Rédaction <br/>
-6, Rue Richer. Paris<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Album 1900
+Les Journaux d'Abou Naddara 
+Année 1900
+L'Abou Naddara 24ème Année 
+L'Attawadod 9ème Année
+L'Almonsef 2ème Année
+Administration et Rédaction 
+6, Rue Richer. Paris
 1900</note>
     <note type="edition" displayLabel="Text on cover in Arabic">مجموع جرائدنا
 سنة ١٩٠٠</note>

@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1896</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;12</extent>
+        <extent unit="issues">12</extent>
         <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (12 issues) </note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,13 +21,13 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (12 issues) </note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara<br/>
-L'Egypte aux Egyptiens <br/>
-20ème Année.<br/>
-Série 1896 <br/>
-Fondateur<br/>
-Directeur et rédacteur en Chef J. Sanua Abou Naddara<br/>
-6, Rue Geoffroy -Marie, Paris<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara
+L'Egypte aux Egyptiens 
+20ème Année.
+Série 1896 
+Fondateur
+Directeur et rédacteur en Chef J. Sanua Abou Naddara
+6, Rue Geoffroy -Marie, Paris
 Résumé des Matières</note>
     <note type="edition" displayLabel="Text on cover in Arabic">جريدة ابي نظارة
 مصر للمصرين السنة الحادتة و العشرون

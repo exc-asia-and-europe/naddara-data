@@ -19,7 +19,7 @@
 		<dateIssued encoding="w3cdtf">1898</dateIssued>
 	</originInfo>
 	<physicalDescription>
-		<extent unit="issues" displayLabel="Number of issues within this series ">1898_Brunet_Le-Cheikh-Abou-Naddara</extent>
+		<extent unit="issues">1898_Brunet_Le-Cheikh-Abou-Naddara</extent>
 		<note lang="eng" displayLabel="Content description">1898_Brunet_Le-Cheikh-Abou-Naddara</note>
 		<digitalOrigin>reformatted digital</digitalOrigin>
 	</physicalDescription>
@@ -31,7 +31,7 @@
 	<note type="edition" displayLabel="Source of original objects">Original (by
 		courtesy of Mrs Eva Milhaud)</note>
 	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
-	<relatedItem displayLabel="Part of published volume" type="part">
+	<relatedItem displayLabel="Part of published volume" type="constituent">
 		<titleInfo lang="eng" script="latn">
 			<title/>
 		</titleInfo>

@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1892</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;42</extent>
+        <extent unit="issues">42</extent>
         <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (24 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,7 +21,7 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (24 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara <br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara 
 Année 1892</note>
     <note type="edition" displayLabel="Text on cover in Arabic">مجمع مفردات جريجدة ابو نظارة عام ١٨٩٢</note>
     <relatedItem xlink:href="#uuid-83d7b20e-41be-4f5d-bdb0-c501b36a6fd2" displayLabel="Part of published series" type="series"/>

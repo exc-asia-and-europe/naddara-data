@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-132c4b37-da36-440c-9523-43a0212d5a27">
+<mods xmlns="http://www.loc.gov/mods/v3"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+	ID="uuid-132c4b37-da36-440c-9523-43a0212d5a27">
 	<titleInfo>
-		<title>Decoration to James Sanua as a Mason of the Third Degree of the "Lodge La Concordia (Cairo, Egypt)"</title>
+		<title>Decoration to James Sanua as a Mason of the Third Degree of the
+			"Lodge La Concordia (Cairo, Egypt)"</title>
 	</titleInfo>
 	<name type="personal">
 		<namePart>n.A.</namePart>
 		<role>
-			<roleTerm lang="eng" authority="marcrelator" type="text">author</roleTerm>
-			<roleTerm lang="eng" authority="marcrelator" type="code">aut</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="text"
+				>author</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="code"
+				>aut</roleTerm>
 		</role>
 	</name>
 	<originInfo>
@@ -19,19 +26,27 @@
 	</originInfo>
 	<physicalDescription>
 		<extent unit="page">1</extent>
-		<note lang="eng" displayLabel="Content description">1879_decoration_free-masons-lodge</note>
+		<note lang="eng" displayLabel="Content description"
+			>1879_decoration_free-masons-lodge</note>
 		<digitalOrigin>reformatted digital</digitalOrigin>
 	</physicalDescription>
 	<targetAudience authority="marctarget">adult</targetAudience>
 	<typeOfResource>text</typeOfResource>
-	<genre authority="tgm" authorityURI="http://www.loc.gov/pictures/item/tgm001864/">Certificates</genre>
+	<genre authority="tgm"
+		authorityURI="http://www.loc.gov/pictures/item/tgm001864/"
+		>Certificates</genre>
 	<genre authority="marcgt">loose-leaf</genre>
 	<subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
-	<note type="edition" displayLabel="Content description (by E. Ettmüller)">Decoration to James Sanua as a Mason of the Third Degree of the "Lodge La Concordia (Cairo, Egypt)"</note>
-	<note type="edition" displayLabel="Source of original objects">Original (by courtesy of Mrs Eva Milhaud)</note>
-	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
+	<note type="edition" displayLabel="Content description (by E. Ettmüller)"
+		>Decoration to James Sanua as a Mason of the Third Degree of the "Lodge
+		La Concordia (Cairo, Egypt)"</note>
+	<note type="edition" displayLabel="Source of original objects">Original (by
+		courtesy of Mrs Eva Milhaud)</note>
+	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d"
+		displayLabel="Part of published series" type="series"/>
 	<location>
-		<url displayLabel="Path to Folder">1879_decoration_free-masons-lodge</url>
+		<url displayLabel="Path to Folder"
+			>1879_decoration_free-masons-lodge</url>
 	</location>
 	<language>
 		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
@@ -43,15 +58,18 @@
 	</language>
 	<recordInfo lang="eng" script="latn">
 		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
-		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<recordCreationDate encoding="w3cdtf"
+			>2011-08-27+02:00</recordCreationDate>
 		<languageOfCataloging>
 			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
 			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
 		</languageOfCataloging>
 	</recordInfo>
-	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ce636747-4357-3a2c-a66f-aaa28747c869">
+	<relatedItem type="constituent" displayLabel="Page"
+		xlink:href="#w_ce636747-4357-3a2c-a66f-aaa28747c869">
 		<typeOfResource>still image</typeOfResource>
-		<identifier type="local">w_ce636747-4357-3a2c-a66f-aaa28747c869</identifier>
+		<identifier type="local"
+			>w_ce636747-4357-3a2c-a66f-aaa28747c869</identifier>
 		<titleInfo>
 			<title>1879_0001_000_000.tif</title>
 		</titleInfo>

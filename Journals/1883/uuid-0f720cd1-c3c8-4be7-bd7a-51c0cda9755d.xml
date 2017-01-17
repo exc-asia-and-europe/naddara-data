@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1883</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;2</extent>
+        <extent unit="issues">2</extent>
         <note lang="eng" displayLabel="Content description">The Egyptian Patriot (2 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>

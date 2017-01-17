@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1899</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;10</extent>
+        <extent unit="issues">10</extent>
         <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (10 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,14 +21,14 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (10 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Album 1899<br/>
-Les Journaux d'Abou Naddara <br/>
-Année 1899<br/>
-L'Abou Naddara 23ème Année <br/>
-L'Attawadod 8ème Année<br/>
-L'Almonsef 1ère Année<br/>
-Administration et Rédaction <br/>
-6, Rue Geoffroy-Marie. Paris<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Album 1899
+Les Journaux d'Abou Naddara 
+Année 1899
+L'Abou Naddara 23ème Année 
+L'Attawadod 8ème Année
+L'Almonsef 1ère Année
+Administration et Rédaction 
+6, Rue Geoffroy-Marie. Paris
 Anos chers lecteurs</note>
     <relatedItem xlink:href="#uuid-94173aaa-d895-4c12-ac73-dfd6627f7dcb" displayLabel="Part of published series" type="series"/>
     <note type="edition" displayLabel="Text on cover in Arabic">مجموع جرايدنا

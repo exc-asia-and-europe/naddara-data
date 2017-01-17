@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1894</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;12</extent>
+        <extent unit="issues">12</extent>
         <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (12 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -22,13 +22,9 @@
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (12 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
     <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara
-<br/>
 L'Egypte aux Egyptiens 
-<br/>
 Le Journal d'Abou Naddara 
-<br/>
 18ème Année.
-<br/>
 Série 1894 </note>
     <note type="edition" displayLabel="Text on cover in Arabic">جريدة ابي نظارة
 مصر للمصرين

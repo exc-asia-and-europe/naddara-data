@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1904</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;12</extent>
+        <extent unit="issues">12</extent>
         <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (12 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,13 +21,13 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (12 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Journal oriental illustré<br/>
-Album de l'année 1904<br/>
-28ème Année<br/>
-Sympathisons et prospérons <br/>
-L'Abou Naddara "L'Abou Naddara", "L'Attawadod", "L'Almonsef" réunis <br/>
-Administration et Rédaction <br/>
-6, Rue Richer. Paris<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Journal oriental illustré
+Album de l'année 1904
+28ème Année
+Sympathisons et prospérons 
+L'Abou Naddara "L'Abou Naddara", "L'Attawadod", "L'Almonsef" réunis 
+Administration et Rédaction 
+6, Rue Richer. Paris
 Année 1904</note>
     <note type="edition" displayLabel="Text on cover in Arabic">السنة الثامنة والعشرون 
 سمادى الشعوب

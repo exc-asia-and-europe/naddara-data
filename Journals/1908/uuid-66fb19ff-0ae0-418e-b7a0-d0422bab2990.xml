@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1908</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;6</extent>
+        <extent unit="issues">6</extent>
         <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (6 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>

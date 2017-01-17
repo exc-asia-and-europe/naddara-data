@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1880</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;10</extent>
+        <extent unit="issues">10</extent>
         <note lang="eng" displayLabel="Content description">an-Naẓẓārāt al-Miṣrīya (10 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,7 +21,7 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">an-Naẓẓārāt al-Miṣrīya (10 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Reprint by Dar Sader in Beirut 1974 (by courtesy of Prof. Nagua Ibrāhīm ʿĀnūs)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara 1880<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara 1880
 Dar Sader, Beirut, 1974</note>
     <note type="edition" displayLabel="Text on cover in Arabic">صحف أبو نظارة
 ١٨٨٠
