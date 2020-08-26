@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+<vra xmlns="https://www.loc.gov/standards/vracore/schemas.html" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/vracore/schemas.html http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_71521742-6b29-31b5-9885-48f8c9a91814" source="Tamboti-Importer">
         <titleSet>
             <title type="generalView">1880_0154_010_009.tif</title>
