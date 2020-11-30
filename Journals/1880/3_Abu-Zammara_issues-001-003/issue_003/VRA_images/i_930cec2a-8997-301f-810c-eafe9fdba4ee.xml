@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+<vra xmlns="https://www.loc.gov/standards/vracore/schemas.html" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/vracore/schemas.html http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <image id="i_930cec2a-8997-301f-810c-eafe9fdba4ee" source="Tamboti-Importer" href="hra-imageserver://kjc-sv016/commons/Abou_Naddara/Journals/1880/3_Abu-Zammara_issues-001-003/issue_003/1880_0182_003_001.tif">
         <titleSet>
             <title type="generalView">1880_0182_003_001.tif (image record)</title>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-086aa708-1bc2-4823-b448-ff343241748a">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-086aa708-1bc2-4823-b448-ff343241748a">
     <titleInfo lang="ara" script="arab">
         <title>أبو نظارة 
 لِسان حَال الاُمّةِ
@@ -28,8 +28,6 @@ Numéro 11
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1881</dateIssued>
-        <dateIssued displayLabel="Western date as printed"/>
-        <dateIssued displayLabel="Arabic date as printed"/>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -42,11 +40,13 @@ Numéro 11
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information">5ème Année</note>
     <note type="edition" displayLabel="Additional Arabic date information">أَلسَنَةُ الخاَمِسَة</note>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem xlink:href="#uuid-f379aa6b-7f8b-42f8-86c7-5f1412cec3c4" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>11</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number"/>
+                <number lang="ara" script="arab"/>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -84,6 +84,8 @@ Numéro 11
             <host_folder displayLabel="folder-name of host record">3_Abou-Naddara_issues-001-015</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2f755b3a-bfa0-30c1-a7a6-d469158ccc1d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2f755b3a-bfa0-30c1-a7a6-d469158ccc1d</identifier>
@@ -91,11 +93,13 @@ Numéro 11
             <title>1881_0192_011_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f33b9cbb-d21b-3154-b5e7-f5b8a2533ab1">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f33b9cbb-d21b-3154-b5e7-f5b8a2533ab1</identifier>
@@ -103,11 +107,13 @@ Numéro 11
             <title>1881_0193_011_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_bb6517d9-3e3f-38cf-a52a-3d2343227662">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_bb6517d9-3e3f-38cf-a52a-3d2343227662</identifier>
@@ -115,11 +121,13 @@ Numéro 11
             <title>1881_0194_011_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ccba60f1-e874-3ef6-87d8-ee488354a7c4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ccba60f1-e874-3ef6-87d8-ee488354a7c4</identifier>
@@ -127,7 +135,7 @@ Numéro 11
             <title>1881_0195_011_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

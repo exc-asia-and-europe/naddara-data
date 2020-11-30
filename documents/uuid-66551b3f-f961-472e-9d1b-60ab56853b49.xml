@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-66551b3f-f961-472e-9d1b-60ab56853b49">
+	<titleInfo>
+		<title>Le Cheikh J. Sanua Abou Naddara Chaër-el-Molk</title>
+		<subTitle> interviewé sur sa vie par le directeur de la "Rénovation
+			Morale"</subTitle>
+	</titleInfo>
+	<name type="personal">
+		<namePart>Morel, Adolphe</namePart>
+		<role>
+			<roleTerm lang="eng" authority="marcrelator" type="text">author</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="code">aut</roleTerm>
+		</role>
+	</name>
+	<originInfo>
+		<place>
+			<placeTerm lang="eng" type="text">Limoges</placeTerm>
+		</place>
+		<publisher> Imprimerie Commerciale Perrette</publisher>
+		<dateIssued encoding="w3cdtf">1910</dateIssued>
+	</originInfo>
+	<physicalDescription>
+		<extent unit="issues">1910_Interview_Abou-Naddara</extent>
+		<note lang="eng" displayLabel="Content description">1910_Interview_Abou-Naddara</note>
+		<digitalOrigin>reformatted digital</digitalOrigin>
+	</physicalDescription>
+	<targetAudience authority="marctarget">adult</targetAudience>
+	<typeOfResource>text</typeOfResource>
+	<genre authority="marcgt">journal</genre>
+	<subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+	<note type="edition" displayLabel="Content description (by E. Ettmüller)"/>
+	<note type="edition" displayLabel="Source of original objects">Original (by
+		courtesy of Mrs Eva Milhaud)</note>
+	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
+	<relatedItem displayLabel="Part of published volume" type="constituent">
+		<titleInfo lang="eng" script="latn">
+			<title/>
+		</titleInfo>
+		<name type="personal">
+			<namePart> Imprimerie Commerciale Perrette</namePart>
+			<role>
+				<roleTerm type="code" authority="marcrelator">pub</roleTerm>
+			</role>
+		</name>
+		<originInfo>
+			<issuance>continuing</issuance>
+		</originInfo>
+		<genre type="code" authority="marcgt">periodical</genre>
+		<part>
+			<detail type="issue">
+				<number/>
+			</detail>
+			<extent unit="pages">
+				<total>8</total>
+				<list>01-08</list>
+			</extent>
+			<date encoding="w3cdtf">1910</date>
+		</part>
+	</relatedItem>
+	<location>
+		<url displayLabel="Path to Folder">1910_Interview_Abou-Naddara</url>
+	</location>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+	</language>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+		<scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+	</language>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3066fe8b-9973-3163-876c-8611bbe12a33">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_3066fe8b-9973-3163-876c-8611bbe12a33</identifier>
+		<titleInfo>
+			<title>1910_0001_000_001.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>1</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9a706fca-ce60-3ab7-a5b2-e9e7d3feec5c">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_9a706fca-ce60-3ab7-a5b2-e9e7d3feec5c</identifier>
+		<titleInfo>
+			<title>1910_0002_000_002.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>2</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b289a03a-0f44-3b32-84f8-0d7d7d626064">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_b289a03a-0f44-3b32-84f8-0d7d7d626064</identifier>
+		<titleInfo>
+			<title>1910_0003_000_003.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>3</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2383acce-c1cc-3e1c-87cc-f2f8370eef2c">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_2383acce-c1cc-3e1c-87cc-f2f8370eef2c</identifier>
+		<titleInfo>
+			<title>1910_0004_000_004.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>4</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b7bf443e-0f1f-3199-82c7-072679c4b93b">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_b7bf443e-0f1f-3199-82c7-072679c4b93b</identifier>
+		<titleInfo>
+			<title>1910_0005_000_005.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>5</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4d7a3269-c482-3873-83ed-48b75fa20ff6">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_4d7a3269-c482-3873-83ed-48b75fa20ff6</identifier>
+		<titleInfo>
+			<title>1910_0006_000_006.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>6</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d25a5e05-b135-3496-8b1b-51cdb506d963">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_d25a5e05-b135-3496-8b1b-51cdb506d963</identifier>
+		<titleInfo>
+			<title>1910_0007_000_007.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>7</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9000df93-012b-3179-ad85-91809c737fd6">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_9000df93-012b-3179-ad85-91809c737fd6</identifier>
+		<titleInfo>
+			<title>1910_0008_000_008.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>8</number>
+			</detail>
+		</part>
+	</relatedItem>
+</mods>

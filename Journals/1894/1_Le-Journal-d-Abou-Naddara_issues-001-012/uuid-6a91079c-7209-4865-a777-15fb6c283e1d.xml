@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-6a91079c-7209-4865-a777-15fb6c283e1d">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-6a91079c-7209-4865-a777-15fb6c283e1d">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة</title>
         <subTitle>مصر للمصرين</subTitle>
@@ -23,8 +23,6 @@ L'Egypte aux Egyptiens</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1894</dateIssued>
-        <dateIssued displayLabel="Western date as printed">5 Novembre 1894</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٥ نوﭭمبر سنة ١٨٩٤</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ L'Egypte aux Egyptiens</subTitle>
 الشيخ ج. سانوا ابو  نظارة بباريس نمرة ٦ رو جوفروا 
 ماري
 تأليف عام ١٨٩٤ من جريدة ابي نظارة</note>
+    <note type="edition" displayLabel="Western date as printed">5 Novembre 1894</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ نوﭭمبر سنة ١٨٩٤</note>
     <relatedItem xlink:href="#uuid-22cae251-25c1-45ea-a8eb-7adbae5bbb49" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>11</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١١</number>
+                <number lang="ara" script="arab">عدد ١١</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ L'Egypte aux Egyptiens</subTitle>
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">5 Novembre 1894</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ نوﭭمبر سنة ١٨٩٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1c61d1d7-e75e-311d-87c6-f56978a10d1e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_1c61d1d7-e75e-311d-87c6-f56978a10d1e</identifier>
@@ -90,11 +92,13 @@ L'Egypte aux Egyptiens</subTitle>
             <title>1894_0043_011_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">5 Novembre 1894</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ نوﭭمبر سنة ١٨٩٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_78c650ed-6d38-30e3-89da-fd5c03f76f90">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_78c650ed-6d38-30e3-89da-fd5c03f76f90</identifier>
@@ -102,11 +106,13 @@ L'Egypte aux Egyptiens</subTitle>
             <title>1894_0044_011_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">5 Novembre 1894</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ نوﭭمبر سنة ١٨٩٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c8642a98-d123-3947-8087-92cced736b4f">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_c8642a98-d123-3947-8087-92cced736b4f</identifier>
@@ -114,11 +120,13 @@ L'Egypte aux Egyptiens</subTitle>
             <title>1894_0045_011_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">5 Novembre 1894</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ نوﭭمبر سنة ١٨٩٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a4f1a91e-9bdd-3111-a1aa-5ea02ae607e7">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_a4f1a91e-9bdd-3111-a1aa-5ea02ae607e7</identifier>
@@ -126,7 +134,7 @@ L'Egypte aux Egyptiens</subTitle>
             <title>1894_0046_011_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

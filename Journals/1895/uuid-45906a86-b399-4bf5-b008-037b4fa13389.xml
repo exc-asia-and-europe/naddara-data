@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-45906a86-b399-4bf5-b008-037b4fa13389">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-45906a86-b399-4bf5-b008-037b4fa13389">
     <titleInfo lang="fre">
         <title>Le Cheikh Abou Naddara</title>
     </titleInfo>
@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1895</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;1</extent>
+        <extent unit="issues">1</extent>
         <note lang="eng" displayLabel="Content description">One Separata: Vinet, R.: "Le Cheikh Abou Naddara, in: L'Hirondelle de France, pp. 133-136</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>

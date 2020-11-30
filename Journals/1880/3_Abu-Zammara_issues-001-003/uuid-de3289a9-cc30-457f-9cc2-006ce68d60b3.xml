@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-de3289a9-cc30-457f-9cc2-006ce68d60b3">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-de3289a9-cc30-457f-9cc2-006ce68d60b3">
     <titleInfo lang="ara" script="arab">
         <title>أَلسَنَةُ الرابعة 
 أَبو زَمَّارَة
@@ -29,8 +29,6 @@ abū zammāra
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1880</dateIssued>
-        <dateIssued displayLabel="Western date as printed"/>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٢٩ جوليو سنة ١٨٨٠</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -43,11 +41,13 @@ abū zammāra
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information">4ème Année</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة ٨</note>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٩ جوليو سنة ١٨٨٠</note>
     <relatedItem xlink:href="#uuid-7f0c5cc7-4eaf-4c47-b69e-ba27c4d62c84" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>02</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٢</number>
+                <number lang="ara" script="arab">عدد ٢</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -85,6 +85,8 @@ abū zammāra
             <host_folder displayLabel="folder-name of host record">3_Abu-Zammara_issues-001-003</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٩ جوليو سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_78d30ced-fcb3-32d3-b5ee-2ba453e55ca2">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_78d30ced-fcb3-32d3-b5ee-2ba453e55ca2</identifier>
@@ -92,11 +94,13 @@ abū zammāra
             <title>1880_0178_002_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٩ جوليو سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_93839d0c-45f4-3302-b956-3f9c3526024c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_93839d0c-45f4-3302-b956-3f9c3526024c</identifier>
@@ -104,11 +108,13 @@ abū zammāra
             <title>1880_0179_002_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٩ جوليو سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_68e53788-d485-362b-bee6-eedbb75efcc1">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_68e53788-d485-362b-bee6-eedbb75efcc1</identifier>
@@ -116,11 +122,13 @@ abū zammāra
             <title>1880_0180_002_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٩ جوليو سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2986a03b-0e85-3635-98c0-e302a0d8b2ae">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2986a03b-0e85-3635-98c0-e302a0d8b2ae</identifier>
@@ -128,7 +136,7 @@ abū zammāra
             <title>1880_0181_002_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

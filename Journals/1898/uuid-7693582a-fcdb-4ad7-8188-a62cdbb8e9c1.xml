@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-7693582a-fcdb-4ad7-8188-a62cdbb8e9c1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-7693582a-fcdb-4ad7-8188-a62cdbb8e9c1">
     <titleInfo lang="fre">
         <title>L'Attawadod d'Abou Naddara</title>
     </titleInfo>
@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1898</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;10</extent>
+        <extent unit="issues">10</extent>
         <note lang="eng" displayLabel="Content description">L'Attawadod d'Abou Naddara (10 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,11 +21,11 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">L'Attawadod d'Abou Naddara (10 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">7èmeAnnée<br/>
-L'Attawadod d'Abou Naddara<br/>
-Revue Internationale Illustrée Destinée à l'Echange des Idées, des sentiments et des Intérêts<br/>
-ENTRE L'ORIENT ET L'OCCIDENT<br/>
-Direction: 6, Rue Geoffroy-Marie. Paris<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">7ème Année
+L'Attawadod d'Abou Naddara
+Revue Internationale Illustrée Destinée à l'Echange des Idées, des sentiments et des Intérêts
+ENTRE L'ORIENT ET L'OCCIDENT
+Direction: 6, Rue Geoffroy-Marie. Paris
 ANNÉE 1898</note>
     <note type="edition" displayLabel="Text on cover in Arabic">مجموع اعداد التودد لعام ١٨٩٨
 تودد ابي نظارة

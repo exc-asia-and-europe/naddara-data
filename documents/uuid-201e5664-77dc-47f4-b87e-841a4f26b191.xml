@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-201e5664-77dc-47f4-b87e-841a4f26b191">
+	<titleInfo>
+		<title>Le Cheikh Abou Naddara</title>
+		<subTitle/>
+	</titleInfo>
+	<name type="personal">
+		<namePart>Brunet, L.</namePart>
+		<role>
+			<roleTerm lang="eng" authority="marcrelator" type="text">author</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="code">aut</roleTerm>
+		</role>
+	</name>
+	<originInfo>
+		<place>
+			<placeTerm lang="eng" type="text">Paris</placeTerm>
+		</place>
+		<publisher>Abou Naddara</publisher>
+		<dateIssued encoding="w3cdtf">1900</dateIssued>
+	</originInfo>
+	<physicalDescription>
+		<extent unit="issues">1900_Brunet_Le-Cheikh-Abou-Naddara_illustrated</extent>
+		<note lang="eng" displayLabel="Content description">1900_Brunet_Le-Cheikh-Abou-Naddara_illustrated</note>
+		<digitalOrigin>reformatted digital</digitalOrigin>
+	</physicalDescription>
+	<targetAudience authority="marctarget">adult</targetAudience>
+	<typeOfResource>text</typeOfResource>
+	<genre authority="marcgt">journal</genre>
+	<subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+	<note type="edition" displayLabel="Content description (by E. Ettmüller)"/>
+	<note type="edition" displayLabel="Source of original objects">Original (by
+		courtesy of Mrs Eva Milhaud)</note>
+	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
+	<relatedItem displayLabel="Part of published volume" type="constituent">
+		<titleInfo lang="eng" script="latn">
+			<title/>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Abou Naddara</namePart>
+			<role>
+				<roleTerm type="code" authority="marcrelator">pub</roleTerm>
+			</role>
+		</name>
+		<originInfo>
+			<issuance>continuing</issuance>
+		</originInfo>
+		<genre type="code" authority="marcgt">periodical</genre>
+		<part>
+			<detail type="issue">
+				<number/>
+			</detail>
+			<extent unit="pages">
+				<total>2</total>
+				<list/>
+			</extent>
+			<date encoding="w3cdtf">1900</date>
+		</part>
+	</relatedItem>
+	<location>
+		<url displayLabel="Path to Folder">1900_Brunet_Le-Cheikh-Abou-Naddara_illustrated</url>
+	</location>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+	</language>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+		<scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+	</language>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0068d8ca-2003-324d-ae10-cddc2e3df738">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_0068d8ca-2003-324d-ae10-cddc2e3df738</identifier>
+		<titleInfo>
+			<title>1900_0049_000_000.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number/>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b2c9a961-11b9-31fe-9452-efa67349c1d7">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_b2c9a961-11b9-31fe-9452-efa67349c1d7</identifier>
+		<titleInfo>
+			<title>1900_0050_000_000.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number/>
+			</detail>
+		</part>
+	</relatedItem>
+</mods>

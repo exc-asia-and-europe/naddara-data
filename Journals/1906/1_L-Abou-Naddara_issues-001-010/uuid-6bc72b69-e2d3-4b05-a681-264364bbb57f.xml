@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-6bc72b69-e2d3-4b05-a681-264364bbb57f">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-6bc72b69-e2d3-4b05-a681-264364bbb57f">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة</title>
         <subTitle>سمادى الشعوب
@@ -29,8 +29,6 @@ Illustrated Satirical Journal</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1906</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Octobre 1906</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٤</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -47,11 +45,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
     <note type="edition" displayLabel="Additional Arabic date information">السنة التاسعة و العشرون
 جريدة تصويرية فكاهية
 مديرها و محررها الاول الشيخ ج.سانواابونظارة بباريس في شاريع ريشيه نمرة ٤٦</note>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٤</note>
     <relatedItem xlink:href="#uuid-9d4e3e4a-94fe-43fa-aa33-6d1ff55d83ac" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>8</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٨</number>
+                <number lang="ara" script="arab">عدد ٨</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -89,6 +89,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_L-Abou-Naddara_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f074bf55-3dac-398b-a1c8-3dd7e94c59b5">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f074bf55-3dac-398b-a1c8-3dd7e94c59b5</identifier>
@@ -96,11 +98,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1906_0027_007_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0bb7310e-c4bb-31be-9f4b-d0dc61c9ba98">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_0bb7310e-c4bb-31be-9f4b-d0dc61c9ba98</identifier>
@@ -108,11 +112,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1906_0031_008_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_f6a7a541-ca38-38d8-9702-a29f01ef37c1">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_f6a7a541-ca38-38d8-9702-a29f01ef37c1</identifier>
@@ -120,11 +126,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1906_0032_008_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5ca2d258-6749-3256-8ab7-76001649b49d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5ca2d258-6749-3256-8ab7-76001649b49d</identifier>
@@ -132,11 +140,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1906_0033_008_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_39d8d67d-069b-385d-a513-c0f79230b050">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_39d8d67d-069b-385d-a513-c0f79230b050</identifier>
@@ -144,7 +154,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1906_0034_008_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

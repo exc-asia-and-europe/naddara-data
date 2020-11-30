@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-b1650c75-b438-41c9-8fd9-6b31a13bb372">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-b1650c75-b438-41c9-8fd9-6b31a13bb372">
     <titleInfo lang="ara" script="arab">
         <title>المنصِف
 </title>
@@ -26,8 +26,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1903</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Octobre 1903</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس شهر رجب الاصم سنة ١٣٢١</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -43,11 +41,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 43, Rue Richer, Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الخامسة
 جريدة سياسية ادبية تجارية مديرها و محررها الشيخ ج.سانواابونظارة المصري بباريس بشارع "جوفرواماري نمرة ٦" </note>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1903</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس شهر رجب الاصم سنة ١٣٢١</note>
     <relatedItem xlink:href="#uuid-13004b06-4f92-4dec-95d2-28f02247253d" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>3</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٣</number>
+                <number lang="ara" script="arab">عدد ٣</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -85,6 +85,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">2_L-Almonsef-d-Abou-Naddara_issues-001-003</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1903</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس شهر رجب الاصم سنة ١٣٢١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b94d644e-8609-32df-b098-821a769edd87">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b94d644e-8609-32df-b098-821a769edd87</identifier>
@@ -92,11 +94,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1903_0035_003_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1903</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس شهر رجب الاصم سنة ١٣٢١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_bc16d622-4f6b-34ae-ae02-be9dd79a07b6">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_bc16d622-4f6b-34ae-ae02-be9dd79a07b6</identifier>
@@ -104,11 +108,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1903_0036_003_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1903</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس شهر رجب الاصم سنة ١٣٢١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8142967b-9a36-3151-b1e3-cffc2a54d393">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8142967b-9a36-3151-b1e3-cffc2a54d393</identifier>
@@ -116,11 +122,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1903_0037_003_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1903</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس شهر رجب الاصم سنة ١٣٢١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a90afd66-030f-3aff-8333-60415974cc70">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_a90afd66-030f-3aff-8333-60415974cc70</identifier>
@@ -128,7 +136,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1903_0038_003_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

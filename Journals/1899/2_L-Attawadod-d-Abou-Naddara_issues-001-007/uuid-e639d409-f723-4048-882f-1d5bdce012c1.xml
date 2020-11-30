@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-e639d409-f723-4048-882f-1d5bdce012c1">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-e639d409-f723-4048-882f-1d5bdce012c1">
     <titleInfo lang="ara" script="arab">
         <title>التودد</title>
         <subTitle>جريدة ودادية شرقية عربية</subTitle>
@@ -25,8 +25,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1899</dateIssued>
-        <dateIssued displayLabel="Western date as printed">10 Octobre 1899</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٥ جمادى الثاني سنة ١٣١٧</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -43,11 +41,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 6, Rue Geoffroy -Marie, Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثامنة 
 مديرها  الشيخ ج.سانواابونظارة بباريس نمرة ٦ رو جوفروا ماري</note>
+    <note type="edition" displayLabel="Western date as printed">10 Octobre 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ جمادى الثاني سنة ١٣١٧</note>
     <relatedItem xlink:href="#uuid-5d0652f3-70c9-42d0-b9d5-dc5029215553" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>7</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٧</number>
+                <number lang="ara" script="arab">عدد ٧</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -85,6 +85,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">2_L-Attawadod-d-Abou-Naddara_issues-001-007</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">10 Octobre 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ جمادى الثاني سنة ١٣١٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_c24750c8-9ae1-38b8-b83a-da8b50cb69cd">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_c24750c8-9ae1-38b8-b83a-da8b50cb69cd</identifier>
@@ -92,11 +94,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0083_007_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">10 Octobre 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ جمادى الثاني سنة ١٣١٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_0a184682-261a-371d-9a7b-cbf8423806b4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_0a184682-261a-371d-9a7b-cbf8423806b4</identifier>
@@ -104,11 +108,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0084_007_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">10 Octobre 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ جمادى الثاني سنة ١٣١٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cd817129-b70b-3e11-a167-ac6046267c50">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_cd817129-b70b-3e11-a167-ac6046267c50</identifier>
@@ -116,11 +122,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0085_007_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">10 Octobre 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ جمادى الثاني سنة ١٣١٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cc39cb0f-6224-3408-adac-9a5a3f021d44">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_cc39cb0f-6224-3408-adac-9a5a3f021d44</identifier>
@@ -128,7 +136,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0086_007_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

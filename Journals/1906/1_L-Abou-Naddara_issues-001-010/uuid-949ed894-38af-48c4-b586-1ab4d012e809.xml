@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-949ed894-38af-48c4-b586-1ab4d012e809">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-949ed894-38af-48c4-b586-1ab4d012e809">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة</title>
         <subTitle>سمادى الشعوب
@@ -29,8 +29,6 @@ Illustrated Satirical Journal</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1906</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Novembre 1906</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">بباريس في شهر رمضان المعظم سنة ١٣٢٤</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -47,11 +45,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثلاثون
 جريدة تصويرية فكاهية
 مديرها و محررها الاول الشيخ ج.سانواابونظارة بباريس في شاريع ريشيه نمرة ٤٧</note>
+    <note type="edition" displayLabel="Western date as printed">Novembre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر رمضان المعظم سنة ١٣٢٤</note>
     <relatedItem xlink:href="#uuid-9d4e3e4a-94fe-43fa-aa33-6d1ff55d83ac" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>9</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٩</number>
+                <number lang="ara" script="arab">عدد ٩</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -89,6 +89,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_L-Abou-Naddara_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Novembre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر رمضان المعظم سنة ١٣٢٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_aa15caa1-115b-30cf-8992-94ad95cebe15">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_aa15caa1-115b-30cf-8992-94ad95cebe15</identifier>
@@ -96,11 +98,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1906_0035_009_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Novembre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر رمضان المعظم سنة ١٣٢٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_af84c64a-bd52-33bd-b3fb-52c5b5224fe8">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_af84c64a-bd52-33bd-b3fb-52c5b5224fe8</identifier>
@@ -108,11 +112,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1906_0036_009_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Novembre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر رمضان المعظم سنة ١٣٢٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_52acfddd-01fa-3fb0-b145-86b83925dffe">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_52acfddd-01fa-3fb0-b145-86b83925dffe</identifier>
@@ -120,11 +126,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1906_0037_009_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Novembre 1906</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر رمضان المعظم سنة ١٣٢٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8ac4cffc-cb57-3de9-96a5-690fb63c6496">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8ac4cffc-cb57-3de9-96a5-690fb63c6496</identifier>
@@ -132,7 +140,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1906_0038_009_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

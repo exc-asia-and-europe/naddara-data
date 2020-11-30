@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-facab91e-bf34-4bad-9d2b-75f50f22a4fe">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-facab91e-bf34-4bad-9d2b-75f50f22a4fe">
     <titleInfo lang="fre">
         <title>Abou Naddara</title>
     </titleInfo>
@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1885</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;12</extent>
+        <extent unit="issues">12</extent>
         <note lang="eng" displayLabel="Content description">Abou Naddara (12 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,8 +21,8 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Abou Naddara (12 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Abou Naddara <br/>
-Journal Oriental illustré<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Abou Naddara 
+Journal Oriental illustré
 L'Éditeur au public</note>
     <relatedItem xlink:href="#uuid-60ce6e98-bbef-4d6a-86cf-3e92e7667246" displayLabel="Part of published series" type="series"/>
     <note type="edition" displayLabel="Text on cover in Arabic">الشيخ ابو نظارة المصري</note>

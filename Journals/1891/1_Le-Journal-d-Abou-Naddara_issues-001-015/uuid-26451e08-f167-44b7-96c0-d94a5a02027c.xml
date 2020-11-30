@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-26451e08-f167-44b7-96c0-d94a5a02027c">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-26451e08-f167-44b7-96c0-d94a5a02027c">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة 
 </title>
@@ -24,8 +24,6 @@ L'Egypte aux Egyptiens</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1891</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris, le 21 Février 1891</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٢١ فبرايو سنة ١٨٩١</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -43,11 +41,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 السنة الخامسة عشر
 مدير الجريدة و محررها الاول 
 الشيخ ج. سانوا ابو نظارة نمرة ٦ رو جوفروا ماري باريس </note>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 21 Février 1891</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢١ فبرايو سنة ١٨٩١</note>
     <relatedItem xlink:href="#uuid-5c9a5b50-4824-4f51-9921-3d7850232784" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>2</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٢</number>
+                <number lang="ara" script="arab">عدد ٢</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -85,6 +85,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-015</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 21 Février 1891</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢١ فبرايو سنة ١٨٩١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_938bf59c-9361-307b-a9ec-0d8c525311d3">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_938bf59c-9361-307b-a9ec-0d8c525311d3</identifier>
@@ -92,11 +94,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1891_0007_002_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 21 Février 1891</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢١ فبرايو سنة ١٨٩١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d8b97b34-72f6-3c37-a9eb-43397ec8ec7b">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d8b97b34-72f6-3c37-a9eb-43397ec8ec7b</identifier>
@@ -104,11 +108,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1891_0008_002_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 21 Février 1891</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢١ فبرايو سنة ١٨٩١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8bdcd19c-6822-35e5-ae40-761c40099e16">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8bdcd19c-6822-35e5-ae40-761c40099e16</identifier>
@@ -116,11 +122,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1891_0009_002_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris, le 21 Février 1891</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢١ فبرايو سنة ١٨٩١</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d4066d24-4513-30b3-a5c5-cba48ffd8794">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d4066d24-4513-30b3-a5c5-cba48ffd8794</identifier>
@@ -128,7 +136,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1891_0010_002_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

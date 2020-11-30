@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-448c40a4-9754-43a9-9dcf-2495ecaa86a8">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-448c40a4-9754-43a9-9dcf-2495ecaa86a8">
     <titleInfo lang="fre">
         <title>L'Abou Naddara</title>
     </titleInfo>
@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1907</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;8</extent>
+        <extent unit="issues">8</extent>
         <note lang="eng" displayLabel="Content description">L'Abou Naddara (8 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>

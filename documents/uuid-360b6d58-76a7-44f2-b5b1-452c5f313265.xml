@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-360b6d58-76a7-44f2-b5b1-452c5f313265">
+	<titleInfo>
+		<title>Toast aux Dames</title>
+		<subTitle/>
+	</titleInfo>
+	<name type="personal">
+		<namePart>Sanua, James</namePart>
+		<role>
+			<roleTerm lang="eng" authority="marcrelator" type="text">author</roleTerm>
+			<roleTerm lang="eng" authority="marcrelator" type="code">aut</roleTerm>
+		</role>
+	</name>
+	<originInfo>
+		<place>
+			<placeTerm lang="eng" type="text"/>
+		</place>
+		<publisher/>
+		<dateIssued encoding="w3cdtf">1894</dateIssued>
+	</originInfo>
+	<physicalDescription>
+		<extent unit="issues">1894_Toast-aux-Dames</extent>
+		<note lang="eng" displayLabel="Content description">1894_Toast-aux-Dames</note>
+		<digitalOrigin>reformatted digital</digitalOrigin>
+	</physicalDescription>
+	<targetAudience authority="marctarget">adult</targetAudience>
+	<typeOfResource>text</typeOfResource>
+	<genre authority="marcgt">loose-leaf</genre>
+	<subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
+	<note type="edition" displayLabel="Content description (by E. Ettmüller)">Manuscript of a toast by Sanua at Mme Emile Wogue's social
+		gathering</note>
+	<note type="edition" displayLabel="Source of original objects">Original (by
+		courtesy of Mrs Eva Milhaud)</note>
+	<relatedItem xlink:href="#uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d" displayLabel="Part of published series" type="series"/>
+	<relatedItem displayLabel="Part of published volume" type="constituent">
+		<titleInfo lang="eng" script="latn">
+			<title/>
+		</titleInfo>
+		<name type="personal">
+			<namePart/>
+			<role>
+				<roleTerm type="code" authority="marcrelator">pub</roleTerm>
+			</role>
+		</name>
+		<originInfo>
+			<issuance>continuing</issuance>
+		</originInfo>
+		<genre type="code" authority="marcgt">periodical</genre>
+		<part>
+			<detail type="issue">
+				<number/>
+			</detail>
+			<extent unit="pages">
+				<total>1</total>
+				<list/>
+			</extent>
+			<date encoding="w3cdtf">1894-02-24</date>
+		</part>
+	</relatedItem>
+	<location>
+		<url displayLabel="Path to Folder">1894_Toast-aux-Dames</url>
+	</location>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+	</language>
+	<language>
+		<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+		<scriptTerm authority="iso15924" type="code">arab</scriptTerm>
+	</language>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+	<relatedItem type="constituent" displayLabel="Page" xlink:href="#w_455fb612-9a86-3a6d-a75a-9030b0072109">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local">w_455fb612-9a86-3a6d-a75a-9030b0072109</identifier>
+		<titleInfo>
+			<title>1894_0000_toast_aux_dames.tif</title>
+		</titleInfo>
+		<part>
+			<detail type="page number">
+				<number>dames</number>
+			</detail>
+		</part>
+	</relatedItem>
+</mods>

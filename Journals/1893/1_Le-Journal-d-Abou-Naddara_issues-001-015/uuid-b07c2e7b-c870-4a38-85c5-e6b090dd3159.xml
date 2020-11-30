@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-b07c2e7b-c870-4a38-85c5-e6b090dd3159">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-b07c2e7b-c870-4a38-85c5-e6b090dd3159">
     <titleInfo lang="ara" script="arab">
         <title>جريدة ابي نظارة</title>
         <subTitle>مصر للمصرين</subTitle>
@@ -23,8 +23,6 @@ L'Egypte aux Egyptiens</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1893</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris 9 Juillet 1893</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٨ يوليو سنة ١٨٩٣</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -43,11 +41,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 السنة السابعة عشر
 مدير الجريدة و محررها الاول 
 الشيخ ج. سانوا ابو نظارة نمرة ٦ رو جوفروا ماري بباريس </note>
+    <note type="edition" displayLabel="Western date as printed">Paris 9 Juillet 1893</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٨ يوليو سنة ١٨٩٣</note>
     <relatedItem xlink:href="#uuid-5f15308f-8e48-489a-a952-329d1455da50" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>9</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٩</number>
+                <number lang="ara" script="arab">عدد ٩</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -85,6 +85,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-015</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris 9 Juillet 1893</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٨ يوليو سنة ١٨٩٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ee8ec96e-0d53-3100-b6ce-fb016f7cddfa">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ee8ec96e-0d53-3100-b6ce-fb016f7cddfa</identifier>
@@ -92,11 +94,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1893_0035_009_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris 9 Juillet 1893</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٨ يوليو سنة ١٨٩٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_dfa48a4a-5861-30ed-bfdf-7b6f93b6f51a">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_dfa48a4a-5861-30ed-bfdf-7b6f93b6f51a</identifier>
@@ -104,11 +108,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1893_0036_009_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris 9 Juillet 1893</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٨ يوليو سنة ١٨٩٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_926b5c80-1e94-354d-9a0a-ac24436d8905">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_926b5c80-1e94-354d-9a0a-ac24436d8905</identifier>
@@ -116,11 +122,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1893_0037_009_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris 9 Juillet 1893</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٨ يوليو سنة ١٨٩٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b0582d9b-8956-3a25-a3a3-233227eee40b">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b0582d9b-8956-3a25-a3a3-233227eee40b</identifier>
@@ -128,7 +136,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1893_0038_009_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

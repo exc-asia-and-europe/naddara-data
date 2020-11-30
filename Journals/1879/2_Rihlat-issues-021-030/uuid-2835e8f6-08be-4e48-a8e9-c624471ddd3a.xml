@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-2835e8f6-08be-4e48-a8e9-c624471ddd3a">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-2835e8f6-08be-4e48-a8e9-c624471ddd3a">
     <titleInfo lang="ara" script="arab">
         <title>رحْلَة ابي نَظّارَة زَرْقَا الوليّ مِن</title>
         <subTitle>مِن رحْلَة ابي نَظّارَة زَرْقَا المُشْتَمِلَة عَلىَ ثلاثينْ نُمرَة و قيِمَتُهَا خَمْسَة و عشرِين فرَنكْ تُرْسَل سَلَفاً اِلى مُنشِيهَا الخَواجَا چِمْس سانووا لِعنوانه المُحرّر كَمَا يأتي أدناه.</subTitle>
@@ -24,8 +24,6 @@ Prof. James Sanua 45 rue d’Enghien Paris</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1879</dateIssued>
-        <dateIssued displayLabel="Western date as printed"/>
-        <dateIssued displayLabel="Arabic date as printed"/>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -38,11 +36,13 @@ Prof. James Sanua 45 rue d’Enghien Paris</subTitle>
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information"/>
     <note type="edition" displayLabel="Additional Arabic date information"/>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem xlink:href="#uuid-dd471d2d-7d26-403d-ac44-cecd9ddcd22f" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>21</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">النمرة الحاديةوالعشرين</number>
+                <number lang="ara" script="arab">النمرة الحاديةوالعشرين</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -80,6 +80,8 @@ Prof. James Sanua 45 rue d’Enghien Paris</subTitle>
             <host_folder displayLabel="folder-name of host record">2_Rihlat-issues-021-030</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ad9a3561-967c-3bd1-8db8-f64cbe1b74ff">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ad9a3561-967c-3bd1-8db8-f64cbe1b74ff</identifier>
@@ -87,11 +89,13 @@ Prof. James Sanua 45 rue d’Enghien Paris</subTitle>
             <title>1879_0082_021_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_651364f7-b306-3338-a258-e3b27d24f3b8">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_651364f7-b306-3338-a258-e3b27d24f3b8</identifier>
@@ -99,11 +103,13 @@ Prof. James Sanua 45 rue d’Enghien Paris</subTitle>
             <title>1879_0083_021_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_277a7a8d-e51d-3760-9be6-6a51cf022ba4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_277a7a8d-e51d-3760-9be6-6a51cf022ba4</identifier>
@@ -111,11 +117,13 @@ Prof. James Sanua 45 rue d’Enghien Paris</subTitle>
             <title>1879_0084_021_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4027cbd0-7b48-3e1e-a07d-f9c9d8f3469f">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_4027cbd0-7b48-3e1e-a07d-f9c9d8f3469f</identifier>
@@ -123,7 +131,7 @@ Prof. James Sanua 45 rue d’Enghien Paris</subTitle>
             <title>1879_0085_021_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-adc9ef28-d46a-41b5-855d-f3b95037cb43">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-adc9ef28-d46a-41b5-855d-f3b95037cb43">
     <titleInfo lang="fre">
         <title>Le Journal d'Abou Naddara</title>
     </titleInfo>
@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1901</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;4</extent>
+        <extent unit="issues">4</extent>
         <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (4 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,14 +21,14 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (4 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Album 1901<br/>
-Les Journaux d'Abou Naddara <br/>
-Année 1901<br/>
-L'Abou Naddara 25ème Année<br/>
-L'Attawadod 10ème Année<br/>
-L'Almonsef 3ème Année<br/>
-Administration et Rédaction <br/>
-6, Rue Richer. Paris<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Album 1901
+Les Journaux d'Abou Naddara 
+Année 1901
+L'Abou Naddara 25ème Année
+L'Attawadod 10ème Année
+L'Almonsef 3ème Année
+Administration et Rédaction 
+6, Rue Richer. Paris
 1901</note>
     <note type="edition" displayLabel="Text on cover in Arabic"/>
     <relatedItem xlink:href="#uuid-ceb47d4c-13cc-47e2-85ec-20534d407514" displayLabel="Part of published series" type="series"/>

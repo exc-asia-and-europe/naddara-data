@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-d4a722cf-5575-44d9-8498-b5f6d1215bed">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-d4a722cf-5575-44d9-8498-b5f6d1215bed">
     <titleInfo lang="ara" script="arab">
         <title>التودد 
 
@@ -29,8 +29,6 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1888</dateIssued>
-        <dateIssued displayLabel="Western date as printed">25 Avril 1888</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">16</extent>
@@ -43,11 +41,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information"/>
     <note type="edition" displayLabel="Additional Arabic date information"/>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem xlink:href="#uuid-ba5637a1-1420-4553-9e22-9724abab5166" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>4</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٤</number>
+                <number lang="ara" script="arab">عدد ٤</number>
             </detail>
             <extent unit="pages">
                 <total>16</total>
@@ -85,6 +85,8 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <host_folder displayLabel="folder-name of host record">2_L-Attawadod_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9c7b0186-05f7-363c-bb88-20dd40782c74">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9c7b0186-05f7-363c-bb88-20dd40782c74</identifier>
@@ -92,11 +94,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0051_004_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3354943f-bd47-3e39-bcbc-9a8c64653288">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_3354943f-bd47-3e39-bcbc-9a8c64653288</identifier>
@@ -104,11 +108,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0052_004_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e96cf5f3-0872-35fe-be79-137c50cc1b08">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e96cf5f3-0872-35fe-be79-137c50cc1b08</identifier>
@@ -116,11 +122,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0053_004_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_298119b3-2e0d-32e5-b5b2-d34937621bd3">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_298119b3-2e0d-32e5-b5b2-d34937621bd3</identifier>
@@ -128,11 +136,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0054_004_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_174b74b7-aae8-34b7-9df5-5e7487a5420d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_174b74b7-aae8-34b7-9df5-5e7487a5420d</identifier>
@@ -140,11 +150,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0055_004_005.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="5">
+            <detail type="page number">
                 <number>5</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5b89babe-5ee9-34c3-843b-f24d531cda92">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5b89babe-5ee9-34c3-843b-f24d531cda92</identifier>
@@ -152,11 +164,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0056_004_006.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="6">
+            <detail type="page number">
                 <number>6</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6b8c33ea-31dd-32f2-95ed-50e2fe4e3c03">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_6b8c33ea-31dd-32f2-95ed-50e2fe4e3c03</identifier>
@@ -164,11 +178,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0057_004_007.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="7">
+            <detail type="page number">
                 <number>7</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8134b77c-714c-37b4-acfd-77180f2a842a">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8134b77c-714c-37b4-acfd-77180f2a842a</identifier>
@@ -176,11 +192,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0058_004_008.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="8">
+            <detail type="page number">
                 <number>8</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_06d37ca8-dd75-3842-9022-82f93fd2d699">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_06d37ca8-dd75-3842-9022-82f93fd2d699</identifier>
@@ -188,11 +206,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0059_004_009.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="9">
+            <detail type="page number">
                 <number>9</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_353247da-8f91-38bb-b7f3-a0a4298a7619">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_353247da-8f91-38bb-b7f3-a0a4298a7619</identifier>
@@ -200,11 +220,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0060_004_010.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="10">
+            <detail type="page number">
                 <number>10</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e99deb0c-cc2c-39ef-82c7-4bef04aa069c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e99deb0c-cc2c-39ef-82c7-4bef04aa069c</identifier>
@@ -212,11 +234,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0061_004_011.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="11">
+            <detail type="page number">
                 <number>11</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_fb106b61-0189-3120-a2c6-cc03e86aa7d4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_fb106b61-0189-3120-a2c6-cc03e86aa7d4</identifier>
@@ -224,11 +248,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0062_004_012.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="12">
+            <detail type="page number">
                 <number>12</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e1658b17-c54c-3f84-ae4c-488b90a1f47e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e1658b17-c54c-3f84-ae4c-488b90a1f47e</identifier>
@@ -236,11 +262,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0063_004_013.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="13">
+            <detail type="page number">
                 <number>13</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_23b57e29-d3b4-310a-97ef-4cbfdbe0ba15">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_23b57e29-d3b4-310a-97ef-4cbfdbe0ba15</identifier>
@@ -248,11 +276,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0064_004_014.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="14">
+            <detail type="page number">
                 <number>14</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8c269560-6d65-38a2-b663-f88e9be83c94">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8c269560-6d65-38a2-b663-f88e9be83c94</identifier>
@@ -260,11 +290,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0065_004_015.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="15">
+            <detail type="page number">
                 <number>15</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">25 Avril 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">١٥ شعبان ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8e899e01-f66c-3b02-a357-79383e5e4cd5">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8e899e01-f66c-3b02-a357-79383e5e4cd5</identifier>
@@ -272,7 +304,7 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0066_004_016.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="16">
+            <detail type="page number">
                 <number>16</number>
             </detail>
         </part>

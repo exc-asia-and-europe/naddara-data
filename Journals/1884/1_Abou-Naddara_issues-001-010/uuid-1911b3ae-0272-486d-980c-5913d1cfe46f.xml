@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-1911b3ae-0272-486d-980c-5913d1cfe46f">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-1911b3ae-0272-486d-980c-5913d1cfe46f">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة زرقاء
 </title>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1884</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 1 Novembre 84</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ١ نوﭭمبر ١٨٨٤</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -40,11 +38,13 @@ Journal Oriental
 Direction Abou Naddara</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الثامنة
 جريدة شرقية مديرها و محررها الشيخ ابو نظارة</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 1 Novembre 84</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١ نوﭭمبر ١٨٨٤</note>
     <relatedItem xlink:href="#uuid-38661a66-3700-48f5-bf0a-b42fdc5d6860" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>9</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٩</number>
+                <number lang="ara" script="arab">عدد ٩</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -82,6 +82,8 @@ Direction Abou Naddara</note>
             <host_folder displayLabel="folder-name of host record">1_Abou-Naddara_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 1 Novembre 84</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١ نوﭭمبر ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_01771f8c-3ab7-3b95-91ec-4f075ab01879">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_01771f8c-3ab7-3b95-91ec-4f075ab01879</identifier>
@@ -89,11 +91,13 @@ Direction Abou Naddara</note>
             <title>1884_0033_009_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 1 Novembre 84</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١ نوﭭمبر ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ffb5bef8-bf08-37bf-a000-04699a76826b">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ffb5bef8-bf08-37bf-a000-04699a76826b</identifier>
@@ -101,11 +105,13 @@ Direction Abou Naddara</note>
             <title>1884_0034_009_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 1 Novembre 84</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١ نوﭭمبر ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_10063dad-5729-3046-a74f-3b2d55a0459a">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_10063dad-5729-3046-a74f-3b2d55a0459a</identifier>
@@ -113,11 +119,13 @@ Direction Abou Naddara</note>
             <title>1884_0035_009_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 1 Novembre 84</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١ نوﭭمبر ١٨٨٤</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7da468c8-2af4-34b1-893c-a7fa84bdb78d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_7da468c8-2af4-34b1-893c-a7fa84bdb78d</identifier>
@@ -125,7 +133,7 @@ Direction Abou Naddara</note>
             <title>1884_0036_009_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

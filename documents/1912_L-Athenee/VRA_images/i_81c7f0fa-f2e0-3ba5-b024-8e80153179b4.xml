@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+<vra xmlns="https://www.loc.gov/standards/vracore/schemas.html" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/vracore/schemas.html http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <image id="i_81c7f0fa-f2e0-3ba5-b024-8e80153179b4" source="Tamboti-Importer" href="hra-imageserver://kjc-sv016/commons/Abou_Naddara/documents/1912_L-Athenee/1912_0001_011_096.tif">
         <titleSet>
             <title type="generalView">1912_0001_011_096.tif (image record)</title>

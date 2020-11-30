@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-95a0e66d-12df-47a7-867d-d3558c21e21f">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-95a0e66d-12df-47a7-867d-d3558c21e21f">
     <titleInfo lang="ara" script="arab">
         <title>النظَّاراتْ المصرية.
 </title>
@@ -24,8 +24,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1880</dateIssued>
-        <dateIssued displayLabel="Western date as printed"/>
-        <dateIssued displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">16</extent>
@@ -38,11 +36,13 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information"/>
     <note type="edition" displayLabel="Additional Arabic date information"/>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem xlink:href="#uuid-d2149b3f-e38e-41a0-b127-bf03cc15bc8b" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>09</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٩</number>
+                <number lang="ara" script="arab">عدد ٩</number>
             </detail>
             <extent unit="pages">
                 <total>16</total>
@@ -80,6 +80,8 @@
             <host_folder displayLabel="folder-name of host record">1_an-Naddarat-al-Misriya_issues-001-010</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_83710063-f886-3860-b941-8ce481af816b">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_83710063-f886-3860-b941-8ce481af816b</identifier>
@@ -87,11 +89,13 @@
             <title>1880_0130_009_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d8e24fca-0254-3d30-9d7f-6e3ddefb2708">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d8e24fca-0254-3d30-9d7f-6e3ddefb2708</identifier>
@@ -99,11 +103,13 @@
             <title>1880_0131_009_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_95ce74db-e72f-3404-88ba-5e819c55f132">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_95ce74db-e72f-3404-88ba-5e819c55f132</identifier>
@@ -111,11 +117,13 @@
             <title>1880_0132_009_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_81d07cab-37e0-3881-b35b-d31c65c6506d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_81d07cab-37e0-3881-b35b-d31c65c6506d</identifier>
@@ -123,11 +131,13 @@
             <title>1880_0133_009_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_911635a1-ae47-341c-b38f-1772526787fd">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_911635a1-ae47-341c-b38f-1772526787fd</identifier>
@@ -135,11 +145,13 @@
             <title>1880_0134_009_005.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="5">
+            <detail type="page number">
                 <number>5</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a0dcf93d-c50f-356c-baff-bd9746b1fd9d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_a0dcf93d-c50f-356c-baff-bd9746b1fd9d</identifier>
@@ -147,11 +159,13 @@
             <title>1880_0135_009_006.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="6">
+            <detail type="page number">
                 <number>6</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6a879693-81af-372f-b500-018ea641d9e3">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_6a879693-81af-372f-b500-018ea641d9e3</identifier>
@@ -159,11 +173,13 @@
             <title>1880_0136_009_007.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="7">
+            <detail type="page number">
                 <number>7</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_69ff9fa2-7c88-3800-a44b-2bbb3076baac">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_69ff9fa2-7c88-3800-a44b-2bbb3076baac</identifier>
@@ -171,11 +187,13 @@
             <title>1880_0137_009_008.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="8">
+            <detail type="page number">
                 <number>8</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d48e2815-01c9-33c3-bc0d-9dcb721915d4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d48e2815-01c9-33c3-bc0d-9dcb721915d4</identifier>
@@ -183,11 +201,13 @@
             <title>1880_0138_009_009.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="9">
+            <detail type="page number">
                 <number>9</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b3c94227-8155-3a01-bccd-2d4a701f898c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b3c94227-8155-3a01-bccd-2d4a701f898c</identifier>
@@ -195,11 +215,13 @@
             <title>1880_0139_009_010.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="10">
+            <detail type="page number">
                 <number>10</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_85f1e0e2-39c9-3f49-b166-64a41bb4e034">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_85f1e0e2-39c9-3f49-b166-64a41bb4e034</identifier>
@@ -207,11 +229,13 @@
             <title>1880_0140_009_011.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="11">
+            <detail type="page number">
                 <number>11</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_22885da4-32b4-3abb-82d5-a8830ccc7fc9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_22885da4-32b4-3abb-82d5-a8830ccc7fc9</identifier>
@@ -219,11 +243,13 @@
             <title>1880_0141_009_012.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="12">
+            <detail type="page number">
                 <number>12</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ca294f39-1ec5-3ef2-9109-41b46f91594e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ca294f39-1ec5-3ef2-9109-41b46f91594e</identifier>
@@ -231,11 +257,13 @@
             <title>1880_0142_009_013.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="13">
+            <detail type="page number">
                 <number>13</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_23151249-4d83-3a82-bd6e-198502255f8d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_23151249-4d83-3a82-bd6e-198502255f8d</identifier>
@@ -243,11 +271,13 @@
             <title>1880_0143_009_014.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="14">
+            <detail type="page number">
                 <number>14</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_3e93956c-5346-30d8-a251-7d53b3d394af">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_3e93956c-5346-30d8-a251-7d53b3d394af</identifier>
@@ -255,11 +285,13 @@
             <title>1880_0144_009_015.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="15">
+            <detail type="page number">
                 <number>15</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed"/>
+    <note type="edition" displayLabel="Arabic date as printed">يوم الخميس.في ١٥ افريل (نيسان) سنة ١٨٨٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2be9bbec-9fa7-3983-9ea3-32d2a7d8c06f">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2be9bbec-9fa7-3983-9ea3-32d2a7d8c06f</identifier>
@@ -267,7 +299,7 @@
             <title>1880_0145_009_016.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="16">
+            <detail type="page number">
                 <number>16</number>
             </detail>
         </part>

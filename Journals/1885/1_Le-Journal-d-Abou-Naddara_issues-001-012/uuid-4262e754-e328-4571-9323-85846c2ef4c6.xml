@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-4262e754-e328-4571-9323-85846c2ef4c6">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-4262e754-e328-4571-9323-85846c2ef4c6">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة 
 </title>
@@ -27,8 +27,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1885</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 10 janvier 1885</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ١٠ جنايو سنة ١٨٨٥</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -45,11 +43,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة التاسعة 
 جريدة شرقية 
 مدير و محرر اول جمس سانووا ابو نظارة زرقآء</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 10 janvier 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٠ جنايو سنة ١٨٨٥</note>
     <relatedItem xlink:href="#uuid-facab91e-bf34-4bad-9d2b-75f50f22a4fe" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>1</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١</number>
+                <number lang="ara" script="arab">عدد ١</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -87,6 +87,8 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 10 janvier 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٠ جنايو سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_76ad3e13-592c-355f-b214-ae2e336a0dbe">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_76ad3e13-592c-355f-b214-ae2e336a0dbe</identifier>
@@ -94,11 +96,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0003_001_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 10 janvier 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٠ جنايو سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a3a5728e-c4bc-3eb2-84f4-e450893782de">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_a3a5728e-c4bc-3eb2-84f4-e450893782de</identifier>
@@ -106,11 +110,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0004_001_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 10 janvier 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٠ جنايو سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e0452270-84a6-346e-8bf9-0313cd92b2fb">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e0452270-84a6-346e-8bf9-0313cd92b2fb</identifier>
@@ -118,11 +124,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0005_001_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 10 janvier 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ١٠ جنايو سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8b26e4ec-ad9d-3fa0-b1e0-6639f8621ba9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8b26e4ec-ad9d-3fa0-b1e0-6639f8621ba9</identifier>
@@ -130,7 +138,7 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0006_001_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

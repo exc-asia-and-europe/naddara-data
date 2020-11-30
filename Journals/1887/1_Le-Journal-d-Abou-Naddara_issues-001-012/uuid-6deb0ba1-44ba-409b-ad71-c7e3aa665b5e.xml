@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-6deb0ba1-44ba-409b-ad71-c7e3aa665b5e">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-6deb0ba1-44ba-409b-ad71-c7e3aa665b5e">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة 
 </title>
@@ -26,8 +26,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1887</dateIssued>
-        <dateIssued displayLabel="Western date as printed">22 Janvier</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">يوم سبت في ٢٢ يناير سنة ١٨٨٧</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -44,11 +42,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
     <note type="edition" displayLabel="Additional Arabic date information">السنة الحادية عشر
 جريدة حرة
 مديرها و محررها الشيخ جمس سنووا ابو نظارة </note>
+    <note type="edition" displayLabel="Western date as printed">22 Janvier</note>
+    <note type="edition" displayLabel="Arabic date as printed">يوم سبت في ٢٢ يناير سنة ١٨٨٧</note>
     <relatedItem xlink:href="#uuid-be848fbf-c28d-4600-9cb4-d55a2771ec32" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>1</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١</number>
+                <number lang="ara" script="arab">عدد ١</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -86,6 +86,8 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">22 Janvier</note>
+    <note type="edition" displayLabel="Arabic date as printed">يوم سبت في ٢٢ يناير سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cee95f51-1f53-3200-8a1e-73bd61c19e1f">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_cee95f51-1f53-3200-8a1e-73bd61c19e1f</identifier>
@@ -93,11 +95,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0001_001_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">22 Janvier</note>
+    <note type="edition" displayLabel="Arabic date as printed">يوم سبت في ٢٢ يناير سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_00ba1212-54d9-3d02-92dd-284ed2d52801">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_00ba1212-54d9-3d02-92dd-284ed2d52801</identifier>
@@ -105,11 +109,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0002_001_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">22 Janvier</note>
+    <note type="edition" displayLabel="Arabic date as printed">يوم سبت في ٢٢ يناير سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_cfe04ea1-55b5-35e7-9173-686f88772810">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_cfe04ea1-55b5-35e7-9173-686f88772810</identifier>
@@ -117,11 +123,13 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0003_001_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">22 Janvier</note>
+    <note type="edition" displayLabel="Arabic date as printed">يوم سبت في ٢٢ يناير سنة ١٨٨٧</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_fcbe8ae6-d404-3d03-914e-306156a82b35">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_fcbe8ae6-d404-3d03-914e-306156a82b35</identifier>
@@ -129,7 +137,7 @@ Directeur et Rédacteur en chef J. Sanua Abou Naddara
             <title>1887_0004_001_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

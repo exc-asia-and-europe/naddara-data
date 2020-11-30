@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-7f0c5cc7-4eaf-4c47-b69e-ba27c4d62c84">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-7f0c5cc7-4eaf-4c47-b69e-ba27c4d62c84">
     <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3" lang="fre">
         <mods:title>Abu Zammara</mods:title>
     </mods:titleInfo>
@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1880</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;3</extent>
+        <extent unit="issues">3</extent>
         <note lang="eng" displayLabel="Content description">Abū Zammāra (3 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>

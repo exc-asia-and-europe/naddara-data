@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-5c9a5b50-4824-4f51-9921-3d7850232784">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-5c9a5b50-4824-4f51-9921-3d7850232784">
     <titleInfo lang="fre">
         <title>Abou Naddara</title>
     </titleInfo>
@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1891</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;15</extent>
+        <extent unit="issues">15</extent>
         <note lang="eng" displayLabel="Content description">Abou Naddara (15 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,9 +21,9 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Abou Naddara (15 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara<br/>
-15ème Année - 1891<br/>
-Directeur et rédacteur en Chef J. Sanua Abou Naddara<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara
+15ème Année - 1891
+Directeur et rédacteur en Chef J. Sanua Abou Naddara
 6, Rue Geoffroy -Marie, Paris </note>
     <note type="edition" displayLabel="Text on cover in Arabic">جريدة ابي نظارة مدير الجريدة و محررها الاول 
 الشيخ ج. سانوا ابو نظارة نمرة ٦ رو جوفروا ماري باريس </note>

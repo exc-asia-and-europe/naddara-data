@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-a671c692-eb95-4f70-a5ad-b8d3439fb44d">
+	<titleInfo lang="eng">
+		<title>Documents</title>
+	</titleInfo>
+	<location>
+		<url displayLabel="Path to Folder">documents</url>
+	</location>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2016-07-05+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+</mods>

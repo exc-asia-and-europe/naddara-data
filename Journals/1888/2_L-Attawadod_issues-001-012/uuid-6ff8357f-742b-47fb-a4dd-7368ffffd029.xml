@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-6ff8357f-742b-47fb-a4dd-7368ffffd029">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-6ff8357f-742b-47fb-a4dd-7368ffffd029">
     <titleInfo lang="ara" script="arab">
         <title>التودد 
 
@@ -31,8 +31,6 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1888</dateIssued>
-        <dateIssued displayLabel="Western date as printed">15 Janvier 1888</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">جماد اول ١٢٠٥</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">15</extent>
@@ -45,11 +43,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Additional western date information"/>
     <note type="edition" displayLabel="Additional Arabic date information"/>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem xlink:href="#uuid-ba5637a1-1420-4553-9e22-9724abab5166" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>1</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١</number>
+                <number lang="ara" script="arab">عدد ١</number>
             </detail>
             <extent unit="pages">
                 <total>15</total>
@@ -87,6 +87,8 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <host_folder displayLabel="folder-name of host record">2_L-Attawadod_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_de69addc-b39d-38cc-9e68-6cd2dcd3ffb5">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_de69addc-b39d-38cc-9e68-6cd2dcd3ffb5</identifier>
@@ -94,11 +96,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0003_001_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_813b3f94-5a52-38e0-a24d-e33295d7bb6d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_813b3f94-5a52-38e0-a24d-e33295d7bb6d</identifier>
@@ -106,11 +110,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0004_001_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_ee5ee8eb-ee4f-397f-96af-ba3baf3a30f2">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_ee5ee8eb-ee4f-397f-96af-ba3baf3a30f2</identifier>
@@ -118,11 +124,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0005_001_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_245ce2c2-6fd4-3a6b-8a06-80874150e633">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_245ce2c2-6fd4-3a6b-8a06-80874150e633</identifier>
@@ -130,11 +138,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0006_001_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_67f9e744-2032-3713-93a9-26d5e4f61af6">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_67f9e744-2032-3713-93a9-26d5e4f61af6</identifier>
@@ -142,11 +152,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0007_001_005.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="5">
+            <detail type="page number">
                 <number>5</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_32be7a42-b6fd-398f-8a0d-1498d4256a75">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_32be7a42-b6fd-398f-8a0d-1498d4256a75</identifier>
@@ -154,11 +166,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0008_001_006.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="6">
+            <detail type="page number">
                 <number>6</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_840d4ae9-58b1-3cf2-9cd4-00d16e8262c6">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_840d4ae9-58b1-3cf2-9cd4-00d16e8262c6</identifier>
@@ -166,11 +180,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0009_001_007.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="7">
+            <detail type="page number">
                 <number>7</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_09bf3a4d-e964-3b8d-af4a-9888cd6e11b4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_09bf3a4d-e964-3b8d-af4a-9888cd6e11b4</identifier>
@@ -178,11 +194,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0010_001_008.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="8">
+            <detail type="page number">
                 <number>8</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_be336817-3366-3f14-8faa-a44bb433999c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_be336817-3366-3f14-8faa-a44bb433999c</identifier>
@@ -190,11 +208,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0011_001_009.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="9">
+            <detail type="page number">
                 <number>9</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_14af1855-123c-39b1-b5bf-f05ad4308576">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_14af1855-123c-39b1-b5bf-f05ad4308576</identifier>
@@ -202,11 +222,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0012_001_010.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="10">
+            <detail type="page number">
                 <number>10</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9fb9e89f-081e-3204-8a66-f4b8002b8474">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9fb9e89f-081e-3204-8a66-f4b8002b8474</identifier>
@@ -214,11 +236,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0013_001_011.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="11">
+            <detail type="page number">
                 <number>11</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7ef34674-138a-3890-a2b4-2321ba9d57f4">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_7ef34674-138a-3890-a2b4-2321ba9d57f4</identifier>
@@ -226,11 +250,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0014_001_012.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="12">
+            <detail type="page number">
                 <number>12</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_419527c4-c5e7-3766-936c-ef45bd1d623e">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_419527c4-c5e7-3766-936c-ef45bd1d623e</identifier>
@@ -238,11 +264,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0015_001_013.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="13">
+            <detail type="page number">
                 <number>13</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_15acc101-6463-3d15-96e2-fde3e5a3010c">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_15acc101-6463-3d15-96e2-fde3e5a3010c</identifier>
@@ -250,11 +278,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0016_001_014.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="14">
+            <detail type="page number">
                 <number>14</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_4b81e0de-c16c-35e6-9ea4-09c62905a3f0">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_4b81e0de-c16c-35e6-9ea4-09c62905a3f0</identifier>
@@ -262,11 +292,13 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0017_001_015.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="15">
+            <detail type="page number">
                 <number>15</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Janvier 1888</note>
+    <note type="edition" displayLabel="Arabic date as printed">جماد اول ١٢٠٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a093752c-5c6e-3243-a87c-dc40c9028298">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_a093752c-5c6e-3243-a87c-dc40c9028298</identifier>
@@ -274,7 +306,7 @@ Rédacteur en Chef: Le Cheikh ABOU NADDARA</subTitle>
             <title>1888_0018_001_016.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="16">
+            <detail type="page number">
                 <number>16</number>
             </detail>
         </part>

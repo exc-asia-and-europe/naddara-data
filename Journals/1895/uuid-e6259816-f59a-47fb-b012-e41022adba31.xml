@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-e6259816-f59a-47fb-b012-e41022adba31">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-e6259816-f59a-47fb-b012-e41022adba31">
     <titleInfo lang="fre">
         <title>Le Journal d'Abou Naddara</title>
     </titleInfo>
@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1895</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;10</extent>
+        <extent unit="issues">10</extent>
         <note lang="eng" displayLabel="Content description">Le Journal d'Abou Naddara (10 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>
@@ -21,13 +21,13 @@
     <subject xlink:href="#uuid-dda4b333-f72e-48f3-999d-66c7454c9097"/>
     <note type="edition" displayLabel="Content description (by E. Ettmüller)">Le Journal d'Abou Naddara (10 issues)</note>
     <note type="edition" displayLabel="Source of original volumes">Original (by courtesy of Mrs Eva Milhaud)</note>
-    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara<br/>
-L'Egypte aux Egyptiens <br/>
-L'Oeuvre d'Abou Naddara en 1895<br/>
-19ème Année.<br/>
-Série 1895 <br/>
-Fondateur<br/>
-Directeur et rédacteur en Chef J. Sanua Abou Naddara<br/>
+    <note type="edition" displayLabel="Text on cover in Western language">Le Journal d'Abou Naddara
+L'Egypte aux Egyptiens 
+L'Oeuvre d'Abou Naddara en 1895
+19ème Année.
+Série 1895 
+Fondateur
+Directeur et rédacteur en Chef J. Sanua Abou Naddara
 6, Rue Geoffroy -Marie, Paris</note>
     <note type="edition" displayLabel="Text on cover in Arabic">جريدة ابي نظارة
 مصر للمصرين السنة التاسعة عشر

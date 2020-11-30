@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-967daa21-508f-4f57-8974-56a6e70f3fdf">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-967daa21-508f-4f57-8974-56a6e70f3fdf">
     <titleInfo lang="fre">
         <title>L'Attawadod d'Abou Naddara</title>
     </titleInfo>
@@ -11,7 +11,7 @@
         <dateIssued encoding="w3cdtf">1903</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent unit="issues" displayLabel="Number of issues within this series">&gt;3</extent>
+        <extent unit="issues">3</extent>
         <note lang="eng" displayLabel="Content description">L'Attawadod d'Abou Naddara (3 issues)</note>
         <digitalOrigin>reformatted digital</digitalOrigin>
     </physicalDescription>

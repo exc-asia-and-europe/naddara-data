@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-8815186b-ffad-4c71-b4d3-87b5b41ed609">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-8815186b-ffad-4c71-b4d3-87b5b41ed609">
     <titleInfo lang="ara" script="arab">
         <title>العالم الاسلامي</title>
         <subTitle/>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1908</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Août 1908</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed"/>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -42,11 +40,13 @@ Direction et Administration
 43, Rue  Richer, Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">مدير الجريدة و محررها الاول الشيخ سانوا ابونظارة 
 شاعر الملك</note>
+    <note type="edition" displayLabel="Western date as printed">Août 1908</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem xlink:href="#uuid-bb70ffec-7ac0-429c-bd3f-9299e77144e1" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>4</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number"/>
+                <number lang="ara" script="arab"/>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -84,6 +84,8 @@ Direction et Administration
             <host_folder displayLabel="folder-name of host record">2_L-univers-musulman_issues-001-004</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Août 1908</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_e5807b89-6c4c-340e-98df-076d124bf540">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_e5807b89-6c4c-340e-98df-076d124bf540</identifier>
@@ -91,11 +93,13 @@ Direction et Administration
             <title>1908_0029_004_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Août 1908</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_46318968-594f-3e3a-85a4-f7a16f7b6d48">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_46318968-594f-3e3a-85a4-f7a16f7b6d48</identifier>
@@ -103,11 +107,13 @@ Direction et Administration
             <title>1908_0030_004_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Août 1908</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_d5ece82c-1873-3600-891f-0526b811136d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_d5ece82c-1873-3600-891f-0526b811136d</identifier>
@@ -115,11 +121,13 @@ Direction et Administration
             <title>1908_0031_004_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Août 1908</note>
+    <note type="edition" displayLabel="Arabic date as printed"/>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_6e0c0c83-c2e8-3971-a9af-e48e61c7d7ab">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_6e0c0c83-c2e8-3971-a9af-e48e61c7d7ab</identifier>
@@ -127,7 +135,7 @@ Direction et Administration
             <title>1908_0032_004_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

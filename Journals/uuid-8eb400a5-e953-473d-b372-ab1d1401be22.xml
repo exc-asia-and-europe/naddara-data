@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-8eb400a5-e953-473d-b372-ab1d1401be22">
-    <titleInfo lang="eng">
-        <title>1900</title>
-    </titleInfo>
-    <location>
-        <url displayLabel="Path to Folder">1900</url>
-    </location>
-    <relatedItem xlink:href="#uuid-34a1979d-ce93-4620-a6b9-7dae7b4ea12c" displayLabel="Part of published series" type="series"/>
-    <recordInfo lang="eng" script="latn">
-        <recordContentSource authority="marcorg">DE-16-158</recordContentSource>
-        <recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
-        <languageOfCataloging>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-            <scriptTerm authority="iso15924" type="code">latn</scriptTerm>
-        </languageOfCataloging>
-    </recordInfo>
-    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_091a5f7b-7993-33d1-88fe-c75a62a365eb">
-        <typeOfResource>still image</typeOfResource>
-        <identifier type="local"/>
-        <titleInfo>
-            <title/>
-        </titleInfo>
-        <part>
-            <text type="cover"/>
-            <detail type="page number">
-                <number>48</number>
-            </detail>
-        </part>
-    </relatedItem>
-    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_c849780e-03a0-3f03-b11b-ee0bc499cf21">
-        <typeOfResource>still image</typeOfResource>
-        <identifier type="local"/>
-        <titleInfo>
-            <title/>
-        </titleInfo>
-        <part>
-            <text type="cover"/>
-            <detail type="page number">
-                <number>1</number>
-            </detail>
-        </part>
-    </relatedItem>
-    <relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_c9a4e16e-391a-32a3-b555-bebb8d72b23f">
-        <typeOfResource>still image</typeOfResource>
-        <identifier type="local"/>
-        <titleInfo>
-            <title/>
-        </titleInfo>
-        <part>
-            <text type="cover"/>
-            <detail type="page number">
-                <number>47</number>
-            </detail>
-        </part>
-    </relatedItem>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-8eb400a5-e953-473d-b372-ab1d1401be22">
+	<titleInfo lang="eng">
+		<title>1900</title>
+	</titleInfo>
+	<location>
+		<url displayLabel="Path to Folder">1900</url>
+	</location>
+	<relatedItem xlink:href="#uuid-34a1979d-ce93-4620-a6b9-7dae7b4ea12c" displayLabel="Part of published series" type="series"/>
+	<recordInfo lang="eng" script="latn">
+		<recordContentSource authority="marcorg">DE-16-158</recordContentSource>
+		<recordCreationDate encoding="w3cdtf">2011-08-27+02:00</recordCreationDate>
+		<languageOfCataloging>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			<scriptTerm authority="iso15924" type="code">latn</scriptTerm>
+		</languageOfCataloging>
+	</recordInfo>
+	<relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_091a5f7b-7993-33d1-88fe-c75a62a365eb">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local"/>
+		<titleInfo>
+			<title/>
+		</titleInfo>
+		<part>
+			<text type="cover"/>
+			<detail type="page number">
+				<number>48</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_c849780e-03a0-3f03-b11b-ee0bc499cf21">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local"/>
+		<titleInfo>
+			<title/>
+		</titleInfo>
+		<part>
+			<text type="cover"/>
+			<detail type="page number">
+				<number>1</number>
+			</detail>
+		</part>
+	</relatedItem>
+	<relatedItem type="constituent" displayLabel="Cover Page" xlink:href="#w_c9a4e16e-391a-32a3-b555-bebb8d72b23f">
+		<typeOfResource>still image</typeOfResource>
+		<identifier type="local"/>
+		<titleInfo>
+			<title/>
+		</titleInfo>
+		<part>
+			<text type="cover"/>
+			<detail type="page number">
+				<number>47</number>
+			</detail>
+		</part>
+	</relatedItem>
 </mods>

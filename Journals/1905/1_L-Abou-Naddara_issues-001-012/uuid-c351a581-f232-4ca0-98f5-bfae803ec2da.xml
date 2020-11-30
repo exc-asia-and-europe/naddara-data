@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-c351a581-f232-4ca0-98f5-bfae803ec2da">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-c351a581-f232-4ca0-98f5-bfae803ec2da">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة</title>
         <subTitle>سمادى الشعوب
@@ -29,8 +29,6 @@ Illustrated Satirical Journal</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1905</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Octobre 1905</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٣</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -47,11 +45,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
     <note type="edition" displayLabel="Additional Arabic date information">السنة التاسعة و العشرون
 جريدة تصويرية فكاهية
 مديرها و محررها الاول الشيخ ج.سانواابونظارة بباريس في شاريع ريشه نمرة ٤٣</note>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1905</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٣</note>
     <relatedItem xlink:href="#uuid-eeda0a30-175c-418c-84ef-b219560c7648" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>10</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١٠</number>
+                <number lang="ara" script="arab">عدد ١٠</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -89,6 +89,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_L-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1905</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8e5f4d1e-7a64-37a9-b616-26040ee745c9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8e5f4d1e-7a64-37a9-b616-26040ee745c9</identifier>
@@ -96,11 +98,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1905_0035_010_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1905</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_843743ff-c5a8-3c00-820d-39016e1e2eb8">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_843743ff-c5a8-3c00-820d-39016e1e2eb8</identifier>
@@ -108,11 +112,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1905_0036_010_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1905</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2d949cd0-05d9-36f7-8fd6-80f7627242a9">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2d949cd0-05d9-36f7-8fd6-80f7627242a9</identifier>
@@ -120,11 +126,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1905_0037_010_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Octobre 1905</note>
+    <note type="edition" displayLabel="Arabic date as printed">بباريس في شهر شعبان المكرم سنة ١٣٢٣</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_43301782-b462-304c-8202-ae5b754e9a03">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_43301782-b462-304c-8202-ae5b754e9a03</identifier>
@@ -132,7 +140,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1905_0038_010_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

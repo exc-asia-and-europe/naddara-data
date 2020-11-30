@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-e904ee68-83e5-4d4a-bd32-f84b0f669c1b">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-e904ee68-83e5-4d4a-bd32-f84b0f669c1b">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة 
 </title>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1885</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 7 mars 1885</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس ٧ مارس سنة ١٨٨٥</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة التاسعة 
 جريدة شرقية 
 مدير و محرر اول جمس سانووا ابو نظارة زرقآء</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 7 mars 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس ٧ مارس سنة ١٨٨٥</note>
     <relatedItem xlink:href="#uuid-facab91e-bf34-4bad-9d2b-75f50f22a4fe" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>3</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ۳  </number>
+                <number lang="ara" script="arab">عدد ۳  </number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 7 mars 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس ٧ مارس سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_5b9ba915-1103-3ebe-accc-12977c606dda">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_5b9ba915-1103-3ebe-accc-12977c606dda</identifier>
@@ -90,11 +92,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0011_003_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 7 mars 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس ٧ مارس سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b70ad125-eaf9-3f7c-8ee7-08d428a77a80">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b70ad125-eaf9-3f7c-8ee7-08d428a77a80</identifier>
@@ -102,11 +106,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0012_003_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 7 mars 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس ٧ مارس سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b4e60363-14e2-3db5-99e1-4f0aeb644e54">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b4e60363-14e2-3db5-99e1-4f0aeb644e54</identifier>
@@ -114,11 +120,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0013_003_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 7 mars 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس ٧ مارس سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_89fbadf3-9dc7-3e67-82c1-8ab1f64d4872">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_89fbadf3-9dc7-3e67-82c1-8ab1f64d4872</identifier>
@@ -126,7 +134,7 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0014_003_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-648d93ba-e57f-4143-a30a-5bc46a5f7a3d">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-648d93ba-e57f-4143-a30a-5bc46a5f7a3d">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة</title>
         <subTitle>مصر للمصرين</subTitle>
@@ -23,8 +23,6 @@ Saisie de l'Abou Naddara</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1890</dateIssued>
-        <dateIssued displayLabel="Western date as printed">27 Décembre 1890</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٢٧ دسمبر سنة ١٨٩٠</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
     <note type="edition" displayLabel="Additional Arabic date information">السنة الرابعة عشر
 مديرالجريدة و المحررها جمس سنووا ابو نظارة 
 پاريز رو جفروا ماري نمرة ٦</note>
+    <note type="edition" displayLabel="Western date as printed">27 Décembre 1890</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٧ دسمبر سنة ١٨٩٠</note>
     <relatedItem xlink:href="#uuid-265d5867-32f4-484e-ae84-d1b0ec945c28" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>12</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١٢</number>
+                <number lang="ara" script="arab">عدد ١٢</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">27 Décembre 1890</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٧ دسمبر سنة ١٨٩٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_b72d33bb-895c-35db-a9f0-b6f61726fb93">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_b72d33bb-895c-35db-a9f0-b6f61726fb93</identifier>
@@ -90,11 +92,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1890_0035_012_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">27 Décembre 1890</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٧ دسمبر سنة ١٨٩٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_bde80975-6d51-3588-a513-1e56fe579580">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_bde80975-6d51-3588-a513-1e56fe579580</identifier>
@@ -102,11 +106,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1890_0036_012_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">27 Décembre 1890</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٧ دسمبر سنة ١٨٩٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_1b5a991b-0a09-30e7-80d3-ee063cfb1916">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_1b5a991b-0a09-30e7-80d3-ee063cfb1916</identifier>
@@ -114,11 +120,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1890_0037_012_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">27 Décembre 1890</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٢٧ دسمبر سنة ١٨٩٠</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_2cb77019-08b7-3008-af5f-27b5729cd31d">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_2cb77019-08b7-3008-af5f-27b5729cd31d</identifier>
@@ -126,7 +134,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1890_0038_012_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

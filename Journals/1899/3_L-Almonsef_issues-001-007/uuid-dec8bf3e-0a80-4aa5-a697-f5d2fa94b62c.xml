@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-dec8bf3e-0a80-4aa5-a697-f5d2fa94b62c">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-dec8bf3e-0a80-4aa5-a697-f5d2fa94b62c">
     <titleInfo lang="ara" script="arab">
         <title>المنصِف
 </title>
@@ -28,8 +28,6 @@ Journal politique, littéraire et commercial</subTitle>
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1899</dateIssued>
-        <dateIssued displayLabel="Western date as printed">15 Septembre 1899</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس في ٥ جمادى الاولى سنة ١٣١٧ </dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -46,11 +44,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
 6, Rue Geoffroy -Marie, Paris</note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة الاولى
 جريدة سياسية ادبية تجارية مديرها و محررها الشيخ ج.سانواابونظارة المصري بباريس بشارع "جوفرواماري نمرة ٦"</note>
+    <note type="edition" displayLabel="Western date as printed">15 Septembre 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ جمادى الاولى سنة ١٣١٧ </note>
     <relatedItem xlink:href="#uuid-65a7570b-f549-46ea-b1ce-6e9af6e07307" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>6</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ٦</number>
+                <number lang="ara" script="arab">عدد ٦</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -88,6 +88,8 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <host_folder displayLabel="folder-name of host record">3_L-Almonsef_issues-001-007</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">15 Septembre 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ جمادى الاولى سنة ١٣١٧ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_8ba6d19e-62cd-34bb-80f0-3bf7b5332a66">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_8ba6d19e-62cd-34bb-80f0-3bf7b5332a66</identifier>
@@ -95,11 +97,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0075_006_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Septembre 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ جمادى الاولى سنة ١٣١٧ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_9329a112-a1b7-33dc-a80d-9dc56fe94cfe">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_9329a112-a1b7-33dc-a80d-9dc56fe94cfe</identifier>
@@ -107,11 +111,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0076_006_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Septembre 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ جمادى الاولى سنة ١٣١٧ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_7d0b7169-ccfc-37f0-8b9d-aa5cf591f1a0">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_7d0b7169-ccfc-37f0-8b9d-aa5cf591f1a0</identifier>
@@ -119,11 +125,13 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0077_006_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">15 Septembre 1899</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس في ٥ جمادى الاولى سنة ١٣١٧ </note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_a205fdda-8219-343a-82d6-b213886775f7">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_a205fdda-8219-343a-82d6-b213886775f7</identifier>
@@ -131,7 +139,7 @@ Directeur et rédacteur en Chef J. Sanua Abou Naddara
             <title>1899_0078_006_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>

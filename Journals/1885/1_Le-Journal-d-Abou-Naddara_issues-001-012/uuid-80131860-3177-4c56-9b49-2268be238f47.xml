@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/standards/mods/mods.xsd" ID="uuid-80131860-3177-4c56-9b49-2268be238f47">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" ID="uuid-80131860-3177-4c56-9b49-2268be238f47">
     <titleInfo lang="ara" script="arab">
         <title>ابو نظارة 
 </title>
@@ -23,8 +23,6 @@
             <placeTerm type="text">Paris</placeTerm>
         </place>
         <dateIssued encoding="w3cdtf" keyDate="yes">1885</dateIssued>
-        <dateIssued displayLabel="Western date as printed">Paris le 26 décembre 1885</dateIssued>
-        <dateIssued displayLabel="Arabic date as printed">باريس ٢٦ دسمبر سنة ١٨٨٥</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent unit="pages">4</extent>
@@ -41,11 +39,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
     <note type="edition" displayLabel="Additional Arabic date information">السنة التاسعة 
 جريدة شرقية 
 مدير و محرر اول جمس سانووا ابو نظارة زرقآء</note>
+    <note type="edition" displayLabel="Western date as printed">Paris le 26 décembre 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس ٢٦ دسمبر سنة ١٨٨٥</note>
     <relatedItem xlink:href="#uuid-facab91e-bf34-4bad-9d2b-75f50f22a4fe" displayLabel="Part of published series" type="series">
         <part>
             <detail type="issue">
                 <number>12</number>
-                <number lang="ara" script="arab" displayLabel="Arabic issue number">عدد ١٢</number>
+                <number lang="ara" script="arab">عدد ١٢</number>
             </detail>
             <extent unit="pages">
                 <total>4</total>
@@ -83,6 +83,8 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <host_folder displayLabel="folder-name of host record">1_Le-Journal-d-Abou-Naddara_issues-001-012</host_folder>
         </e:naddara>
     </extension>
+    <note type="edition" displayLabel="Western date as printed">Paris le 26 décembre 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس ٢٦ دسمبر سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_382b4773-5952-37a9-96c8-be9c9e0d2639">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_382b4773-5952-37a9-96c8-be9c9e0d2639</identifier>
@@ -90,11 +92,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0047_012_001.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="1">
+            <detail type="page number">
                 <number>1</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 26 décembre 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس ٢٦ دسمبر سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_78dd66f2-2a16-339e-ba25-afe6ab4c7492">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_78dd66f2-2a16-339e-ba25-afe6ab4c7492</identifier>
@@ -102,11 +106,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0048_012_002.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="2">
+            <detail type="page number">
                 <number>2</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 26 décembre 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس ٢٦ دسمبر سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_10005da4-e89c-3951-86c2-2c578ad98338">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_10005da4-e89c-3951-86c2-2c578ad98338</identifier>
@@ -114,11 +120,13 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0049_012_003.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="3">
+            <detail type="page number">
                 <number>3</number>
             </detail>
         </part>
     </relatedItem>
+    <note type="edition" displayLabel="Western date as printed">Paris le 26 décembre 1885</note>
+    <note type="edition" displayLabel="Arabic date as printed">باريس ٢٦ دسمبر سنة ١٨٨٥</note>
     <relatedItem type="constituent" displayLabel="Page" xlink:href="#w_03ee6b07-8941-35dc-bfc4-efcf1e3f8a27">
         <typeOfResource>still image</typeOfResource>
         <identifier type="local">w_03ee6b07-8941-35dc-bfc4-efcf1e3f8a27</identifier>
@@ -126,7 +134,7 @@ Direction et rédacteur en chef J. Sanua Abou Naddara </note>
             <title>1885_0050_012_004.tif</title>
         </titleInfo>
         <part>
-            <detail type="page number" order="4">
+            <detail type="page number">
                 <number>4</number>
             </detail>
         </part>
